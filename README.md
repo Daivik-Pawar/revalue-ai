@@ -163,7 +163,7 @@ in one terminal, `node check_ui.mjs` in another.
 - **Rare spec combinations** barely present in training (e.g. a high-tier CPU paired with integrated-only graphics on a
   model that always ships with a dedicated GPU in the data) can get an unreliable estimate, because the model is
   extrapolating outside what it has seen. The app does not currently detect or flag this case specifically.
-- **Not built:** valuation history, an analytics/admin dashboard, and market-comparison listings — all explicitly
+- **Not built:** valuation history, an analytics/admin dashboard, and market-comparison listings all explicitly
   optional in the original project brief.
 
 ## Compliance with the project's critical rules
