@@ -1,0 +1,24 @@
+{
+  "_note": "Seed spec data for individual CPUs and graphics cards (chip-level facts only). Graphics cards: the 'brand' the user picks is the board maker (ASUS, MSI, Gigabyte, Zotac, etc.); the model below is the GPU chip. Where a chip was sold with more than one memory size or type, every option is listed and the user must choose. Categories without seed data (RAM, SSD, HDD, motherboard, PSU, cooler, cabinet, monitors, keyboards, mice, accessories) use manual specification fields.",
+  "cpus": [
+    {"id": "i5-12400f", "brand": "Intel", "name": "Intel Core i5-12400F", "cores": 6, "threads": 12, "socket": "LGA1700", "integrated_graphics": false},
+    {"id": "i5-13400f", "brand": "Intel", "name": "Intel Core i5-13400F", "cores": 10, "threads": 16, "socket": "LGA1700", "integrated_graphics": false},
+    {"id": "i7-12700k", "brand": "Intel", "name": "Intel Core i7-12700K", "cores": 12, "threads": 20, "socket": "LGA1700", "integrated_graphics": true},
+    {"id": "r5-5600", "brand": "AMD", "name": "AMD Ryzen 5 5600", "cores": 6, "threads": 12, "socket": "AM4", "integrated_graphics": false},
+    {"id": "r5-5600x", "brand": "AMD", "name": "AMD Ryzen 5 5600X", "cores": 6, "threads": 12, "socket": "AM4", "integrated_graphics": false},
+    {"id": "r7-5800x", "brand": "AMD", "name": "AMD Ryzen 7 5800X", "cores": 8, "threads": 16, "socket": "AM4", "integrated_graphics": false},
+    {"id": "r5-7600", "brand": "AMD", "name": "AMD Ryzen 5 7600", "cores": 6, "threads": 12, "socket": "AM5", "integrated_graphics": true},
+    {"id": "r7-7700x", "brand": "AMD", "name": "AMD Ryzen 7 7700X", "cores": 8, "threads": 16, "socket": "AM5", "integrated_graphics": true}
+  ],
+  "gpus": [
+    {"id": "gtx-1650", "chip": "NVIDIA GeForce GTX 1650", "vram_gb": [4], "vram_type": ["GDDR5", "GDDR6"]},
+    {"id": "gtx-1660-super", "chip": "NVIDIA GeForce GTX 1660 Super", "vram_gb": [6], "vram_type": ["GDDR6"]},
+    {"id": "rtx-3050", "chip": "NVIDIA GeForce RTX 3050", "vram_gb": [6, 8], "vram_type": ["GDDR6"]},
+    {"id": "rtx-3060", "chip": "NVIDIA GeForce RTX 3060", "vram_gb": [8, 12], "vram_type": ["GDDR6"]},
+    {"id": "rtx-4060", "chip": "NVIDIA GeForce RTX 4060", "vram_gb": [8], "vram_type": ["GDDR6"]},
+    {"id": "rtx-4060-ti", "chip": "NVIDIA GeForce RTX 4060 Ti", "vram_gb": [8, 16], "vram_type": ["GDDR6"]},
+    {"id": "rx-580", "chip": "AMD Radeon RX 580", "vram_gb": [4, 8], "vram_type": ["GDDR5"]},
+    {"id": "rx-6600", "chip": "AMD Radeon RX 6600", "vram_gb": [8], "vram_type": ["GDDR6"]}
+  ],
+  "gpu_board_brands": ["ASUS", "MSI", "Gigabyte", "Zotac", "Palit", "Inno3D", "Sapphire", "PowerColor", "XFX", "Colorful", "Other"]
+}

@@ -1,0 +1,1401 @@
+row_id,subtype,brand,model_name,spec_tier,capacity,generation,variant,reported_issue,purchase_year,age_years,physical_condition,working_status,repair_history,warranty_available,warranty_left,original_box,purchase_bill,resale_price_inr,price_type,data_source
+1,gpu,Gigabyte,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2022,4,Like new,Works with minor issues,No,No,,Yes,No,5400.0,completed_sale,synthetic_v1
+2,gpu,Sapphire,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,1,2023,3,Like new,Fully working,No,Yes,More than 12 months,No,Yes,9600.0,completed_sale,synthetic_v1
+3,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,5300.0,completed_sale,synthetic_v1
+4,gpu,Sapphire,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,18500.0,completed_sale,synthetic_v1
+5,psu,Cooler Master,,1.0,450,80+ White,,0,2026,0,Fair (visible wear),Fully working,No,No,,No,No,2850.0,completed_sale,synthetic_v1
+6,motherboard,MSI,,2.0,0,LGA1200,ATX,0,2025,1,Like new,Works with minor issues,No,Yes,6 to 12 months,Yes,No,12100.0,completed_sale,synthetic_v1
+7,ssd,Samsung,,3.0,120,NVMe PCIe 4.0,,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,1350.0,completed_sale,synthetic_v1
+8,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2022,4,Fair (visible wear),Not working,No,No,,Yes,Yes,900.0,completed_sale,synthetic_v1
+9,ssd,Crucial,,2.0,240,NVMe PCIe 3.0,,0,2016,10,Good (light wear),Fully working,Yes,No,,No,Yes,200.0,completed_sale,synthetic_v1
+10,psu,Antec,,1.0,850,80+ White,,0,2025,1,Like new,Fully working,No,No,,Yes,No,5100.0,completed_sale,synthetic_v1
+11,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,13200.0,asking,synthetic_v1
+12,gpu,ASUS,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2026,0,Good (light wear),Fully working,No,No,,No,No,31350.0,completed_sale,synthetic_v1
+13,gpu,Gigabyte,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2023,3,Fair (visible wear),Works with minor issues,No,No,,No,No,4050.0,completed_sale,synthetic_v1
+14,cooler,Deepcool,,2.0,0,,AIO 240 mm,0,2023,3,Like new,Fully working,Yes,No,,No,Yes,3650.0,completed_sale,synthetic_v1
+15,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2018,8,Like new,Works with minor issues,No,No,,No,Yes,2850.0,completed_sale,synthetic_v1
+16,ssd,Samsung,,2.0,960,NVMe PCIe 3.0,,1,2025,1,Fair (visible wear),Works with minor issues,No,No,,No,No,2350.0,completed_sale,synthetic_v1
+17,ram,Corsair,,2.0,8,DDR4,DIMM_2x4,0,2025,1,Poor (heavy wear),Works with minor issues,No,No,,Yes,No,1050.0,completed_sale,synthetic_v1
+18,hdd,Seagate,,1.0,1000,5400rpm,,0,2014,12,Poor (heavy wear),Fully working,No,No,,Yes,Yes,150.0,completed_sale,synthetic_v1
+19,ssd,WD,,1.0,960,SATA,,0,2023,3,Good (light wear),Fully working,Yes,No,,No,Yes,2150.0,completed_sale,synthetic_v1
+20,psu,Deepcool,,2.0,650,80+ Bronze,,0,2024,2,Good (light wear),Fully working,Yes,No,,No,No,3700.0,completed_sale,synthetic_v1
+21,ram,Kingston,,1.0,64,DDR3,DIMM_2x32,0,2019,7,Fair (visible wear),Not working,No,No,,Yes,No,750.0,completed_sale,synthetic_v1
+22,psu,Cooler Master,,2.0,850,80+ Bronze,,0,2024,2,Good (light wear),Not working,No,Yes,3 to 6 months,Yes,Yes,1800.0,completed_sale,synthetic_v1
+23,motherboard,ASRock,,3.5,0,AM5,ATX,0,2024,2,Like new,Fully working,No,No,,No,No,18650.0,asking,synthetic_v1
+24,psu,Antec,,2.0,450,80+ Bronze,,0,2024,2,Fair (visible wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,2900.0,completed_sale,synthetic_v1
+25,gpu,ASUS,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2024,2,Fair (visible wear),Works with minor issues,No,Yes,6 to 12 months,Yes,Yes,6000.0,completed_sale,synthetic_v1
+26,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2025,1,Good (light wear),Fully working,No,No,,Yes,Yes,3750.0,completed_sale,synthetic_v1
+27,psu,Cooler Master,,1.0,650,80+ White,,0,2026,0,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,4300.0,completed_sale,synthetic_v1
+28,ssd,Adata,,2.0,256,NVMe PCIe 3.0,,0,2024,2,Like new,Fully working,No,No,,No,Yes,1300.0,completed_sale,synthetic_v1
+29,ssd,Kingston,,2.0,1000,NVMe PCIe 3.0,,0,2021,5,Poor (heavy wear),Fully working,Yes,No,,Yes,No,1350.0,asking,synthetic_v1
+30,gpu,Gigabyte,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,No,No,,No,No,20800.0,completed_sale,synthetic_v1
+31,psu,Corsair,,2.0,550,80+ Bronze,,0,2022,4,Poor (heavy wear),Fully working,No,No,,Yes,Yes,1850.0,completed_sale,synthetic_v1
+32,ram,Corsair,,3.0,8,DDR5,SO-DIMM_1x8,0,2026,0,Like new,Fully working,No,Yes,6 to 12 months,No,No,3850.0,completed_sale,synthetic_v1
+33,ssd,WD,,2.0,120,NVMe PCIe 3.0,,0,2017,9,Good (light wear),Fully working,No,No,,No,Yes,150.0,asking,synthetic_v1
+34,ssd,Adata,,1.0,960,SATA,,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,No,Yes,4800.0,completed_sale,synthetic_v1
+35,ssd,Adata,,2.0,2000,NVMe PCIe 3.0,,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,7850.0,completed_sale,synthetic_v1
+36,psu,Corsair,,2.0,850,80+ Bronze,,0,2023,3,Fair (visible wear),Not working,No,No,,Yes,No,1400.0,asking,synthetic_v1
+37,cooler,Cooler Master,,2.0,0,,AIO 240 mm,0,2019,7,Fair (visible wear),Not working,Yes,No,,Yes,Yes,500.0,completed_sale,synthetic_v1
+38,cabinet,NZXT,,2.0,0,,Mid tower,0,2025,1,Good (light wear),Fully working,No,No,,Yes,Yes,4050.0,completed_sale,synthetic_v1
+39,ram,Adata,,1.0,32,DDR3,DIMM_2x16,0,2019,7,Good (light wear),Fully working,No,No,,Yes,Yes,1350.0,completed_sale,synthetic_v1
+40,ram,Corsair,,2.0,32,DDR4,DIMM_1x32,0,2023,3,Good (light wear),Fully working,No,No,,No,No,4650.0,completed_sale,synthetic_v1
+41,motherboard,Gigabyte,,2.0,0,AM4,ATX,0,2022,4,Fair (visible wear),Not working,No,No,,No,No,1950.0,completed_sale,synthetic_v1
+42,cabinet,Deepcool,,3.0,0,,Full tower,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,6550.0,completed_sale,synthetic_v1
+43,gpu,Palit,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2018,8,Poor (heavy wear),Fully working,Yes,No,,Yes,No,4300.0,completed_sale,synthetic_v1
+44,gpu,XFX,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2021,5,Fair (visible wear),Works with minor issues,No,No,,Yes,No,4600.0,completed_sale,synthetic_v1
+45,psu,Cooler Master,,1.0,850,80+ White,,0,2026,0,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,5650.0,completed_sale,synthetic_v1
+46,gpu,XFX,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,14250.0,asking,synthetic_v1
+47,ram,Adata,,3.0,4,DDR5,SO-DIMM_1x4,0,2022,4,Like new,Fully working,No,No,,No,Yes,750.0,completed_sale,synthetic_v1
+48,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2021,5,Poor (heavy wear),Works with minor issues,No,No,,Yes,Yes,2200.0,completed_sale,synthetic_v1
+49,gpu,Zotac,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,0,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,4800.0,completed_sale,synthetic_v1
+50,motherboard,Gigabyte,,3.0,0,LGA1700,ATX,0,2021,5,Poor (heavy wear),Works with minor issues,Yes,No,,No,No,4050.0,completed_sale,synthetic_v1
+51,ram,Adata,,3.0,32,DDR5,DIMM_2x16,0,2019,7,Good (light wear),Works with minor issues,Yes,No,,Yes,Yes,2350.0,completed_sale,synthetic_v1
+52,ssd,Kingston,,3.0,480,NVMe PCIe 4.0,,0,2023,3,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,Yes,1550.0,completed_sale,synthetic_v1
+53,gpu,ASUS,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,1,2025,1,Like new,Fully working,Yes,No,,No,No,39000.0,asking,synthetic_v1
+54,gpu,Sapphire,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,heavily_mined,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,4350.0,asking,synthetic_v1
+55,ssd,Adata,,1.0,480,SATA,,0,2021,5,Poor (heavy wear),Fully working,No,No,,Yes,No,550.0,completed_sale,synthetic_v1
+56,ram,Adata,,1.0,32,DDR3,SO-DIMM_1x32,0,2021,5,Good (light wear),Fully working,No,No,,Yes,Yes,2000.0,completed_sale,synthetic_v1
+57,gpu,ASUS,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2023,3,Fair (visible wear),Fully working,No,No,,No,Yes,21000.0,completed_sale,synthetic_v1
+58,gpu,Palit,AMD Radeon RX 580,1.7,4,GDDR5,normal_use,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,6500.0,completed_sale,synthetic_v1
+59,cooler,Deepcool,,3.0,0,,AIO 360 mm,0,2024,2,Good (light wear),Fully working,Yes,No,,No,No,6800.0,completed_sale,synthetic_v1
+60,ssd,Crucial,,1.0,512,SATA,,0,2024,2,Fair (visible wear),Fully working,No,No,,No,Yes,1350.0,completed_sale,synthetic_v1
+61,ram,G.Skill,,1.0,64,DDR3,DIMM_2x32,0,2026,0,Like new,Fully working,No,Yes,3 to 6 months,Yes,Yes,16950.0,asking,synthetic_v1
+62,hdd,Toshiba,,1.3,2000,7200rpm,,1,2021,5,Like new,Fully working,No,No,,No,No,1100.0,completed_sale,synthetic_v1
+63,ssd,Crucial,,1.0,1000,SATA,,1,2018,8,Good (light wear),Fully working,No,No,,No,No,550.0,completed_sale,synthetic_v1
+64,gpu,Zotac,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2015,11,Good (light wear),Fully working,No,No,,No,Yes,4450.0,completed_sale,synthetic_v1
+65,ram,Kingston,,2.0,64,DDR4,SO-DIMM_2x32,0,2022,4,Like new,Not working,No,No,,Yes,Yes,3800.0,asking,synthetic_v1
+66,motherboard,ASUS,,2.0,0,LGA1200,Mini-ITX,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,6300.0,completed_sale,synthetic_v1
+67,gpu,Sapphire,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,1,2026,0,Like new,Fully working,No,Yes,3 to 6 months,No,No,12500.0,completed_sale,synthetic_v1
+68,ram,Corsair,,2.0,32,DDR4,DIMM_2x16,0,2021,5,Like new,Fully working,No,No,,No,No,3100.0,completed_sale,synthetic_v1
+69,motherboard,Gigabyte,,2.0,0,AM4,ATX,0,2020,6,Like new,Fully working,No,No,,No,No,5050.0,completed_sale,synthetic_v1
+70,psu,Corsair,,2.0,450,80+ Bronze,,0,2017,9,Fair (visible wear),Not working,No,No,,No,No,300.0,completed_sale,synthetic_v1
+71,gpu,XFX,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2024,2,Fair (visible wear),Fully working,Yes,No,,No,No,19650.0,completed_sale,synthetic_v1
+72,motherboard,ASRock,,2.0,0,AM4,ATX,0,2018,8,Fair (visible wear),Fully working,No,No,,Yes,Yes,2650.0,completed_sale,synthetic_v1
+73,ram,Adata,,3.0,4,DDR5,SO-DIMM_1x4,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,1200.0,completed_sale,synthetic_v1
+74,psu,Deepcool,,2.0,450,80+ Bronze,,0,2026,0,Good (light wear),Fully working,No,No,,No,Yes,4650.0,completed_sale,synthetic_v1
+75,cabinet,NZXT,,2.0,0,,Mid tower,1,2023,3,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,2500.0,completed_sale,synthetic_v1
+76,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2023,3,Good (light wear),Fully working,No,No,,No,No,13650.0,completed_sale,synthetic_v1
+77,ssd,Crucial,,1.0,256,SATA,,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,850.0,completed_sale,synthetic_v1
+78,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2021,5,Fair (visible wear),Fully working,No,No,,No,Yes,8400.0,completed_sale,synthetic_v1
+79,ram,Kingston,,2.0,64,DDR4,DIMM_2x32,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,14300.0,completed_sale,synthetic_v1
+80,cabinet,NZXT,,2.0,0,,Mid tower,0,2025,1,Like new,Fully working,Yes,No,,No,No,3800.0,completed_sale,synthetic_v1
+81,ssd,Adata,,3.0,120,NVMe PCIe 4.0,,0,2019,7,Like new,Works with minor issues,No,No,,No,Yes,250.0,completed_sale,synthetic_v1
+82,gpu,ASUS,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2022,4,Poor (heavy wear),Fully working,No,No,,Yes,Yes,11800.0,completed_sale,synthetic_v1
+83,ssd,Samsung,,1.0,240,SATA,,0,2023,3,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,Yes,700.0,completed_sale,synthetic_v1
+84,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2021,5,Good (light wear),Fully working,No,No,,Yes,Yes,4550.0,completed_sale,synthetic_v1
+85,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,10350.0,completed_sale,synthetic_v1
+86,ssd,WD,,1.0,2000,SATA,,0,2022,4,Good (light wear),Fully working,Yes,No,,Yes,No,3450.0,completed_sale,synthetic_v1
+87,psu,Cosmic Byte,,2.0,750,80+ Bronze,,0,2017,9,Fair (visible wear),Works with minor issues,No,No,,Yes,No,950.0,completed_sale,synthetic_v1
+88,cooler,Cooler Master,,2.0,0,,AIO 240 mm,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,2400.0,completed_sale,synthetic_v1
+89,hdd,Seagate,,1.3,4000,7200rpm,,0,2024,2,Fair (visible wear),Fully working,No,No,,No,Yes,5300.0,completed_sale,synthetic_v1
+90,ram,Corsair,,3.0,32,DDR5,DIMM_2x16,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,6600.0,completed_sale,synthetic_v1
+91,gpu,ASUS,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,16300.0,completed_sale,synthetic_v1
+92,ssd,Kingston,,2.0,120,NVMe PCIe 3.0,,0,2024,2,Poor (heavy wear),Not working,No,No,,No,Yes,200.0,completed_sale,synthetic_v1
+93,cooler,Deepcool,,1.0,0,,Air cooler,0,2020,6,Fair (visible wear),Fully working,No,No,,No,Yes,650.0,asking,synthetic_v1
+94,psu,Antec,,2.0,650,80+ Bronze,,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,4100.0,completed_sale,synthetic_v1
+95,ram,Crucial,,2.0,64,DDR4,DIMM_2x32,0,2025,1,Like new,Fully working,No,No,,No,No,15900.0,completed_sale,synthetic_v1
+96,hdd,Seagate,,1.3,2000,7200rpm,,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,No,Yes,6050.0,completed_sale,synthetic_v1
+97,hdd,Toshiba,,1.3,500,7200rpm,,0,2020,6,Fair (visible wear),Fully working,No,No,,No,Yes,400.0,completed_sale,synthetic_v1
+98,ram,Corsair,,2.0,32,DDR4,SO-DIMM_2x16,0,2026,0,Good (light wear),Fully working,No,No,,No,Yes,9550.0,completed_sale,synthetic_v1
+99,gpu,Zotac,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2017,9,Good (light wear),Fully working,Yes,No,,Yes,Yes,2650.0,asking,synthetic_v1
+100,hdd,Toshiba,,1.3,1000,7200rpm,,0,2022,4,Good (light wear),Not working,No,No,,Yes,No,400.0,completed_sale,synthetic_v1
+101,cooler,Deepcool,,1.0,0,,Air cooler,1,2022,4,Like new,Fully working,No,No,,Yes,No,900.0,completed_sale,synthetic_v1
+102,ssd,Adata,,2.0,512,NVMe PCIe 3.0,,0,2025,1,Like new,Fully working,No,No,,No,Yes,2350.0,completed_sale,synthetic_v1
+103,ram,Crucial,,2.0,32,DDR4,DIMM_1x32,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,7500.0,completed_sale,synthetic_v1
+104,gpu,Palit,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2020,6,Fair (visible wear),Fully working,No,No,,Yes,No,8600.0,completed_sale,synthetic_v1
+105,gpu,Palit,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,heavily_mined,0,2025,1,Like new,Works with minor issues,No,Yes,Under 3 months,No,No,24050.0,completed_sale,synthetic_v1
+106,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2022,4,Good (light wear),Fully working,Yes,No,,No,No,5600.0,completed_sale,synthetic_v1
+107,ssd,Samsung,,3.0,120,NVMe PCIe 4.0,,0,2020,6,Good (light wear),Fully working,Yes,No,,Yes,No,350.0,completed_sale,synthetic_v1
+108,cooler,Deepcool,,3.0,0,,AIO 360 mm,0,2017,9,Good (light wear),Fully working,Yes,No,,Yes,No,1450.0,asking,synthetic_v1
+109,gpu,Palit,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2023,3,Like new,Fully working,No,No,,No,No,6900.0,asking,synthetic_v1
+110,gpu,ASUS,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,heavily_mined,0,2023,3,Like new,Fully working,No,No,,No,No,19300.0,completed_sale,synthetic_v1
+111,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2025,1,Like new,Works with minor issues,Yes,No,,No,Yes,8800.0,completed_sale,synthetic_v1
+112,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2025,1,Like new,Fully working,Yes,Yes,3 to 6 months,No,Yes,9900.0,completed_sale,synthetic_v1
+113,gpu,Gigabyte,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2022,4,Like new,Fully working,Yes,No,,No,Yes,8150.0,completed_sale,synthetic_v1
+114,cabinet,Ant Esports,,3.0,0,,Full tower,0,2022,4,Good (light wear),Fully working,No,No,,No,No,5150.0,completed_sale,synthetic_v1
+115,motherboard,ASRock,,2.0,0,AM4,Micro-ATX,0,2024,2,Good (light wear),Works with minor issues,No,Yes,Under 3 months,No,No,8800.0,completed_sale,synthetic_v1
+116,hdd,Toshiba,,1.0,320,5400rpm,,0,2018,8,Good (light wear),Fully working,No,No,,No,No,200.0,completed_sale,synthetic_v1
+117,psu,Cooler Master,,2.0,450,80+ Bronze,,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,2700.0,completed_sale,synthetic_v1
+118,hdd,Seagate,,1.3,1000,7200rpm,,0,2026,0,Like new,Fully working,No,Yes,6 to 12 months,Yes,Yes,3800.0,completed_sale,synthetic_v1
+119,ssd,WD,,3.0,480,NVMe PCIe 4.0,,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,1300.0,asking,synthetic_v1
+120,ssd,Adata,,1.0,960,SATA,,0,2019,7,Like new,Works with minor issues,No,No,,Yes,No,850.0,completed_sale,synthetic_v1
+121,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2018,8,Like new,Fully working,No,No,,Yes,Yes,1750.0,completed_sale,synthetic_v1
+122,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2024,2,Good (light wear),Fully working,Yes,No,,No,No,13700.0,completed_sale,synthetic_v1
+123,motherboard,MSI,,3.0,0,LGA1700,ATX,0,2026,0,Good (light wear),Fully working,No,No,,No,No,17800.0,completed_sale,synthetic_v1
+124,hdd,Seagate,,1.3,1000,7200rpm,,0,2021,5,Fair (visible wear),Works with minor issues,No,No,,No,Yes,500.0,completed_sale,synthetic_v1
+125,ssd,Adata,,2.0,120,NVMe PCIe 3.0,,0,2021,5,Fair (visible wear),Fully working,Yes,No,,No,Yes,350.0,completed_sale,synthetic_v1
+126,motherboard,Gigabyte,,2.0,0,LGA1200,ATX,0,2024,2,Like new,Not working,No,Yes,Under 3 months,Yes,No,3650.0,completed_sale,synthetic_v1
+127,hdd,WD,,1.3,1000,7200rpm,,0,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,3250.0,completed_sale,synthetic_v1
+128,ram,Crucial,,2.0,32,DDR4,SO-DIMM_1x32,0,2022,4,Poor (heavy wear),Fully working,No,No,,Yes,Yes,2450.0,completed_sale,synthetic_v1
+129,hdd,Seagate,,1.3,1000,7200rpm,,0,2025,1,Poor (heavy wear),Fully working,No,Yes,3 to 6 months,Yes,No,1600.0,completed_sale,synthetic_v1
+130,motherboard,ASRock,,2.0,0,AM4,Micro-ATX,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,7850.0,completed_sale,synthetic_v1
+131,gpu,Gigabyte,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,15850.0,completed_sale,synthetic_v1
+132,motherboard,ASRock,,2.0,0,AM4,ATX,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,9300.0,completed_sale,synthetic_v1
+133,ssd,WD,,1.0,480,SATA,,0,2023,3,Like new,Not working,No,No,,Yes,No,450.0,completed_sale,synthetic_v1
+134,gpu,XFX,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,No,,Yes,Yes,20000.0,completed_sale,synthetic_v1
+135,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2025,1,Like new,Works with minor issues,No,Yes,6 to 12 months,Yes,No,13300.0,completed_sale,synthetic_v1
+136,gpu,Gigabyte,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,28350.0,completed_sale,synthetic_v1
+137,expansion_card,TP-Link,,1.0,0,,Wi-Fi card,0,2024,2,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,1200.0,completed_sale,synthetic_v1
+138,psu,Cosmic Byte,,2.0,750,80+ Bronze,,0,2022,4,Like new,Fully working,No,No,,No,Yes,3250.0,completed_sale,synthetic_v1
+139,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2022,4,Good (light wear),Fully working,No,No,,No,No,8850.0,completed_sale,synthetic_v1
+140,ssd,Adata,,1.0,256,SATA,,0,2026,0,Like new,Fully working,No,Yes,More than 12 months,No,Yes,1750.0,completed_sale,synthetic_v1
+141,expansion_card,ASUS,,1.0,0,,Wi-Fi card,0,2025,1,Like new,Fully working,No,No,,Yes,Yes,1500.0,completed_sale,synthetic_v1
+142,motherboard,Gigabyte,,3.0,0,LGA1700,ATX,0,2019,7,Fair (visible wear),Works with minor issues,No,No,,No,No,4200.0,asking,synthetic_v1
+143,hdd,Toshiba,,1.3,4000,7200rpm,,0,2025,1,Good (light wear),Fully working,No,No,,No,Yes,7700.0,completed_sale,synthetic_v1
+144,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2025,1,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,Yes,800.0,completed_sale,synthetic_v1
+145,motherboard,MSI,,2.0,0,LGA1200,Micro-ATX,0,2026,0,Good (light wear),Fully working,No,No,,No,No,16150.0,asking,synthetic_v1
+146,ssd,Crucial,,1.0,2000,SATA,,0,2020,6,Good (light wear),Fully working,No,No,,No,No,2400.0,completed_sale,synthetic_v1
+147,motherboard,ASUS,,3.0,0,LGA1700,Micro-ATX,0,2021,5,Like new,Fully working,No,No,,Yes,No,8000.0,completed_sale,synthetic_v1
+148,gpu,Palit,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,Yes,29500.0,completed_sale,synthetic_v1
+149,psu,Antec,,2.0,450,80+ Bronze,,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,3000.0,completed_sale,synthetic_v1
+150,ssd,WD,,3.0,240,NVMe PCIe 4.0,,0,2025,1,Good (light wear),Works with minor issues,Yes,No,,No,Yes,1450.0,asking,synthetic_v1
+151,cooler,Deepcool,,1.0,0,,Air cooler,0,2023,3,Good (light wear),Fully working,No,No,,No,No,1300.0,asking,synthetic_v1
+152,gpu,Sapphire,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2015,11,Poor (heavy wear),Fully working,Yes,No,,No,No,1850.0,completed_sale,synthetic_v1
+153,motherboard,ASRock,,2.0,0,LGA1200,ATX,0,2021,5,Poor (heavy wear),Not working,No,No,,Yes,No,1650.0,asking,synthetic_v1
+154,gpu,ASUS,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,heavily_mined,0,2024,2,Poor (heavy wear),Fully working,No,Yes,3 to 6 months,Yes,No,10650.0,completed_sale,synthetic_v1
+155,ram,Adata,,2.0,64,DDR4,DIMM_2x32,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,14100.0,asking,synthetic_v1
+156,cooler,Cooler Master,,1.0,0,,Air cooler,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,2800.0,asking,synthetic_v1
+157,motherboard,ASRock,,3.5,0,AM5,Micro-ATX,0,2025,1,Like new,Fully working,No,No,,Yes,Yes,18200.0,completed_sale,synthetic_v1
+158,cooler,Deepcool,,1.0,0,,Air cooler,0,2022,4,Like new,Works with minor issues,No,No,,No,No,850.0,completed_sale,synthetic_v1
+159,cooler,Deepcool,,1.0,0,,Air cooler,0,2024,2,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,1450.0,completed_sale,synthetic_v1
+160,gpu,Sapphire,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2024,2,Like new,Fully working,No,No,,No,No,17300.0,completed_sale,synthetic_v1
+161,ssd,Adata,,2.0,480,NVMe PCIe 3.0,,0,2022,4,Like new,Fully working,No,No,,No,Yes,1500.0,completed_sale,synthetic_v1
+162,ram,Corsair,,3.0,16,DDR5,DIMM_1x16,0,2022,4,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,2550.0,asking,synthetic_v1
+163,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2023,3,Like new,Fully working,No,No,,Yes,No,11000.0,completed_sale,synthetic_v1
+164,psu,Cosmic Byte,,3.0,550,80+ Gold,,0,2024,2,Like new,Fully working,No,No,,No,No,4950.0,completed_sale,synthetic_v1
+165,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2025,1,Fair (visible wear),Fully working,Yes,No,,No,No,13050.0,completed_sale,synthetic_v1
+166,cooler,Corsair,,2.0,0,,AIO 240 mm,0,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,4400.0,completed_sale,synthetic_v1
+167,gpu,Sapphire,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,Yes,No,,Yes,Yes,7600.0,completed_sale,synthetic_v1
+168,ssd,Adata,,2.0,960,NVMe PCIe 3.0,,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,2650.0,completed_sale,synthetic_v1
+169,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,9100.0,completed_sale,synthetic_v1
+170,ram,Adata,,2.0,32,DDR4,SO-DIMM_1x32,0,2026,0,Good (light wear),Not working,No,Yes,6 to 12 months,No,No,3150.0,completed_sale,synthetic_v1
+171,motherboard,ASRock,,2.0,0,AM4,Micro-ATX,0,2023,3,Like new,Fully working,No,No,,No,No,8000.0,completed_sale,synthetic_v1
+172,ram,Corsair,,2.0,32,DDR4,DIMM_1x32,0,2015,11,Fair (visible wear),Fully working,No,No,,No,No,1200.0,asking,synthetic_v1
+173,ram,Kingston,,1.0,8,DDR3,SO-DIMM_1x8,0,2026,0,Like new,Fully working,No,Yes,More than 12 months,No,Yes,1900.0,completed_sale,synthetic_v1
+174,cooler,Cooler Master,,1.0,0,,Air cooler,0,2024,2,Like new,Fully working,No,No,,No,Yes,1750.0,completed_sale,synthetic_v1
+175,ram,G.Skill,,1.0,32,DDR3,SO-DIMM_2x16,0,2026,0,Like new,Fully working,No,Yes,More than 12 months,No,Yes,7400.0,completed_sale,synthetic_v1
+176,cabinet,Deepcool,,2.0,0,,Mid tower,1,2022,4,Good (light wear),Fully working,No,No,,No,Yes,2200.0,completed_sale,synthetic_v1
+177,ssd,Adata,,1.0,1000,SATA,,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,3700.0,completed_sale,synthetic_v1
+178,gpu,Zotac,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,14850.0,completed_sale,synthetic_v1
+179,ram,Crucial,,2.0,8,DDR4,DIMM_1x8,0,2026,0,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,Yes,2050.0,completed_sale,synthetic_v1
+180,psu,Cosmic Byte,,3.0,550,80+ Gold,,0,2020,6,Like new,Fully working,Yes,No,,No,Yes,2050.0,completed_sale,synthetic_v1
+181,psu,Antec,,3.0,750,80+ Gold,,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,5150.0,completed_sale,synthetic_v1
+182,psu,Antec,,2.0,450,80+ Bronze,,0,2026,0,Like new,Not working,No,No,,Yes,Yes,1750.0,completed_sale,synthetic_v1
+183,cabinet,NZXT,,2.0,0,,Mid tower,0,2025,1,Poor (heavy wear),Fully working,No,Yes,6 to 12 months,No,Yes,2950.0,completed_sale,synthetic_v1
+184,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2020,6,Fair (visible wear),Fully working,No,No,,No,No,6600.0,completed_sale,synthetic_v1
+185,psu,Cooler Master,,2.0,550,80+ Bronze,,0,2022,4,Good (light wear),Fully working,No,No,,No,No,2350.0,completed_sale,synthetic_v1
+186,hdd,Toshiba,,1.0,500,5400rpm,,0,2021,5,Poor (heavy wear),Fully working,No,No,,Yes,No,400.0,completed_sale,synthetic_v1
+187,hdd,WD,,1.3,320,7200rpm,,0,2021,5,Good (light wear),Fully working,No,No,,No,No,550.0,asking,synthetic_v1
+188,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2024,2,Poor (heavy wear),Fully working,No,Yes,3 to 6 months,No,No,13500.0,completed_sale,synthetic_v1
+189,psu,Corsair,,2.0,650,80+ Bronze,,0,2026,0,Like new,Works with minor issues,Yes,Yes,More than 12 months,No,Yes,5350.0,completed_sale,synthetic_v1
+190,ssd,Kingston,,1.0,240,SATA,,0,2019,7,Good (light wear),Fully working,No,No,,No,No,350.0,completed_sale,synthetic_v1
+191,gpu,MSI,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,13550.0,completed_sale,synthetic_v1
+192,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2024,2,Like new,Fully working,No,Yes,Under 3 months,No,Yes,13300.0,completed_sale,synthetic_v1
+193,ram,Crucial,,1.0,16,DDR3,SO-DIMM_2x8,0,2024,2,Like new,Fully working,No,No,,No,Yes,2050.0,completed_sale,synthetic_v1
+194,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,Yes,No,12550.0,completed_sale,synthetic_v1
+195,motherboard,ASUS,,2.0,0,AM4,Micro-ATX,0,2023,3,Fair (visible wear),Not working,No,No,,Yes,No,2400.0,completed_sale,synthetic_v1
+196,gpu,ASUS,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2021,5,Good (light wear),Fully working,Yes,No,,Yes,Yes,6600.0,completed_sale,synthetic_v1
+197,gpu,ASUS,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,No,12700.0,completed_sale,synthetic_v1
+198,hdd,Seagate,,1.0,4000,5400rpm,,0,2021,5,Good (light wear),Not working,No,No,,Yes,Yes,900.0,asking,synthetic_v1
+199,gpu,Zotac,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,13500.0,completed_sale,synthetic_v1
+200,cabinet,Cooler Master,,1.0,0,,Micro-ATX,0,2017,9,Good (light wear),Works with minor issues,Yes,No,,Yes,No,700.0,completed_sale,synthetic_v1
+201,ram,Corsair,,2.0,32,DDR4,SO-DIMM_2x16,0,2026,0,Fair (visible wear),Fully working,No,No,,No,No,7800.0,completed_sale,synthetic_v1
+202,gpu,MSI,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,1,2020,6,Good (light wear),Fully working,No,No,,No,No,5900.0,completed_sale,synthetic_v1
+203,gpu,Palit,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2022,4,Poor (heavy wear),Not working,No,No,,No,No,2800.0,completed_sale,synthetic_v1
+204,ram,Adata,,2.0,64,DDR4,SO-DIMM_2x32,0,2016,10,Fair (visible wear),Fully working,No,No,,Yes,No,2000.0,completed_sale,synthetic_v1
+205,ssd,Kingston,,3.0,240,NVMe PCIe 4.0,,0,2018,8,Like new,Works with minor issues,No,No,,No,No,350.0,asking,synthetic_v1
+206,motherboard,ASUS,,3.0,0,LGA1700,ATX,0,2025,1,Good (light wear),Fully working,No,No,,No,Yes,16350.0,completed_sale,synthetic_v1
+207,hdd,Seagate,,1.0,2000,5400rpm,,0,2024,2,Fair (visible wear),Works with minor issues,No,No,,No,No,2550.0,completed_sale,synthetic_v1
+208,cooler,Deepcool,,2.0,0,,AIO 240 mm,0,2025,1,Like new,Fully working,No,No,,No,No,6200.0,completed_sale,synthetic_v1
+209,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,20350.0,completed_sale,synthetic_v1
+210,ram,Adata,,2.0,8,DDR4,SO-DIMM_1x8,0,2020,6,Like new,Fully working,Yes,No,,No,No,550.0,completed_sale,synthetic_v1
+211,ssd,Samsung,,2.0,240,NVMe PCIe 3.0,,0,2024,2,Poor (heavy wear),Fully working,No,Yes,Under 3 months,No,No,800.0,completed_sale,synthetic_v1
+212,gpu,ASUS,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2025,1,Good (light wear),Works with minor issues,No,Yes,More than 12 months,Yes,No,8250.0,completed_sale,synthetic_v1
+213,gpu,Sapphire,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2021,5,Fair (visible wear),Fully working,No,No,,Yes,No,5950.0,completed_sale,synthetic_v1
+214,ssd,Adata,,1.0,120,SATA,,0,2025,1,Like new,Fully working,No,No,,No,No,900.0,asking,synthetic_v1
+215,ssd,Adata,,3.0,960,NVMe PCIe 4.0,,0,2025,1,Like new,Fully working,No,No,,Yes,Yes,5450.0,completed_sale,synthetic_v1
+216,hdd,Seagate,,1.3,1000,7200rpm,,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,Yes,No,3400.0,completed_sale,synthetic_v1
+217,cooler,Deepcool,,2.0,0,,AIO 240 mm,0,2022,4,Like new,Fully working,No,No,,Yes,No,3000.0,completed_sale,synthetic_v1
+218,ram,G.Skill,,1.0,64,DDR3,DIMM_2x32,0,2026,0,Poor (heavy wear),Fully working,No,Yes,Under 3 months,Yes,Yes,8350.0,completed_sale,synthetic_v1
+219,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2022,4,Poor (heavy wear),Fully working,No,No,,Yes,Yes,6000.0,completed_sale,synthetic_v1
+220,psu,Corsair,,2.0,750,80+ Bronze,,0,2023,3,Fair (visible wear),Fully working,No,Yes,More than 12 months,Yes,Yes,3650.0,completed_sale,synthetic_v1
+221,hdd,WD,,1.0,320,5400rpm,,1,2020,6,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,200.0,completed_sale,synthetic_v1
+222,cooler,Noctua,,3.0,0,,AIO 360 mm,0,2025,1,Poor (heavy wear),Fully working,No,No,,Yes,No,6000.0,completed_sale,synthetic_v1
+223,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2021,5,Like new,Fully working,No,No,,Yes,No,5050.0,completed_sale,synthetic_v1
+224,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2021,5,Fair (visible wear),Fully working,No,No,,No,No,3950.0,asking,synthetic_v1
+225,psu,Cosmic Byte,,1.0,750,80+ White,,0,2026,0,Like new,Fully working,Yes,Yes,6 to 12 months,No,No,5400.0,completed_sale,synthetic_v1
+226,psu,Cosmic Byte,,2.0,750,80+ Bronze,,0,2021,5,Like new,Fully working,No,No,,Yes,No,2450.0,completed_sale,synthetic_v1
+227,gpu,Zotac,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,No,18650.0,completed_sale,synthetic_v1
+228,cooler,Noctua,,1.0,0,,Air cooler,0,2025,1,Good (light wear),Fully working,No,No,,No,No,2100.0,asking,synthetic_v1
+229,gpu,Palit,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,10450.0,completed_sale,synthetic_v1
+230,motherboard,MSI,,3.5,0,AM5,ATX,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,8800.0,completed_sale,synthetic_v1
+231,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,7750.0,asking,synthetic_v1
+232,ssd,Crucial,,2.0,240,NVMe PCIe 3.0,,0,2024,2,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,1100.0,completed_sale,synthetic_v1
+233,ssd,WD,,3.0,240,NVMe PCIe 4.0,,0,2021,5,Fair (visible wear),Fully working,No,No,,No,No,550.0,completed_sale,synthetic_v1
+234,motherboard,MSI,,2.0,0,AM4,Micro-ATX,0,2024,2,Fair (visible wear),Fully working,No,Yes,3 to 6 months,Yes,No,9500.0,asking,synthetic_v1
+235,psu,Cosmic Byte,,3.0,550,80+ Gold,,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,No,5550.0,completed_sale,synthetic_v1
+236,ram,Kingston,,2.0,16,DDR4,DIMM_1x16,0,2025,1,Good (light wear),Not working,No,Yes,6 to 12 months,Yes,Yes,1400.0,completed_sale,synthetic_v1
+237,gpu,ASUS,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2022,4,Poor (heavy wear),Works with minor issues,No,No,,No,No,7600.0,asking,synthetic_v1
+238,ssd,Adata,,1.0,256,SATA,,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,950.0,asking,synthetic_v1
+239,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2024,2,Like new,Not working,No,No,,No,Yes,6950.0,completed_sale,synthetic_v1
+240,ssd,Samsung,,1.0,960,SATA,,0,2017,9,Fair (visible wear),Works with minor issues,No,No,,No,Yes,400.0,completed_sale,synthetic_v1
+241,expansion_card,ASUS,,1.0,0,,Wi-Fi card,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,950.0,completed_sale,synthetic_v1
+242,hdd,WD,,1.3,1000,7200rpm,,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,3500.0,asking,synthetic_v1
+243,ssd,Kingston,,1.0,960,SATA,,0,2023,3,Fair (visible wear),Not working,No,No,,Yes,No,750.0,asking,synthetic_v1
+244,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2020,6,Poor (heavy wear),Works with minor issues,No,No,,Yes,Yes,250.0,completed_sale,synthetic_v1
+245,gpu,XFX,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2018,8,Fair (visible wear),Fully working,No,No,,Yes,Yes,3100.0,completed_sale,synthetic_v1
+246,gpu,Zotac,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,0,2023,3,Poor (heavy wear),Fully working,No,Yes,3 to 6 months,No,No,5000.0,completed_sale,synthetic_v1
+247,gpu,ASUS,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,1,2024,2,Fair (visible wear),Fully working,No,No,,No,No,8450.0,completed_sale,synthetic_v1
+248,ssd,Kingston,,2.0,512,NVMe PCIe 3.0,,0,2022,4,Good (light wear),Fully working,Yes,No,,No,No,1250.0,completed_sale,synthetic_v1
+249,expansion_card,TP-Link,,1.0,0,,Wi-Fi card,0,2026,0,Fair (visible wear),Fully working,No,No,,Yes,Yes,1450.0,completed_sale,synthetic_v1
+250,ram,G.Skill,,3.0,32,DDR5,DIMM_1x32,0,2026,0,Good (light wear),Fully working,Yes,Yes,More than 12 months,No,Yes,14150.0,completed_sale,synthetic_v1
+251,gpu,XFX,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2026,0,Good (light wear),Fully working,Yes,Yes,3 to 6 months,No,No,43200.0,completed_sale,synthetic_v1
+252,cooler,Corsair,,2.0,0,,AIO 240 mm,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,6100.0,completed_sale,synthetic_v1
+253,expansion_card,TP-Link,,1.0,0,,Sound card,0,2024,2,Fair (visible wear),Fully working,No,No,,No,Yes,1150.0,completed_sale,synthetic_v1
+254,gpu,Gigabyte,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,24050.0,completed_sale,synthetic_v1
+255,gpu,Sapphire,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,15550.0,asking,synthetic_v1
+256,gpu,Sapphire,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,Yes,Yes,Under 3 months,Yes,Yes,10150.0,completed_sale,synthetic_v1
+257,expansion_card,TP-Link,,1.0,0,,Ethernet card,0,2024,2,Like new,Fully working,No,No,,No,Yes,750.0,completed_sale,synthetic_v1
+258,motherboard,ASUS,,2.0,0,LGA1200,ATX,0,2026,0,Like new,Not working,No,No,,No,No,6000.0,completed_sale,synthetic_v1
+259,ssd,Crucial,,2.0,960,NVMe PCIe 3.0,,0,2024,2,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,3300.0,completed_sale,synthetic_v1
+260,gpu,Gigabyte,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2021,5,Fair (visible wear),Fully working,No,No,,No,No,4750.0,completed_sale,synthetic_v1
+261,motherboard,Gigabyte,,2.0,0,LGA1200,Micro-ATX,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,12100.0,completed_sale,synthetic_v1
+262,gpu,ASUS,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2025,1,Fair (visible wear),Not working,No,No,,No,Yes,5250.0,completed_sale,synthetic_v1
+263,cooler,Noctua,,2.0,0,,AIO 240 mm,0,2023,3,Like new,Works with minor issues,No,Yes,Under 3 months,No,No,3500.0,completed_sale,synthetic_v1
+264,hdd,WD,,1.0,2000,5400rpm,,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,1800.0,completed_sale,synthetic_v1
+265,psu,Antec,,1.0,850,80+ White,,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,2500.0,completed_sale,synthetic_v1
+266,ssd,Kingston,,2.0,2000,NVMe PCIe 3.0,,0,2026,0,Fair (visible wear),Fully working,No,No,,No,No,9850.0,asking,synthetic_v1
+267,cooler,Deepcool,,1.0,0,,Air cooler,0,2025,1,Poor (heavy wear),Not working,No,Yes,More than 12 months,No,No,500.0,completed_sale,synthetic_v1
+268,ram,Crucial,,2.0,16,DDR4,SO-DIMM_2x8,0,2021,5,Like new,Not working,No,No,,No,Yes,600.0,completed_sale,synthetic_v1
+269,motherboard,ASUS,,3.0,0,LGA1700,Micro-ATX,0,2017,9,Poor (heavy wear),Not working,No,No,,Yes,No,850.0,asking,synthetic_v1
+270,ssd,Kingston,,1.0,256,SATA,,0,2022,4,Like new,Fully working,No,No,,No,No,700.0,completed_sale,synthetic_v1
+271,expansion_card,TP-Link,,1.0,0,,Ethernet card,0,2023,3,Fair (visible wear),Not working,No,No,,No,Yes,200.0,completed_sale,synthetic_v1
+272,psu,Corsair,,2.0,750,80+ Bronze,,0,2024,2,Like new,Not working,No,No,,Yes,Yes,1850.0,asking,synthetic_v1
+273,motherboard,ASUS,,3.5,0,AM5,Micro-ATX,0,2026,0,Like new,Fully working,No,No,,No,No,21600.0,completed_sale,synthetic_v1
+274,motherboard,Gigabyte,,2.0,0,AM4,Mini-ITX,1,2025,1,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,Yes,8500.0,completed_sale,synthetic_v1
+275,cabinet,NZXT,,2.0,0,,Mid tower,0,2019,7,Fair (visible wear),Fully working,No,No,,No,Yes,1600.0,completed_sale,synthetic_v1
+276,ram,G.Skill,,1.0,4,DDR3,DIMM_1x4,0,2025,1,Good (light wear),Fully working,No,No,,No,Yes,600.0,completed_sale,synthetic_v1
+277,motherboard,Gigabyte,,3.0,0,LGA1700,Mini-ITX,0,2024,2,Fair (visible wear),Fully working,No,No,,No,Yes,12200.0,asking,synthetic_v1
+278,ram,Adata,,3.0,8,DDR5,SO-DIMM_2x4,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,1850.0,completed_sale,synthetic_v1
+279,ram,Corsair,,3.0,32,DDR5,DIMM_1x32,0,2022,4,Poor (heavy wear),Fully working,No,No,,No,Yes,4550.0,asking,synthetic_v1
+280,psu,Corsair,,3.0,650,80+ Gold,,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,7650.0,asking,synthetic_v1
+281,hdd,WD,,1.0,1000,5400rpm,,0,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,900.0,completed_sale,synthetic_v1
+282,cooler,Corsair,,1.0,0,,Air cooler,0,2024,2,Fair (visible wear),Works with minor issues,Yes,No,,No,Yes,1100.0,completed_sale,synthetic_v1
+283,hdd,Seagate,,1.0,4000,5400rpm,,0,2025,1,Fair (visible wear),Works with minor issues,No,No,,No,No,5250.0,completed_sale,synthetic_v1
+284,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,No,26750.0,completed_sale,synthetic_v1
+285,cooler,Corsair,,2.0,0,,AIO 240 mm,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,Yes,3350.0,completed_sale,synthetic_v1
+286,ram,Kingston,,1.0,16,DDR3,DIMM_1x16,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,1750.0,completed_sale,synthetic_v1
+287,psu,Corsair,,3.0,450,80+ Gold,,0,2023,3,Poor (heavy wear),Fully working,No,Yes,6 to 12 months,Yes,No,2600.0,completed_sale,synthetic_v1
+288,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,5150.0,completed_sale,synthetic_v1
+289,gpu,XFX,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,1,2022,4,Good (light wear),Fully working,No,No,,Yes,No,13700.0,asking,synthetic_v1
+290,cooler,Corsair,,2.0,0,,AIO 240 mm,0,2026,0,Fair (visible wear),Fully working,No,No,,No,No,6500.0,completed_sale,synthetic_v1
+291,cooler,Noctua,,1.0,0,,Air cooler,0,2023,3,Fair (visible wear),Fully working,No,No,,No,Yes,1050.0,completed_sale,synthetic_v1
+292,ssd,Samsung,,2.0,2000,NVMe PCIe 3.0,,0,2021,5,Poor (heavy wear),Fully working,No,No,,No,No,2300.0,completed_sale,synthetic_v1
+293,gpu,MSI,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2026,0,Good (light wear),Fully working,No,No,,Yes,Yes,32600.0,completed_sale,synthetic_v1
+294,gpu,Gigabyte,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,5150.0,completed_sale,synthetic_v1
+295,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,15700.0,completed_sale,synthetic_v1
+296,cooler,Cooler Master,,2.0,0,,AIO 240 mm,0,2022,4,Good (light wear),Works with minor issues,Yes,No,,No,Yes,2200.0,completed_sale,synthetic_v1
+297,ram,Crucial,,3.0,16,DDR5,DIMM_1x16,0,2020,6,Fair (visible wear),Not working,No,No,,Yes,Yes,550.0,completed_sale,synthetic_v1
+298,cooler,Deepcool,,1.0,0,,Air cooler,0,2019,7,Good (light wear),Fully working,No,No,,Yes,Yes,500.0,completed_sale,synthetic_v1
+299,hdd,Seagate,,1.0,4000,5400rpm,,0,2026,0,Like new,Fully working,No,No,,No,No,9200.0,completed_sale,synthetic_v1
+300,gpu,Zotac,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,0,2023,3,Like new,Fully working,No,Yes,3 to 6 months,Yes,No,7300.0,completed_sale,synthetic_v1
+301,motherboard,MSI,,3.5,0,AM5,ATX,0,2021,5,Good (light wear),Fully working,No,No,,Yes,Yes,7750.0,completed_sale,synthetic_v1
+302,cooler,Corsair,,1.0,0,,Air cooler,0,2022,4,Good (light wear),Fully working,No,No,,No,No,950.0,completed_sale,synthetic_v1
+303,motherboard,MSI,,2.0,0,AM4,ATX,1,2023,3,Poor (heavy wear),Fully working,No,No,,Yes,No,5250.0,asking,synthetic_v1
+304,ssd,Samsung,,2.0,960,NVMe PCIe 3.0,,0,2022,4,Like new,Fully working,Yes,No,,No,Yes,2300.0,completed_sale,synthetic_v1
+305,gpu,Palit,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2024,2,Poor (heavy wear),Fully working,No,Yes,3 to 6 months,Yes,No,7650.0,completed_sale,synthetic_v1
+306,gpu,Sapphire,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,Yes,Yes,More than 12 months,Yes,No,5000.0,completed_sale,synthetic_v1
+307,hdd,Seagate,,1.0,1000,5400rpm,,0,2025,1,Like new,Works with minor issues,No,Yes,3 to 6 months,Yes,No,2050.0,completed_sale,synthetic_v1
+308,cooler,Noctua,,1.0,0,,Air cooler,0,2024,2,Like new,Fully working,No,Yes,3 to 6 months,No,No,1600.0,completed_sale,synthetic_v1
+309,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2024,2,Good (light wear),Fully working,Yes,No,,Yes,No,10850.0,completed_sale,synthetic_v1
+310,gpu,Sapphire,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,23050.0,completed_sale,synthetic_v1
+311,hdd,WD,,1.0,4000,5400rpm,,0,2025,1,Like new,Fully working,No,No,,Yes,Yes,8900.0,asking,synthetic_v1
+312,psu,Corsair,,1.0,650,80+ White,,0,2021,5,Fair (visible wear),Fully working,No,No,,No,Yes,1650.0,completed_sale,synthetic_v1
+313,ssd,Samsung,,2.0,960,NVMe PCIe 3.0,,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,Yes,1850.0,completed_sale,synthetic_v1
+314,gpu,MSI,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2022,4,Good (light wear),Works with minor issues,No,No,,No,No,5950.0,completed_sale,synthetic_v1
+315,gpu,Sapphire,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,heavily_mined,0,2019,7,Good (light wear),Not working,No,No,,No,Yes,2550.0,completed_sale,synthetic_v1
+316,cabinet,Deepcool,,2.0,0,,Mid tower,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,3350.0,completed_sale,synthetic_v1
+317,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,3200.0,completed_sale,synthetic_v1
+318,ram,G.Skill,,3.0,8,DDR5,SO-DIMM_1x8,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,1950.0,asking,synthetic_v1
+319,gpu,XFX,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2026,0,Fair (visible wear),Works with minor issues,No,Yes,Under 3 months,No,Yes,28550.0,completed_sale,synthetic_v1
+320,hdd,Toshiba,,1.0,320,5400rpm,,0,2022,4,Like new,Fully working,Yes,No,,No,No,600.0,completed_sale,synthetic_v1
+321,hdd,Seagate,,1.0,4000,5400rpm,,0,2018,8,Good (light wear),Works with minor issues,No,No,,Yes,Yes,800.0,completed_sale,synthetic_v1
+322,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2026,0,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,24800.0,completed_sale,synthetic_v1
+323,hdd,Toshiba,,1.0,2000,5400rpm,,0,2026,0,Fair (visible wear),Fully working,No,Yes,Under 3 months,Yes,No,4050.0,completed_sale,synthetic_v1
+324,ram,Adata,,3.0,4,DDR5,SO-DIMM_1x4,0,2024,2,Fair (visible wear),Not working,No,No,,No,No,350.0,completed_sale,synthetic_v1
+325,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,1,2015,11,Poor (heavy wear),Not working,No,No,,Yes,No,600.0,completed_sale,synthetic_v1
+326,gpu,MSI,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2024,2,Poor (heavy wear),Fully working,No,No,,No,No,5350.0,completed_sale,synthetic_v1
+327,hdd,WD,,1.0,1000,5400rpm,,1,2025,1,Like new,Works with minor issues,No,No,,Yes,No,1550.0,completed_sale,synthetic_v1
+328,hdd,WD,,1.0,2000,5400rpm,,1,2024,2,Like new,Fully working,No,No,,Yes,No,2600.0,completed_sale,synthetic_v1
+329,ssd,Crucial,,1.0,960,SATA,,0,2024,2,Good (light wear),Not working,Yes,No,,No,Yes,1050.0,asking,synthetic_v1
+330,cooler,Cooler Master,,1.0,0,,Air cooler,0,2025,1,Like new,Fully working,No,No,,Yes,No,2050.0,completed_sale,synthetic_v1
+331,gpu,Zotac,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,No,No,,No,No,16150.0,completed_sale,synthetic_v1
+332,ssd,Crucial,,1.0,120,SATA,,0,2022,4,Poor (heavy wear),Fully working,Yes,No,,No,Yes,300.0,completed_sale,synthetic_v1
+333,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2025,1,Fair (visible wear),Fully working,No,Yes,More than 12 months,Yes,Yes,3400.0,completed_sale,synthetic_v1
+334,psu,Corsair,,3.0,450,80+ Gold,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,4200.0,completed_sale,synthetic_v1
+335,ssd,Crucial,,1.0,960,SATA,,0,2024,2,Like new,Fully working,No,No,,No,Yes,2650.0,completed_sale,synthetic_v1
+336,ram,Adata,,1.0,32,DDR3,DIMM_2x16,0,2024,2,Good (light wear),Fully working,No,Yes,6 to 12 months,No,Yes,5000.0,completed_sale,synthetic_v1
+337,motherboard,ASRock,,3.0,0,LGA1700,Micro-ATX,0,2014,12,Good (light wear),Works with minor issues,Yes,No,,Yes,Yes,1850.0,completed_sale,synthetic_v1
+338,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,10450.0,completed_sale,synthetic_v1
+339,ram,Crucial,,3.0,32,DDR5,DIMM_2x16,0,2022,4,Poor (heavy wear),Fully working,No,No,,Yes,No,3750.0,completed_sale,synthetic_v1
+340,psu,Corsair,,2.0,750,80+ Bronze,,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,6050.0,asking,synthetic_v1
+341,hdd,Seagate,,1.0,2000,5400rpm,,1,2023,3,Like new,Fully working,No,No,,No,No,1750.0,completed_sale,synthetic_v1
+342,gpu,Zotac,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2025,1,Like new,Fully working,No,Yes,3 to 6 months,No,No,12850.0,asking,synthetic_v1
+343,motherboard,ASRock,,3.5,0,AM5,Micro-ATX,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,No,Yes,17450.0,completed_sale,synthetic_v1
+344,motherboard,ASUS,,3.0,0,LGA1700,ATX,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,8250.0,completed_sale,synthetic_v1
+345,ssd,Crucial,,3.0,512,NVMe PCIe 4.0,,0,2025,1,Fair (visible wear),Fully working,No,No,,No,Yes,2400.0,completed_sale,synthetic_v1
+346,psu,Cooler Master,,2.0,450,80+ Bronze,,0,2021,5,Fair (visible wear),Fully working,No,No,,No,Yes,1650.0,asking,synthetic_v1
+347,expansion_card,TP-Link,,1.0,0,,Sound card,0,2026,0,Poor (heavy wear),Works with minor issues,No,No,,Yes,No,1250.0,completed_sale,synthetic_v1
+348,gpu,Gigabyte,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,0,2024,2,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,19850.0,asking,synthetic_v1
+349,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2024,2,Fair (visible wear),Fully working,No,No,,No,Yes,16250.0,completed_sale,synthetic_v1
+350,motherboard,ASRock,,2.0,0,AM4,Mini-ITX,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,11500.0,completed_sale,synthetic_v1
+351,ram,G.Skill,,2.0,32,DDR4,DIMM_2x16,0,2025,1,Like new,Fully working,No,Yes,3 to 6 months,Yes,No,8700.0,completed_sale,synthetic_v1
+352,cooler,Noctua,,1.0,0,,Air cooler,0,2016,10,Fair (visible wear),Fully working,Yes,No,,No,No,200.0,completed_sale,synthetic_v1
+353,hdd,Toshiba,,1.3,1000,7200rpm,,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,Yes,2500.0,completed_sale,synthetic_v1
+354,ram,Corsair,,3.0,64,DDR5,SO-DIMM_2x32,0,2024,2,Fair (visible wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,14650.0,completed_sale,synthetic_v1
+355,ssd,Adata,,2.0,256,NVMe PCIe 3.0,,0,2024,2,Good (light wear),Fully working,Yes,Yes,Under 3 months,Yes,No,1100.0,completed_sale,synthetic_v1
+356,motherboard,Gigabyte,,3.0,0,LGA1700,Micro-ATX,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,6850.0,completed_sale,synthetic_v1
+357,hdd,Seagate,,1.0,500,5400rpm,,0,2020,6,Good (light wear),Works with minor issues,Yes,No,,Yes,Yes,350.0,completed_sale,synthetic_v1
+358,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2024,2,Good (light wear),Fully working,Yes,No,,No,No,18750.0,completed_sale,synthetic_v1
+359,ram,G.Skill,,3.0,16,DDR5,SO-DIMM_2x8,0,2021,5,Good (light wear),Not working,No,No,,No,Yes,850.0,completed_sale,synthetic_v1
+360,cabinet,Ant Esports,,1.0,0,,Micro-ATX,0,2022,4,Like new,Fully working,No,No,,No,No,1800.0,completed_sale,synthetic_v1
+361,ssd,Samsung,,1.0,512,SATA,,0,2025,1,Like new,Fully working,Yes,Yes,More than 12 months,No,Yes,2200.0,completed_sale,synthetic_v1
+362,cabinet,Ant Esports,,2.0,0,,Mid tower,1,2022,4,Poor (heavy wear),Fully working,No,No,,Yes,Yes,1500.0,completed_sale,synthetic_v1
+363,psu,Cooler Master,,1.0,450,80+ White,,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,2150.0,completed_sale,synthetic_v1
+364,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2024,2,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,3050.0,completed_sale,synthetic_v1
+365,cabinet,NZXT,,2.0,0,,Mid tower,0,2025,1,Fair (visible wear),Fully working,No,No,,No,No,3150.0,completed_sale,synthetic_v1
+366,hdd,Toshiba,,1.3,1000,7200rpm,,0,2021,5,Fair (visible wear),Fully working,Yes,No,,No,No,750.0,asking,synthetic_v1
+367,hdd,Toshiba,,1.0,4000,5400rpm,,1,2019,7,Good (light wear),Not working,No,No,,Yes,No,350.0,completed_sale,synthetic_v1
+368,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2022,4,Poor (heavy wear),Works with minor issues,No,No,,Yes,No,7050.0,asking,synthetic_v1
+369,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,11900.0,completed_sale,synthetic_v1
+370,motherboard,Gigabyte,,3.0,0,LGA1700,Micro-ATX,0,2022,4,Like new,Fully working,No,No,,No,Yes,8300.0,completed_sale,synthetic_v1
+371,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,11350.0,completed_sale,synthetic_v1
+372,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2024,2,Like new,Works with minor issues,No,No,,No,Yes,900.0,completed_sale,synthetic_v1
+373,ram,Adata,,2.0,8,DDR4,DIMM_1x8,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,Yes,2150.0,asking,synthetic_v1
+374,motherboard,Gigabyte,,3.0,0,LGA1700,ATX,0,2025,1,Fair (visible wear),Works with minor issues,No,No,,No,No,11700.0,completed_sale,synthetic_v1
+375,ram,Corsair,,3.0,8,DDR5,SO-DIMM_2x4,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,2050.0,completed_sale,synthetic_v1
+376,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2024,2,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,19000.0,completed_sale,synthetic_v1
+377,ssd,WD,,3.0,960,NVMe PCIe 4.0,,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,Yes,6400.0,completed_sale,synthetic_v1
+378,gpu,ASUS,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,No,,No,Yes,19500.0,completed_sale,synthetic_v1
+379,hdd,WD,,1.3,2000,7200rpm,,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,1400.0,completed_sale,synthetic_v1
+380,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2021,5,Good (light wear),Fully working,No,No,,No,No,9400.0,completed_sale,synthetic_v1
+381,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2023,3,Good (light wear),Fully working,No,No,,No,No,9150.0,completed_sale,synthetic_v1
+382,ssd,Kingston,,3.0,1000,NVMe PCIe 4.0,,0,2023,3,Good (light wear),Works with minor issues,Yes,Yes,Under 3 months,No,Yes,3050.0,completed_sale,synthetic_v1
+383,hdd,Toshiba,,1.0,2000,5400rpm,,0,2026,0,Good (light wear),Fully working,No,No,,Yes,No,5400.0,completed_sale,synthetic_v1
+384,ssd,Crucial,,2.0,120,NVMe PCIe 3.0,,0,2024,2,Like new,Fully working,No,Yes,6 to 12 months,Yes,Yes,750.0,completed_sale,synthetic_v1
+385,psu,Corsair,,2.0,850,80+ Bronze,,0,2022,4,Like new,Fully working,Yes,No,,No,Yes,3400.0,completed_sale,synthetic_v1
+386,psu,Deepcool,,3.0,450,80+ Gold,,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,No,4100.0,completed_sale,synthetic_v1
+387,gpu,MSI,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,heavily_mined,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,35450.0,asking,synthetic_v1
+388,psu,Deepcool,,2.0,650,80+ Bronze,,0,2025,1,Like new,Fully working,No,Yes,3 to 6 months,No,Yes,5000.0,completed_sale,synthetic_v1
+389,gpu,ASUS,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,heavily_mined,1,2024,2,Fair (visible wear),Fully working,No,Yes,More than 12 months,Yes,Yes,14800.0,completed_sale,synthetic_v1
+390,cabinet,Cooler Master,,2.0,0,,Mid tower,1,2022,4,Good (light wear),Works with minor issues,No,No,,Yes,Yes,1950.0,completed_sale,synthetic_v1
+391,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2020,6,Fair (visible wear),Fully working,No,No,,Yes,Yes,3050.0,completed_sale,synthetic_v1
+392,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2024,2,Like new,Fully working,No,No,,No,Yes,9400.0,completed_sale,synthetic_v1
+393,ram,Corsair,,3.0,32,DDR5,DIMM_2x16,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,11950.0,completed_sale,synthetic_v1
+394,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,4200.0,completed_sale,synthetic_v1
+395,cooler,Deepcool,,3.0,0,,AIO 360 mm,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,Yes,4800.0,completed_sale,synthetic_v1
+396,cooler,Corsair,,1.0,0,,Air cooler,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,2500.0,completed_sale,synthetic_v1
+397,hdd,Toshiba,,1.3,500,7200rpm,,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,1050.0,completed_sale,synthetic_v1
+398,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2023,3,Like new,Works with minor issues,No,Yes,More than 12 months,No,Yes,2750.0,completed_sale,synthetic_v1
+399,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2022,4,Like new,Fully working,No,No,,No,Yes,2750.0,completed_sale,synthetic_v1
+400,psu,Cooler Master,,3.0,750,80+ Gold,,1,2017,9,Fair (visible wear),Not working,No,No,,No,No,400.0,completed_sale,synthetic_v1
+401,motherboard,Gigabyte,,2.0,0,AM4,ATX,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,12050.0,completed_sale,synthetic_v1
+402,ssd,Adata,,1.0,2000,SATA,,0,2020,6,Good (light wear),Not working,Yes,No,,No,Yes,750.0,completed_sale,synthetic_v1
+403,motherboard,MSI,,3.0,0,LGA1700,ATX,0,2023,3,Good (light wear),Works with minor issues,No,No,,No,No,8900.0,completed_sale,synthetic_v1
+404,ssd,WD,,3.0,1000,NVMe PCIe 4.0,,0,2023,3,Good (light wear),Fully working,No,No,,No,No,3600.0,completed_sale,synthetic_v1
+405,ssd,Adata,,3.0,256,NVMe PCIe 4.0,,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,Yes,No,2150.0,completed_sale,synthetic_v1
+406,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2026,0,Like new,Fully working,No,Yes,3 to 6 months,No,Yes,32000.0,completed_sale,synthetic_v1
+407,expansion_card,ASUS,,1.0,0,,Ethernet card,0,2024,2,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,700.0,asking,synthetic_v1
+408,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,10650.0,completed_sale,synthetic_v1
+409,psu,Cosmic Byte,,2.0,850,80+ Bronze,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,4650.0,completed_sale,synthetic_v1
+410,cooler,Deepcool,,2.0,0,,AIO 240 mm,0,2025,1,Fair (visible wear),Fully working,No,No,,No,No,4700.0,completed_sale,synthetic_v1
+411,motherboard,ASUS,,3.0,0,LGA1700,Micro-ATX,0,2021,5,Good (light wear),Works with minor issues,No,No,,No,No,5300.0,completed_sale,synthetic_v1
+412,cabinet,Cooler Master,,1.0,0,,Micro-ATX,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,No,1750.0,completed_sale,synthetic_v1
+413,psu,Antec,,2.0,650,80+ Bronze,,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,4750.0,completed_sale,synthetic_v1
+414,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,Yes,16200.0,completed_sale,synthetic_v1
+415,hdd,Toshiba,,1.0,2000,5400rpm,,0,2026,0,Good (light wear),Fully working,No,No,,No,No,5400.0,completed_sale,synthetic_v1
+416,ssd,Adata,,3.0,512,NVMe PCIe 4.0,,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,3150.0,completed_sale,synthetic_v1
+417,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2024,2,Good (light wear),Works with minor issues,No,No,,No,Yes,10700.0,completed_sale,synthetic_v1
+418,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2024,2,Poor (heavy wear),Fully working,No,No,,No,Yes,9700.0,completed_sale,synthetic_v1
+419,hdd,Toshiba,,1.0,2000,5400rpm,,0,2026,0,Like new,Fully working,No,No,,Yes,No,5700.0,completed_sale,synthetic_v1
+420,motherboard,ASRock,,2.0,0,LGA1200,Micro-ATX,0,2015,11,Good (light wear),Fully working,No,No,,Yes,Yes,1750.0,completed_sale,synthetic_v1
+421,psu,Antec,,3.0,550,80+ Gold,,0,2022,4,Good (light wear),Fully working,Yes,No,,Yes,No,2950.0,completed_sale,synthetic_v1
+422,motherboard,MSI,,3.5,0,AM5,ATX,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,15250.0,completed_sale,synthetic_v1
+423,ram,Adata,,1.0,16,DDR3,DIMM_2x8,0,2023,3,Like new,Fully working,No,No,,No,Yes,1850.0,completed_sale,synthetic_v1
+424,ssd,Adata,,2.0,120,NVMe PCIe 3.0,,0,2026,0,Good (light wear),Fully working,No,Yes,6 to 12 months,No,Yes,1050.0,completed_sale,synthetic_v1
+425,psu,Cooler Master,,2.0,650,80+ Bronze,,0,2017,9,Good (light wear),Fully working,No,No,,Yes,Yes,1150.0,completed_sale,synthetic_v1
+426,cooler,Cooler Master,,1.0,0,,Air cooler,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,1800.0,completed_sale,synthetic_v1
+427,motherboard,ASUS,,2.0,0,AM4,Micro-ATX,0,2025,1,Fair (visible wear),Fully working,Yes,Yes,6 to 12 months,Yes,No,10850.0,completed_sale,synthetic_v1
+428,cabinet,NZXT,,1.0,0,,Micro-ATX,0,2025,1,Poor (heavy wear),Fully working,No,Yes,3 to 6 months,No,No,1750.0,completed_sale,synthetic_v1
+429,psu,Corsair,,2.0,450,80+ Bronze,,0,2024,2,Poor (heavy wear),Fully working,No,Yes,Under 3 months,Yes,Yes,2450.0,completed_sale,synthetic_v1
+430,ram,Adata,,1.0,8,DDR3,SO-DIMM_2x4,0,2021,5,Poor (heavy wear),Works with minor issues,No,No,,No,No,300.0,completed_sale,synthetic_v1
+431,gpu,MSI,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2021,5,Like new,Fully working,No,No,,No,No,6950.0,completed_sale,synthetic_v1
+432,gpu,XFX,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,8700.0,completed_sale,synthetic_v1
+433,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2026,0,Like new,Fully working,No,No,,No,No,1150.0,completed_sale,synthetic_v1
+434,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,4500.0,completed_sale,synthetic_v1
+435,motherboard,MSI,,3.0,0,LGA1700,ATX,0,2025,1,Good (light wear),Fully working,No,No,,Yes,Yes,17200.0,completed_sale,synthetic_v1
+436,hdd,Seagate,,1.3,4000,7200rpm,,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,7200.0,completed_sale,synthetic_v1
+437,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,6850.0,completed_sale,synthetic_v1
+438,hdd,WD,,1.0,500,5400rpm,,0,2021,5,Good (light wear),Fully working,No,No,,Yes,Yes,650.0,asking,synthetic_v1
+439,ram,Adata,,2.0,4,DDR4,DIMM_1x4,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,No,No,1250.0,completed_sale,synthetic_v1
+440,cabinet,Cooler Master,,1.0,0,,Micro-ATX,0,2024,2,Good (light wear),Works with minor issues,No,No,,No,No,2100.0,completed_sale,synthetic_v1
+441,ram,Adata,,2.0,4,DDR4,SO-DIMM_1x4,0,2025,1,Like new,Fully working,No,No,,Yes,Yes,1200.0,completed_sale,synthetic_v1
+442,motherboard,ASRock,,2.0,0,AM4,Micro-ATX,0,2024,2,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,9950.0,asking,synthetic_v1
+443,motherboard,ASRock,,2.0,0,AM4,Micro-ATX,0,2019,7,Good (light wear),Fully working,No,No,,No,Yes,3400.0,completed_sale,synthetic_v1
+444,motherboard,MSI,,3.5,0,AM5,Micro-ATX,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,13200.0,completed_sale,synthetic_v1
+445,motherboard,MSI,,2.0,0,AM4,Micro-ATX,0,2023,3,Good (light wear),Fully working,Yes,No,,Yes,No,9850.0,asking,synthetic_v1
+446,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,1300.0,completed_sale,synthetic_v1
+447,ram,Crucial,,2.0,8,DDR4,SO-DIMM_1x8,0,2024,2,Good (light wear),Fully working,No,No,,No,No,1450.0,completed_sale,synthetic_v1
+448,gpu,Palit,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,10400.0,completed_sale,synthetic_v1
+449,expansion_card,ASUS,,1.0,0,,Wi-Fi card,0,2023,3,Fair (visible wear),Fully working,Yes,No,,No,Yes,650.0,completed_sale,synthetic_v1
+450,hdd,Seagate,,1.3,4000,7200rpm,,0,2022,4,Poor (heavy wear),Fully working,Yes,No,,No,Yes,2050.0,completed_sale,synthetic_v1
+451,motherboard,ASUS,,2.0,0,AM4,ATX,0,2025,1,Good (light wear),Works with minor issues,No,Yes,Under 3 months,No,Yes,10800.0,completed_sale,synthetic_v1
+452,gpu,Palit,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2021,5,Poor (heavy wear),Fully working,No,No,,Yes,Yes,7550.0,completed_sale,synthetic_v1
+453,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2021,5,Like new,Fully working,No,No,,No,No,9750.0,completed_sale,synthetic_v1
+454,ssd,Samsung,,1.0,960,SATA,,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,3650.0,completed_sale,synthetic_v1
+455,expansion_card,Gigabyte,,1.0,0,,Sound card,0,2024,2,Like new,Fully working,No,No,,Yes,No,1600.0,completed_sale,synthetic_v1
+456,hdd,WD,,1.0,4000,5400rpm,,0,2022,4,Good (light wear),Works with minor issues,Yes,No,,Yes,No,2450.0,completed_sale,synthetic_v1
+457,cooler,Cooler Master,,1.0,0,,Air cooler,0,2020,6,Good (light wear),Fully working,No,No,,No,No,550.0,completed_sale,synthetic_v1
+458,ssd,Adata,,3.0,240,NVMe PCIe 4.0,,0,2026,0,Good (light wear),Fully working,No,No,,Yes,Yes,2050.0,completed_sale,synthetic_v1
+459,gpu,MSI,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2026,0,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,28150.0,completed_sale,synthetic_v1
+460,gpu,Zotac,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2024,2,Good (light wear),Works with minor issues,No,Yes,3 to 6 months,No,No,11850.0,completed_sale,synthetic_v1
+461,ram,Kingston,,3.0,64,DDR5,SO-DIMM_2x32,0,2018,8,Good (light wear),Not working,No,No,,Yes,Yes,1450.0,completed_sale,synthetic_v1
+462,cabinet,Ant Esports,,1.0,0,,Micro-ATX,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,2150.0,completed_sale,synthetic_v1
+463,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2024,2,Good (light wear),Not working,No,No,,No,No,4300.0,asking,synthetic_v1
+464,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,9750.0,asking,synthetic_v1
+465,ssd,Samsung,,2.0,960,NVMe PCIe 3.0,,0,2023,3,Good (light wear),Not working,No,No,,Yes,No,850.0,completed_sale,synthetic_v1
+466,ram,Corsair,,2.0,8,DDR4,SO-DIMM_1x8,0,2025,1,Like new,Fully working,No,No,,Yes,No,2050.0,completed_sale,synthetic_v1
+467,ram,Crucial,,3.0,16,DDR5,DIMM_2x8,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,4800.0,completed_sale,synthetic_v1
+468,hdd,Seagate,,1.3,320,7200rpm,,0,2022,4,Fair (visible wear),Fully working,Yes,No,,Yes,No,500.0,completed_sale,synthetic_v1
+469,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,6850.0,completed_sale,synthetic_v1
+470,cabinet,NZXT,,2.0,0,,Mid tower,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,3250.0,completed_sale,synthetic_v1
+471,hdd,Toshiba,,1.0,500,5400rpm,,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,Yes,No,1950.0,completed_sale,synthetic_v1
+472,hdd,Toshiba,,1.3,320,7200rpm,,1,2020,6,Fair (visible wear),Works with minor issues,No,No,,Yes,No,200.0,completed_sale,synthetic_v1
+473,cabinet,Deepcool,,2.0,0,,Mid tower,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,2300.0,completed_sale,synthetic_v1
+474,gpu,Zotac,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2021,5,Like new,Fully working,No,No,,No,Yes,3800.0,completed_sale,synthetic_v1
+475,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,10700.0,completed_sale,synthetic_v1
+476,hdd,WD,,1.3,500,7200rpm,,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,950.0,completed_sale,synthetic_v1
+477,ssd,Adata,,2.0,240,NVMe PCIe 3.0,,0,2024,2,Like new,Works with minor issues,No,No,,Yes,No,900.0,completed_sale,synthetic_v1
+478,ram,Kingston,,1.0,32,DDR3,SO-DIMM_1x32,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,No,Yes,8450.0,asking,synthetic_v1
+479,cabinet,Ant Esports,,2.0,0,,Mid tower,1,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,Yes,3450.0,completed_sale,synthetic_v1
+480,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,Yes,Yes,12700.0,completed_sale,synthetic_v1
+481,gpu,XFX,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2022,4,Good (light wear),Fully working,Yes,No,,No,Yes,4200.0,completed_sale,synthetic_v1
+482,ram,Corsair,,2.0,16,DDR4,SO-DIMM_2x8,0,2026,0,Like new,Fully working,No,No,,Yes,No,5600.0,asking,synthetic_v1
+483,hdd,Toshiba,,1.0,2000,5400rpm,,1,2019,7,Like new,Fully working,Yes,No,,Yes,No,600.0,completed_sale,synthetic_v1
+484,expansion_card,TP-Link,,1.0,0,,Wi-Fi card,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,Yes,1200.0,completed_sale,synthetic_v1
+485,hdd,Seagate,,1.3,2000,7200rpm,,0,2026,0,Fair (visible wear),Works with minor issues,No,No,,No,Yes,3800.0,completed_sale,synthetic_v1
+486,psu,Corsair,,1.0,550,80+ White,,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,2050.0,completed_sale,synthetic_v1
+487,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2025,1,Like new,Fully working,No,No,,No,Yes,21200.0,completed_sale,synthetic_v1
+488,cooler,Deepcool,,2.0,0,,AIO 240 mm,1,2024,2,Like new,Fully working,No,No,,No,Yes,4550.0,completed_sale,synthetic_v1
+489,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,1,2023,3,Like new,Fully working,No,No,,No,No,6650.0,completed_sale,synthetic_v1
+490,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2025,1,Fair (visible wear),Fully working,No,No,,No,Yes,7650.0,completed_sale,synthetic_v1
+491,psu,Corsair,,2.0,550,80+ Bronze,,0,2024,2,Fair (visible wear),Not working,No,Yes,6 to 12 months,No,Yes,1100.0,completed_sale,synthetic_v1
+492,gpu,Zotac,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,heavily_mined,1,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,No,Yes,19550.0,completed_sale,synthetic_v1
+493,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,8700.0,completed_sale,synthetic_v1
+494,cabinet,Ant Esports,,3.0,0,,Full tower,0,2026,0,Like new,Fully working,Yes,Yes,More than 12 months,No,No,8000.0,completed_sale,synthetic_v1
+495,cabinet,NZXT,,1.0,0,,Micro-ATX,0,2023,3,Fair (visible wear),Fully working,No,No,,No,Yes,1850.0,completed_sale,synthetic_v1
+496,motherboard,MSI,,3.0,0,LGA1700,Micro-ATX,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,11500.0,completed_sale,synthetic_v1
+497,hdd,Seagate,,1.0,2000,5400rpm,,0,2024,2,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,No,2600.0,completed_sale,synthetic_v1
+498,hdd,Toshiba,,1.3,1000,7200rpm,,0,2026,0,Like new,Fully working,No,Yes,3 to 6 months,No,No,3450.0,completed_sale,synthetic_v1
+499,ssd,Adata,,2.0,2000,NVMe PCIe 3.0,,0,2024,2,Fair (visible wear),Fully working,No,Yes,More than 12 months,Yes,No,6150.0,completed_sale,synthetic_v1
+500,ram,Crucial,,2.0,8,DDR4,DIMM_2x4,0,2022,4,Like new,Fully working,Yes,No,,No,Yes,1000.0,completed_sale,synthetic_v1
+501,cooler,Cooler Master,,2.0,0,,AIO 240 mm,0,2024,2,Good (light wear),Fully working,Yes,No,,Yes,Yes,4650.0,completed_sale,synthetic_v1
+502,ram,Corsair,,2.0,8,DDR4,DIMM_1x8,0,2026,0,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,Yes,2050.0,completed_sale,synthetic_v1
+503,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,Yes,13000.0,completed_sale,synthetic_v1
+504,ssd,Adata,,1.0,2000,SATA,,0,2020,6,Fair (visible wear),Fully working,Yes,No,,No,No,1800.0,completed_sale,synthetic_v1
+505,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2022,4,Good (light wear),Fully working,No,No,,No,No,7650.0,completed_sale,synthetic_v1
+506,expansion_card,ASUS,,1.0,0,,Wi-Fi card,0,2024,2,Like new,Works with minor issues,Yes,Yes,3 to 6 months,Yes,No,900.0,completed_sale,synthetic_v1
+507,motherboard,MSI,,3.5,0,AM5,Micro-ATX,0,2021,5,Fair (visible wear),Fully working,Yes,No,,No,No,7200.0,completed_sale,synthetic_v1
+508,motherboard,ASUS,,3.5,0,AM5,Micro-ATX,0,2020,6,Good (light wear),Fully working,No,No,,No,No,5700.0,completed_sale,synthetic_v1
+509,ram,G.Skill,,2.0,32,DDR4,DIMM_2x16,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,2900.0,completed_sale,synthetic_v1
+510,gpu,ASUS,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2022,4,Good (light wear),Fully working,No,No,,No,No,13650.0,completed_sale,synthetic_v1
+511,gpu,Sapphire,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,heavily_mined,0,2024,2,Good (light wear),Works with minor issues,No,Yes,More than 12 months,Yes,No,12250.0,completed_sale,synthetic_v1
+512,ram,Kingston,,2.0,32,DDR4,SO-DIMM_2x16,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,4450.0,completed_sale,synthetic_v1
+513,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2021,5,Fair (visible wear),Works with minor issues,No,No,,No,No,2100.0,asking,synthetic_v1
+514,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2023,3,Like new,Fully working,Yes,Yes,6 to 12 months,Yes,No,6200.0,completed_sale,synthetic_v1
+515,ssd,WD,,2.0,2000,NVMe PCIe 3.0,,0,2022,4,Good (light wear),Fully working,No,No,,No,No,3900.0,completed_sale,synthetic_v1
+516,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2026,0,Like new,Fully working,Yes,Yes,Under 3 months,No,Yes,21250.0,completed_sale,synthetic_v1
+517,expansion_card,ASUS,,1.0,0,,Ethernet card,0,2024,2,Good (light wear),Works with minor issues,No,No,,No,Yes,600.0,completed_sale,synthetic_v1
+518,gpu,Gigabyte,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2025,1,Like new,Fully working,No,No,,Yes,No,24000.0,completed_sale,synthetic_v1
+519,hdd,Seagate,,1.3,1000,7200rpm,,0,2021,5,Good (light wear),Fully working,No,No,,No,No,700.0,completed_sale,synthetic_v1
+520,cooler,Corsair,,2.0,0,,AIO 240 mm,0,2025,1,Like new,Fully working,Yes,Yes,3 to 6 months,No,No,5600.0,completed_sale,synthetic_v1
+521,gpu,Palit,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,14250.0,completed_sale,synthetic_v1
+522,psu,Cosmic Byte,,2.0,750,80+ Bronze,,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,5500.0,completed_sale,synthetic_v1
+523,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2017,9,Poor (heavy wear),Fully working,No,No,,No,No,1050.0,completed_sale,synthetic_v1
+524,motherboard,ASUS,,2.0,0,AM4,Micro-ATX,0,2022,4,Like new,Fully working,Yes,No,,No,No,6100.0,completed_sale,synthetic_v1
+525,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,11000.0,completed_sale,synthetic_v1
+526,ssd,WD,,1.0,480,SATA,,0,2022,4,Poor (heavy wear),Fully working,Yes,No,,No,Yes,750.0,completed_sale,synthetic_v1
+527,psu,Cosmic Byte,,3.0,550,80+ Gold,,0,2022,4,Like new,Fully working,Yes,No,,Yes,Yes,4150.0,asking,synthetic_v1
+528,ssd,Kingston,,3.0,120,NVMe PCIe 4.0,,0,2020,6,Fair (visible wear),Fully working,No,No,,No,Yes,350.0,completed_sale,synthetic_v1
+529,motherboard,ASUS,,2.0,0,LGA1200,Micro-ATX,0,2018,8,Good (light wear),Works with minor issues,No,No,,Yes,Yes,2650.0,completed_sale,synthetic_v1
+530,hdd,WD,,1.3,500,7200rpm,,0,2024,2,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,1500.0,asking,synthetic_v1
+531,ram,Adata,,3.0,16,DDR5,SO-DIMM_1x16,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,5400.0,asking,synthetic_v1
+532,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2021,5,Good (light wear),Fully working,Yes,No,,Yes,No,8650.0,completed_sale,synthetic_v1
+533,hdd,Seagate,,1.3,4000,7200rpm,,0,2023,3,Good (light wear),Fully working,No,Yes,3 to 6 months,No,Yes,4700.0,completed_sale,synthetic_v1
+534,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2019,7,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,5600.0,asking,synthetic_v1
+535,motherboard,ASRock,,3.5,0,AM5,Micro-ATX,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,10800.0,completed_sale,synthetic_v1
+536,gpu,Palit,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2021,5,Like new,Fully working,No,No,,Yes,Yes,5250.0,completed_sale,synthetic_v1
+537,ram,Kingston,,2.0,16,DDR4,DIMM_1x16,0,2024,2,Good (light wear),Fully working,Yes,No,,No,No,2900.0,completed_sale,synthetic_v1
+538,ssd,Samsung,,2.0,512,NVMe PCIe 3.0,,0,2023,3,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,2100.0,asking,synthetic_v1
+539,cooler,Noctua,,1.0,0,,Air cooler,0,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,No,Yes,2050.0,completed_sale,synthetic_v1
+540,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,Yes,Yes,1450.0,completed_sale,synthetic_v1
+541,ram,Corsair,,2.0,32,DDR4,DIMM_1x32,0,2021,5,Like new,Fully working,No,No,,Yes,Yes,3050.0,completed_sale,synthetic_v1
+542,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2021,5,Good (light wear),Fully working,No,No,,No,No,300.0,completed_sale,synthetic_v1
+543,psu,Cosmic Byte,,3.0,550,80+ Gold,,0,2024,2,Like new,Fully working,Yes,No,,No,No,4650.0,completed_sale,synthetic_v1
+544,psu,Cooler Master,,2.0,550,80+ Bronze,,0,2020,6,Fair (visible wear),Fully working,No,No,,Yes,No,1950.0,asking,synthetic_v1
+545,ram,Kingston,,1.0,8,DDR3,DIMM_1x8,0,2023,3,Good (light wear),Fully working,Yes,No,,Yes,Yes,850.0,completed_sale,synthetic_v1
+546,motherboard,ASRock,,3.0,0,LGA1700,ATX,0,2024,2,Good (light wear),Fully working,No,No,,No,No,11300.0,completed_sale,synthetic_v1
+547,hdd,Toshiba,,1.0,500,5400rpm,,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,700.0,completed_sale,synthetic_v1
+548,motherboard,ASRock,,2.0,0,LGA1200,Micro-ATX,0,2023,3,Good (light wear),Fully working,No,No,,No,No,7700.0,completed_sale,synthetic_v1
+549,cooler,Noctua,,1.0,0,,Air cooler,0,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,2250.0,completed_sale,synthetic_v1
+550,hdd,Seagate,,1.0,2000,5400rpm,,0,2025,1,Good (light wear),Works with minor issues,No,No,,No,No,3350.0,completed_sale,synthetic_v1
+551,gpu,Gigabyte,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2017,9,Good (light wear),Fully working,No,No,,No,No,3650.0,completed_sale,synthetic_v1
+552,gpu,XFX,AMD Radeon RX 580,1.7,4,GDDR5,normal_use,0,2022,4,Fair (visible wear),Fully working,Yes,No,,No,No,3400.0,completed_sale,synthetic_v1
+553,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2024,2,Fair (visible wear),Works with minor issues,No,No,,Yes,No,6950.0,completed_sale,synthetic_v1
+554,ssd,Kingston,,1.0,1000,SATA,,0,2025,1,Good (light wear),Fully working,Yes,Yes,More than 12 months,Yes,No,3400.0,completed_sale,synthetic_v1
+555,cooler,Deepcool,,1.0,0,,Air cooler,0,2022,4,Good (light wear),Fully working,Yes,No,,No,No,950.0,completed_sale,synthetic_v1
+556,ssd,Adata,,2.0,960,NVMe PCIe 3.0,,0,2025,1,Like new,Fully working,No,No,,No,No,4650.0,completed_sale,synthetic_v1
+557,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,No,Yes,25250.0,completed_sale,synthetic_v1
+558,cabinet,Ant Esports,,1.0,0,,Micro-ATX,0,2024,2,Like new,Fully working,No,Yes,Under 3 months,No,No,2600.0,asking,synthetic_v1
+559,motherboard,MSI,,2.0,0,AM4,ATX,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,13450.0,completed_sale,synthetic_v1
+560,ram,Corsair,,3.0,8,DDR5,SO-DIMM_1x8,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,Yes,Yes,3100.0,completed_sale,synthetic_v1
+561,motherboard,Gigabyte,,3.0,0,LGA1700,ATX,0,2022,4,Good (light wear),Works with minor issues,No,No,,Yes,Yes,9850.0,asking,synthetic_v1
+562,gpu,Sapphire,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,9750.0,completed_sale,synthetic_v1
+563,hdd,Toshiba,,1.3,4000,7200rpm,,0,2017,9,Fair (visible wear),Fully working,No,No,,Yes,No,700.0,completed_sale,synthetic_v1
+564,cabinet,NZXT,,1.0,0,,Micro-ATX,0,2021,5,Like new,Fully working,Yes,No,,No,No,1600.0,completed_sale,synthetic_v1
+565,cooler,Cooler Master,,2.0,0,,AIO 240 mm,0,2026,0,Fair (visible wear),Fully working,No,No,,Yes,Yes,6500.0,asking,synthetic_v1
+566,ram,Corsair,,2.0,4,DDR4,DIMM_1x4,0,2025,1,Like new,Fully working,No,Yes,3 to 6 months,No,No,950.0,completed_sale,synthetic_v1
+567,ram,Kingston,,1.0,16,DDR3,SO-DIMM_2x8,0,2025,1,Good (light wear),Fully working,Yes,No,,Yes,No,3250.0,asking,synthetic_v1
+568,ram,Corsair,,2.0,32,DDR4,DIMM_2x16,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,No,Yes,5950.0,completed_sale,synthetic_v1
+569,ram,Corsair,,1.0,64,DDR3,SO-DIMM_2x32,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,3250.0,completed_sale,synthetic_v1
+570,gpu,Sapphire,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2020,6,Like new,Not working,No,No,,Yes,No,2950.0,completed_sale,synthetic_v1
+571,gpu,ASUS,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,13200.0,asking,synthetic_v1
+572,cabinet,Deepcool,,2.0,0,,Mid tower,0,2024,2,Fair (visible wear),Works with minor issues,No,No,,No,No,3100.0,asking,synthetic_v1
+573,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,No,500.0,completed_sale,synthetic_v1
+574,gpu,MSI,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,21200.0,completed_sale,synthetic_v1
+575,ram,Crucial,,1.0,8,DDR3,DIMM_1x8,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,600.0,completed_sale,synthetic_v1
+576,gpu,Gigabyte,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2022,4,Like new,Fully working,No,No,,Yes,No,8150.0,completed_sale,synthetic_v1
+577,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,3050.0,completed_sale,synthetic_v1
+578,psu,Cosmic Byte,,3.0,550,80+ Gold,,0,2023,3,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,Yes,3600.0,completed_sale,synthetic_v1
+579,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2023,3,Like new,Fully working,Yes,Yes,6 to 12 months,Yes,Yes,3200.0,completed_sale,synthetic_v1
+580,hdd,Seagate,,1.0,4000,5400rpm,,0,2014,12,Good (light wear),Fully working,No,No,,No,Yes,700.0,completed_sale,synthetic_v1
+581,gpu,Zotac,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,1,2016,10,Like new,Fully working,No,No,,No,No,1750.0,completed_sale,synthetic_v1
+582,cooler,Corsair,,1.0,0,,Air cooler,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,900.0,completed_sale,synthetic_v1
+583,gpu,Sapphire,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,4000.0,completed_sale,synthetic_v1
+584,gpu,XFX,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,Yes,Yes,8000.0,completed_sale,synthetic_v1
+585,gpu,MSI,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2024,2,Poor (heavy wear),Fully working,No,Yes,More than 12 months,Yes,No,9500.0,completed_sale,synthetic_v1
+586,gpu,Gigabyte,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,heavily_mined,0,2024,2,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,9650.0,completed_sale,synthetic_v1
+587,ram,Crucial,,1.0,4,DDR3,DIMM_1x4,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,350.0,asking,synthetic_v1
+588,ssd,Kingston,,2.0,2000,NVMe PCIe 3.0,,1,2026,0,Poor (heavy wear),Fully working,No,Yes,More than 12 months,Yes,No,5100.0,completed_sale,synthetic_v1
+589,ssd,Samsung,,2.0,256,NVMe PCIe 3.0,,0,2022,4,Like new,Fully working,No,No,,No,Yes,700.0,completed_sale,synthetic_v1
+590,ram,Kingston,,3.0,32,DDR5,SO-DIMM_2x16,0,2020,6,Fair (visible wear),Fully working,No,No,,Yes,Yes,3200.0,completed_sale,synthetic_v1
+591,hdd,WD,,1.3,2000,7200rpm,,0,2023,3,Poor (heavy wear),Fully working,No,No,,Yes,No,1550.0,completed_sale,synthetic_v1
+592,gpu,MSI,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,0,2021,5,Good (light wear),Fully working,Yes,No,,Yes,Yes,10050.0,asking,synthetic_v1
+593,motherboard,Gigabyte,,3.5,0,AM5,Mini-ITX,0,2018,8,Poor (heavy wear),Fully working,No,No,,Yes,Yes,3150.0,completed_sale,synthetic_v1
+594,gpu,Sapphire,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,6300.0,completed_sale,synthetic_v1
+595,ssd,Kingston,,3.0,512,NVMe PCIe 4.0,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,3000.0,asking,synthetic_v1
+596,ram,Adata,,2.0,32,DDR4,SO-DIMM_2x16,0,2024,2,Poor (heavy wear),Fully working,No,Yes,More than 12 months,Yes,Yes,4500.0,completed_sale,synthetic_v1
+597,gpu,Sapphire,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2018,8,Good (light wear),Fully working,Yes,No,,Yes,Yes,3100.0,completed_sale,synthetic_v1
+598,gpu,Sapphire,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2020,6,Poor (heavy wear),Fully working,No,No,,No,Yes,1800.0,completed_sale,synthetic_v1
+599,ram,Crucial,,2.0,4,DDR4,DIMM_1x4,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,Yes,550.0,completed_sale,synthetic_v1
+600,ram,Corsair,,3.0,16,DDR5,SO-DIMM_1x16,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,2450.0,completed_sale,synthetic_v1
+601,cabinet,NZXT,,2.0,0,,Mid tower,0,2025,1,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,No,3650.0,completed_sale,synthetic_v1
+602,gpu,Palit,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,heavily_mined,0,2025,1,Good (light wear),Fully working,Yes,Yes,Under 3 months,No,No,19700.0,completed_sale,synthetic_v1
+603,ram,Crucial,,2.0,64,DDR4,SO-DIMM_2x32,0,2024,2,Good (light wear),Fully working,Yes,No,,Yes,Yes,12550.0,completed_sale,synthetic_v1
+604,gpu,Gigabyte,AMD Radeon RX 580,1.7,4,GDDR5,heavily_mined,0,2026,0,Good (light wear),Works with minor issues,No,Yes,6 to 12 months,Yes,No,9300.0,completed_sale,synthetic_v1
+605,gpu,Gigabyte,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,No,No,,No,No,5100.0,completed_sale,synthetic_v1
+606,hdd,WD,,1.3,500,7200rpm,,0,2022,4,Good (light wear),Fully working,No,No,,No,No,650.0,completed_sale,synthetic_v1
+607,motherboard,ASRock,,2.0,0,LGA1200,Micro-ATX,0,2025,1,Like new,Fully working,Yes,No,,No,No,11350.0,completed_sale,synthetic_v1
+608,hdd,Toshiba,,1.0,500,5400rpm,,0,2020,6,Good (light wear),Works with minor issues,Yes,No,,Yes,No,300.0,completed_sale,synthetic_v1
+609,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,5150.0,completed_sale,synthetic_v1
+610,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,9350.0,asking,synthetic_v1
+611,ssd,WD,,2.0,960,NVMe PCIe 3.0,,0,2021,5,Fair (visible wear),Not working,No,No,,Yes,Yes,550.0,completed_sale,synthetic_v1
+612,gpu,XFX,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2017,9,Poor (heavy wear),Fully working,Yes,No,,No,No,2100.0,completed_sale,synthetic_v1
+613,ram,G.Skill,,1.0,16,DDR3,DIMM_1x16,0,2023,3,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,1400.0,completed_sale,synthetic_v1
+614,motherboard,ASRock,,3.5,0,AM5,ATX,0,2026,0,Good (light wear),Fully working,Yes,Yes,3 to 6 months,No,No,19250.0,completed_sale,synthetic_v1
+615,cabinet,NZXT,,2.0,0,,Mid tower,1,2024,2,Good (light wear),Fully working,Yes,Yes,Under 3 months,No,No,3550.0,asking,synthetic_v1
+616,motherboard,Gigabyte,,2.0,0,AM4,Micro-ATX,0,2021,5,Fair (visible wear),Fully working,No,No,,No,No,4550.0,completed_sale,synthetic_v1
+617,psu,Corsair,,1.0,750,80+ White,,0,2022,4,Like new,Fully working,No,No,,Yes,Yes,2650.0,completed_sale,synthetic_v1
+618,hdd,Toshiba,,1.3,4000,7200rpm,,1,2020,6,Good (light wear),Fully working,No,No,,No,No,1150.0,completed_sale,synthetic_v1
+619,psu,Antec,,3.0,650,80+ Gold,,0,2021,5,Good (light wear),Fully working,No,No,,Yes,Yes,2800.0,completed_sale,synthetic_v1
+620,hdd,Seagate,,1.3,320,7200rpm,,0,2026,0,Good (light wear),Fully working,No,No,,No,Yes,1850.0,completed_sale,synthetic_v1
+621,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,700.0,completed_sale,synthetic_v1
+622,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,Yes,8600.0,completed_sale,synthetic_v1
+623,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2024,2,Good (light wear),Fully working,No,No,,No,No,7850.0,completed_sale,synthetic_v1
+624,ram,Adata,,2.0,64,DDR4,DIMM_2x32,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,9850.0,completed_sale,synthetic_v1
+625,ram,Adata,,3.0,32,DDR5,SO-DIMM_2x16,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,7250.0,completed_sale,synthetic_v1
+626,hdd,WD,,1.3,1000,7200rpm,,0,2023,3,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,1650.0,asking,synthetic_v1
+627,ram,Corsair,,1.0,64,DDR3,DIMM_2x32,0,2017,9,Fair (visible wear),Fully working,No,No,,No,No,1450.0,completed_sale,synthetic_v1
+628,hdd,WD,,1.0,320,5400rpm,,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,550.0,completed_sale,synthetic_v1
+629,motherboard,ASRock,,3.5,0,AM5,Mini-ITX,0,2018,8,Fair (visible wear),Fully working,No,No,,No,No,3900.0,completed_sale,synthetic_v1
+630,psu,Cooler Master,,2.0,650,80+ Bronze,,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,3500.0,completed_sale,synthetic_v1
+631,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,14850.0,completed_sale,synthetic_v1
+632,ram,Adata,,2.0,16,DDR4,DIMM_2x8,0,2026,0,Fair (visible wear),Fully working,No,No,,Yes,No,4150.0,completed_sale,synthetic_v1
+633,psu,Antec,,1.0,750,80+ White,,0,2018,8,Fair (visible wear),Fully working,No,No,,No,Yes,1150.0,completed_sale,synthetic_v1
+634,expansion_card,ASUS,,1.0,0,,Wi-Fi card,0,2025,1,Like new,Fully working,No,No,,Yes,No,1550.0,completed_sale,synthetic_v1
+635,motherboard,MSI,,3.0,0,LGA1700,Micro-ATX,0,2024,2,Like new,Fully working,Yes,No,,No,No,12350.0,completed_sale,synthetic_v1
+636,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2020,6,Good (light wear),Fully working,No,No,,No,No,2050.0,completed_sale,synthetic_v1
+637,cabinet,Deepcool,,1.0,0,,Micro-ATX,0,2022,4,Like new,Works with minor issues,No,No,,Yes,Yes,1700.0,completed_sale,synthetic_v1
+638,gpu,XFX,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2025,1,Poor (heavy wear),Fully working,No,Yes,Under 3 months,Yes,No,7350.0,completed_sale,synthetic_v1
+639,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,1,2025,1,Poor (heavy wear),Fully working,No,Yes,6 to 12 months,No,Yes,12900.0,asking,synthetic_v1
+640,ram,G.Skill,,2.0,16,DDR4,SO-DIMM_1x16,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,3250.0,completed_sale,synthetic_v1
+641,cabinet,Cooler Master,,1.0,0,,Micro-ATX,0,2016,10,Good (light wear),Fully working,Yes,No,,Yes,No,800.0,completed_sale,synthetic_v1
+642,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2026,0,Like new,Works with minor issues,No,Yes,3 to 6 months,No,Yes,10250.0,completed_sale,synthetic_v1
+643,ssd,Samsung,,2.0,480,NVMe PCIe 3.0,,0,2019,7,Good (light wear),Fully working,Yes,No,,No,No,550.0,completed_sale,synthetic_v1
+644,gpu,Zotac,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2022,4,Like new,Fully working,No,No,,No,Yes,10700.0,completed_sale,synthetic_v1
+645,hdd,WD,,1.3,320,7200rpm,,1,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,1000.0,completed_sale,synthetic_v1
+646,psu,Corsair,,2.0,450,80+ Bronze,,0,2019,7,Poor (heavy wear),Fully working,Yes,No,,No,No,950.0,completed_sale,synthetic_v1
+647,hdd,WD,,1.3,500,7200rpm,,1,2021,5,Good (light wear),Fully working,No,No,,Yes,No,450.0,asking,synthetic_v1
+648,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2023,3,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,Yes,9500.0,completed_sale,synthetic_v1
+649,gpu,ASUS,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,0,2024,2,Like new,Fully working,No,Yes,3 to 6 months,No,No,9250.0,completed_sale,synthetic_v1
+650,expansion_card,TP-Link,,1.0,0,,Wi-Fi card,0,2022,4,Like new,Fully working,No,No,,No,No,600.0,completed_sale,synthetic_v1
+651,ram,Crucial,,2.0,4,DDR4,DIMM_1x4,0,2022,4,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,450.0,completed_sale,synthetic_v1
+652,hdd,Seagate,,1.0,4000,5400rpm,,0,2024,2,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,6100.0,completed_sale,synthetic_v1
+653,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2021,5,Fair (visible wear),Not working,No,No,,No,No,100.0,asking,synthetic_v1
+654,gpu,Gigabyte,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2022,4,Good (light wear),Fully working,No,No,,No,No,14000.0,completed_sale,synthetic_v1
+655,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2021,5,Fair (visible wear),Fully working,No,No,,Yes,No,2650.0,asking,synthetic_v1
+656,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2026,0,Good (light wear),Not working,No,Yes,6 to 12 months,No,Yes,4850.0,completed_sale,synthetic_v1
+657,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2021,5,Fair (visible wear),Fully working,No,No,,No,No,2050.0,completed_sale,synthetic_v1
+658,ram,G.Skill,,3.0,8,DDR5,SO-DIMM_1x8,0,2024,2,Like new,Fully working,No,No,,No,No,2600.0,completed_sale,synthetic_v1
+659,psu,Corsair,,2.0,550,80+ Bronze,,0,2020,6,Good (light wear),Fully working,No,No,,No,Yes,1950.0,asking,synthetic_v1
+660,motherboard,Gigabyte,,3.0,0,LGA1700,Micro-ATX,0,2023,3,Fair (visible wear),Fully working,No,No,,No,Yes,9100.0,completed_sale,synthetic_v1
+661,gpu,MSI,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2020,6,Fair (visible wear),Fully working,No,No,,Yes,No,2300.0,completed_sale,synthetic_v1
+662,ssd,WD,,2.0,512,NVMe PCIe 3.0,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,1950.0,completed_sale,synthetic_v1
+663,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,8000.0,completed_sale,synthetic_v1
+664,ssd,Kingston,,2.0,960,NVMe PCIe 3.0,,0,2021,5,Fair (visible wear),Works with minor issues,No,No,,Yes,No,1300.0,completed_sale,synthetic_v1
+665,ssd,WD,,1.0,480,SATA,,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,Yes,1450.0,completed_sale,synthetic_v1
+666,cabinet,Deepcool,,2.0,0,,Mid tower,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,2600.0,completed_sale,synthetic_v1
+667,psu,Cooler Master,,2.0,850,80+ Bronze,,0,2019,7,Fair (visible wear),Fully working,Yes,No,,No,No,1600.0,completed_sale,synthetic_v1
+668,hdd,WD,,1.0,500,5400rpm,,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,1450.0,completed_sale,synthetic_v1
+669,gpu,Zotac,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,No,18650.0,completed_sale,synthetic_v1
+670,gpu,Zotac,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,22500.0,completed_sale,synthetic_v1
+671,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2019,7,Like new,Fully working,Yes,No,,No,No,4350.0,asking,synthetic_v1
+672,gpu,ASUS,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2015,11,Good (light wear),Not working,No,No,,Yes,No,800.0,completed_sale,synthetic_v1
+673,gpu,Sapphire,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,Yes,8250.0,completed_sale,synthetic_v1
+674,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2022,4,Good (light wear),Fully working,No,No,,No,No,5050.0,completed_sale,synthetic_v1
+675,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2022,4,Like new,Fully working,No,No,,No,Yes,11150.0,completed_sale,synthetic_v1
+676,motherboard,Gigabyte,,2.0,0,AM4,ATX,0,2026,0,Fair (visible wear),Works with minor issues,No,No,,No,No,10100.0,completed_sale,synthetic_v1
+677,psu,Cooler Master,,3.0,650,80+ Gold,,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,4050.0,completed_sale,synthetic_v1
+678,hdd,Toshiba,,1.3,2000,7200rpm,,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,2900.0,asking,synthetic_v1
+679,gpu,MSI,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,13550.0,completed_sale,synthetic_v1
+680,ram,Crucial,,2.0,16,DDR4,DIMM_2x8,0,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,1650.0,completed_sale,synthetic_v1
+681,gpu,Sapphire,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2021,5,Like new,Fully working,No,No,,No,No,4150.0,completed_sale,synthetic_v1
+682,ssd,Kingston,,1.0,480,SATA,,0,2024,2,Good (light wear),Fully working,No,No,,No,No,1750.0,completed_sale,synthetic_v1
+683,cooler,Noctua,,1.0,0,,Air cooler,0,2023,3,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,1150.0,completed_sale,synthetic_v1
+684,gpu,Sapphire,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2026,0,Like new,Fully working,No,No,,No,Yes,47350.0,completed_sale,synthetic_v1
+685,expansion_card,ASUS,,1.0,0,,Ethernet card,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,No,950.0,completed_sale,synthetic_v1
+686,motherboard,ASRock,,3.5,0,AM5,Micro-ATX,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,12500.0,completed_sale,synthetic_v1
+687,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,8200.0,completed_sale,synthetic_v1
+688,ram,Adata,,3.0,16,DDR5,SO-DIMM_1x16,0,2021,5,Good (light wear),Fully working,No,No,,No,Yes,2600.0,asking,synthetic_v1
+689,ram,Adata,,2.0,16,DDR4,DIMM_1x16,0,2021,5,Like new,Not working,No,No,,Yes,No,600.0,completed_sale,synthetic_v1
+690,motherboard,ASRock,,3.0,0,LGA1700,ATX,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,Yes,17850.0,completed_sale,synthetic_v1
+691,gpu,Sapphire,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,Yes,No,31000.0,completed_sale,synthetic_v1
+692,psu,Corsair,,2.0,550,80+ Bronze,,0,2022,4,Good (light wear),Fully working,No,No,,No,No,2550.0,completed_sale,synthetic_v1
+693,gpu,Gigabyte,AMD Radeon RX 580,1.7,4,GDDR5,normal_use,0,2023,3,Poor (heavy wear),Fully working,No,No,,Yes,No,3950.0,completed_sale,synthetic_v1
+694,cabinet,NZXT,,2.0,0,,Mid tower,0,2024,2,Fair (visible wear),Fully working,Yes,No,,No,No,2650.0,completed_sale,synthetic_v1
+695,gpu,Sapphire,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,8200.0,completed_sale,synthetic_v1
+696,ram,Crucial,,1.0,16,DDR3,DIMM_2x8,0,2021,5,Good (light wear),Works with minor issues,No,No,,No,No,850.0,completed_sale,synthetic_v1
+697,gpu,MSI,AMD Radeon RX 580,1.7,4,GDDR5,normal_use,0,2021,5,Good (light wear),Fully working,No,No,,No,No,3500.0,completed_sale,synthetic_v1
+698,gpu,Palit,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,5750.0,completed_sale,synthetic_v1
+699,motherboard,ASRock,,2.0,0,AM4,Micro-ATX,0,2021,5,Good (light wear),Fully working,No,No,,No,No,5850.0,asking,synthetic_v1
+700,hdd,WD,,1.0,2000,5400rpm,,0,2024,2,Like new,Fully working,Yes,Yes,3 to 6 months,Yes,No,2900.0,completed_sale,synthetic_v1
+701,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2021,5,Fair (visible wear),Fully working,No,No,,No,No,6450.0,completed_sale,synthetic_v1
+702,gpu,MSI,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,heavily_mined,0,2026,0,Good (light wear),Fully working,No,No,,Yes,Yes,14100.0,completed_sale,synthetic_v1
+703,motherboard,Gigabyte,,3.0,0,LGA1700,ATX,0,2020,6,Good (light wear),Works with minor issues,No,No,,No,No,5050.0,completed_sale,synthetic_v1
+704,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,8550.0,completed_sale,synthetic_v1
+705,hdd,Seagate,,1.3,1000,7200rpm,,0,2026,0,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,No,2600.0,completed_sale,synthetic_v1
+706,ssd,Crucial,,2.0,480,NVMe PCIe 3.0,,0,2024,2,Good (light wear),Fully working,No,No,,No,No,2050.0,asking,synthetic_v1
+707,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2024,2,Good (light wear),Works with minor issues,No,Yes,Under 3 months,Yes,No,11000.0,completed_sale,synthetic_v1
+708,gpu,XFX,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,29100.0,completed_sale,synthetic_v1
+709,ssd,Adata,,1.0,480,SATA,,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,850.0,completed_sale,synthetic_v1
+710,motherboard,Gigabyte,,2.0,0,AM4,Micro-ATX,0,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,No,Yes,9500.0,completed_sale,synthetic_v1
+711,gpu,Sapphire,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2025,1,Fair (visible wear),Fully working,No,Yes,More than 12 months,Yes,No,20050.0,asking,synthetic_v1
+712,cooler,Deepcool,,2.0,0,,AIO 240 mm,0,2023,3,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,3850.0,completed_sale,synthetic_v1
+713,cooler,Cooler Master,,1.0,0,,Air cooler,1,2025,1,Like new,Fully working,Yes,No,,Yes,Yes,1800.0,completed_sale,synthetic_v1
+714,ram,Crucial,,1.0,8,DDR3,DIMM_1x8,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,1100.0,asking,synthetic_v1
+715,psu,Corsair,,2.0,650,80+ Bronze,,0,2023,3,Good (light wear),Not working,No,No,,No,No,1150.0,completed_sale,synthetic_v1
+716,ram,Corsair,,3.0,32,DDR5,SO-DIMM_1x32,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,11150.0,completed_sale,synthetic_v1
+717,hdd,Seagate,,1.3,500,7200rpm,,0,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,2000.0,completed_sale,synthetic_v1
+718,ssd,Crucial,,2.0,480,NVMe PCIe 3.0,,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,700.0,completed_sale,synthetic_v1
+719,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2024,2,Poor (heavy wear),Fully working,Yes,No,,Yes,No,13600.0,completed_sale,synthetic_v1
+720,ram,Adata,,3.0,16,DDR5,DIMM_1x16,0,2024,2,Like new,Fully working,No,Yes,More than 12 months,Yes,No,5000.0,completed_sale,synthetic_v1
+721,ssd,Kingston,,1.0,120,SATA,,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,850.0,completed_sale,synthetic_v1
+722,hdd,Toshiba,,1.0,320,5400rpm,,0,2024,2,Like new,Fully working,No,No,,Yes,No,1100.0,completed_sale,synthetic_v1
+723,cooler,Noctua,,1.0,0,,Air cooler,0,2019,7,Like new,Not working,No,No,,Yes,No,200.0,completed_sale,synthetic_v1
+724,ssd,Crucial,,2.0,480,NVMe PCIe 3.0,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,2150.0,completed_sale,synthetic_v1
+725,motherboard,ASRock,,3.0,0,LGA1700,ATX,0,2022,4,Poor (heavy wear),Fully working,No,No,,No,No,6150.0,completed_sale,synthetic_v1
+726,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2018,8,Good (light wear),Fully working,Yes,No,,No,No,200.0,completed_sale,synthetic_v1
+727,hdd,Seagate,,1.3,320,7200rpm,,1,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,1250.0,asking,synthetic_v1
+728,gpu,Zotac,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,1,2018,8,Poor (heavy wear),Fully working,No,No,,No,Yes,2950.0,completed_sale,synthetic_v1
+729,gpu,Palit,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2024,2,Like new,Works with minor issues,No,No,,Yes,No,12500.0,completed_sale,synthetic_v1
+730,ram,Crucial,,2.0,32,DDR4,DIMM_2x16,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,No,8600.0,completed_sale,synthetic_v1
+731,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2020,6,Like new,Fully working,No,No,,Yes,No,6500.0,asking,synthetic_v1
+732,ram,Kingston,,2.0,64,DDR4,DIMM_2x32,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,13950.0,asking,synthetic_v1
+733,ram,Corsair,,2.0,16,DDR4,DIMM_1x16,0,2025,1,Like new,Fully working,No,No,,Yes,No,4200.0,completed_sale,synthetic_v1
+734,motherboard,Gigabyte,,2.0,0,LGA1200,Micro-ATX,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,9250.0,completed_sale,synthetic_v1
+735,psu,Cooler Master,,2.0,650,80+ Bronze,,0,2022,4,Like new,Not working,No,No,,Yes,Yes,1000.0,completed_sale,synthetic_v1
+736,cooler,Corsair,,1.0,0,,Air cooler,0,2023,3,Good (light wear),Fully working,No,No,,No,No,1100.0,completed_sale,synthetic_v1
+737,motherboard,ASRock,,2.0,0,LGA1200,Micro-ATX,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,12350.0,completed_sale,synthetic_v1
+738,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2019,7,Fair (visible wear),Fully working,No,No,,No,Yes,3800.0,completed_sale,synthetic_v1
+739,ssd,Samsung,,2.0,256,NVMe PCIe 3.0,,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,500.0,completed_sale,synthetic_v1
+740,ram,Crucial,,1.0,8,DDR3,DIMM_2x4,0,2021,5,Fair (visible wear),Fully working,No,No,,Yes,No,500.0,completed_sale,synthetic_v1
+741,ram,Kingston,,3.0,8,DDR5,SO-DIMM_2x4,0,2025,1,Good (light wear),Fully working,No,No,,No,No,2850.0,completed_sale,synthetic_v1
+742,gpu,Gigabyte,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,0,2023,3,Poor (heavy wear),Fully working,No,Yes,More than 12 months,Yes,No,4800.0,completed_sale,synthetic_v1
+743,ram,Crucial,,1.0,4,DDR3,DIMM_1x4,0,2024,2,Like new,Fully working,No,No,,No,No,550.0,completed_sale,synthetic_v1
+744,gpu,Palit,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2021,5,Good (light wear),Fully working,No,No,,No,Yes,5700.0,asking,synthetic_v1
+745,motherboard,ASUS,,3.5,0,AM5,ATX,0,2021,5,Fair (visible wear),Fully working,No,No,,No,Yes,7400.0,completed_sale,synthetic_v1
+746,gpu,ASUS,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,Yes,Yes,Under 3 months,Yes,No,19200.0,completed_sale,synthetic_v1
+747,cooler,Deepcool,,1.0,0,,Air cooler,0,2019,7,Like new,Fully working,No,No,,Yes,Yes,650.0,completed_sale,synthetic_v1
+748,cooler,Corsair,,2.0,0,,AIO 240 mm,0,2026,0,Like new,Fully working,No,Yes,6 to 12 months,No,Yes,7550.0,completed_sale,synthetic_v1
+749,hdd,WD,,1.3,320,7200rpm,,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,1500.0,completed_sale,synthetic_v1
+750,psu,Corsair,,2.0,450,80+ Bronze,,0,2026,0,Like new,Not working,No,Yes,3 to 6 months,No,No,1950.0,completed_sale,synthetic_v1
+751,ram,Crucial,,1.0,64,DDR3,DIMM_2x32,0,2018,8,Like new,Fully working,No,No,,No,No,2050.0,completed_sale,synthetic_v1
+752,ssd,Adata,,1.0,2000,SATA,,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,No,8100.0,completed_sale,synthetic_v1
+753,ssd,WD,,2.0,960,NVMe PCIe 3.0,,0,2023,3,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,Yes,2600.0,asking,synthetic_v1
+754,gpu,Gigabyte,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,30250.0,asking,synthetic_v1
+755,hdd,Seagate,,1.3,500,7200rpm,,0,2024,2,Good (light wear),Fully working,No,No,,No,No,1350.0,completed_sale,synthetic_v1
+756,gpu,Sapphire,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,No,No,8450.0,completed_sale,synthetic_v1
+757,cooler,Cooler Master,,1.0,0,,Air cooler,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,1350.0,completed_sale,synthetic_v1
+758,gpu,Palit,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,Yes,No,,No,No,9650.0,completed_sale,synthetic_v1
+759,cooler,Deepcool,,1.0,0,,Air cooler,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,1600.0,completed_sale,synthetic_v1
+760,cabinet,Deepcool,,2.0,0,,Mid tower,0,2024,2,Like new,Fully working,No,No,,Yes,No,3550.0,completed_sale,synthetic_v1
+761,gpu,Sapphire,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2024,2,Fair (visible wear),Fully working,No,No,,No,Yes,9550.0,completed_sale,synthetic_v1
+762,ssd,Adata,,3.0,1000,NVMe PCIe 4.0,,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,3250.0,completed_sale,synthetic_v1
+763,ram,Crucial,,1.0,16,DDR3,DIMM_2x8,0,2024,2,Like new,Fully working,No,No,,No,No,2200.0,completed_sale,synthetic_v1
+764,psu,Deepcool,,2.0,650,80+ Bronze,,1,2022,4,Like new,Works with minor issues,No,No,,Yes,No,2150.0,completed_sale,synthetic_v1
+765,ram,Adata,,2.0,32,DDR4,SO-DIMM_1x32,0,2022,4,Good (light wear),Fully working,No,No,,No,No,3850.0,completed_sale,synthetic_v1
+766,psu,Cooler Master,,1.0,750,80+ White,,1,2023,3,Good (light wear),Works with minor issues,No,No,,No,No,2350.0,completed_sale,synthetic_v1
+767,ssd,Kingston,,1.0,480,SATA,,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,1900.0,completed_sale,synthetic_v1
+768,cabinet,Ant Esports,,3.0,0,,Full tower,0,2021,5,Like new,Fully working,No,No,,No,Yes,5700.0,completed_sale,synthetic_v1
+769,ram,Kingston,,2.0,16,DDR4,SO-DIMM_1x16,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,1150.0,completed_sale,synthetic_v1
+770,cabinet,Deepcool,,1.0,0,,Micro-ATX,0,2022,4,Like new,Fully working,No,No,,Yes,No,1850.0,completed_sale,synthetic_v1
+771,ram,G.Skill,,2.0,4,DDR4,DIMM_1x4,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,No,1100.0,completed_sale,synthetic_v1
+772,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2025,1,Fair (visible wear),Fully working,No,No,,No,Yes,14250.0,completed_sale,synthetic_v1
+773,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2021,5,Fair (visible wear),Fully working,No,No,,Yes,No,250.0,completed_sale,synthetic_v1
+774,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2025,1,Like new,Fully working,No,Yes,3 to 6 months,No,No,23650.0,asking,synthetic_v1
+775,ram,Kingston,,3.0,64,DDR5,DIMM_2x32,0,2025,1,Good (light wear),Not working,Yes,No,,No,Yes,7450.0,completed_sale,synthetic_v1
+776,ssd,Kingston,,1.0,120,SATA,,1,2025,1,Fair (visible wear),Fully working,No,No,,Yes,Yes,600.0,completed_sale,synthetic_v1
+777,gpu,Zotac,AMD Radeon RX 580,1.7,4,GDDR5,normal_use,0,2023,3,Like new,Fully working,No,Yes,6 to 12 months,No,Yes,6600.0,completed_sale,synthetic_v1
+778,motherboard,ASUS,,3.0,0,LGA1700,Micro-ATX,0,2025,1,Like new,Fully working,No,No,,No,No,18650.0,asking,synthetic_v1
+779,gpu,XFX,AMD Radeon RX 580,1.7,4,GDDR5,normal_use,0,2016,10,Good (light wear),Works with minor issues,No,No,,No,Yes,1150.0,completed_sale,synthetic_v1
+780,cabinet,Cooler Master,,3.0,0,,Full tower,0,2016,10,Like new,Fully working,No,No,,Yes,Yes,2800.0,completed_sale,synthetic_v1
+781,cabinet,Cooler Master,,1.0,0,,Micro-ATX,0,2024,2,Like new,Works with minor issues,No,No,,No,Yes,2400.0,asking,synthetic_v1
+782,ssd,WD,,3.0,2000,NVMe PCIe 4.0,,0,2023,3,Good (light wear),Fully working,No,No,,No,No,7400.0,completed_sale,synthetic_v1
+783,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2021,5,Fair (visible wear),Fully working,No,No,,Yes,Yes,450.0,completed_sale,synthetic_v1
+784,psu,Cosmic Byte,,2.0,450,80+ Bronze,,0,2025,1,Good (light wear),Fully working,No,No,,No,Yes,4500.0,asking,synthetic_v1
+785,motherboard,Gigabyte,,2.0,0,AM4,Micro-ATX,0,2021,5,Good (light wear),Works with minor issues,No,No,,No,Yes,5250.0,asking,synthetic_v1
+786,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,7200.0,completed_sale,synthetic_v1
+787,gpu,Sapphire,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,7450.0,completed_sale,synthetic_v1
+788,psu,Deepcool,,1.0,650,80+ White,,0,2023,3,Good (light wear),Fully working,No,No,,No,No,2650.0,completed_sale,synthetic_v1
+789,motherboard,Gigabyte,,2.0,0,AM4,Micro-ATX,0,2023,3,Fair (visible wear),Works with minor issues,No,No,,No,No,5750.0,completed_sale,synthetic_v1
+790,gpu,XFX,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,27500.0,completed_sale,synthetic_v1
+791,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2023,3,Like new,Fully working,No,No,,No,No,16500.0,completed_sale,synthetic_v1
+792,gpu,Palit,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2025,1,Good (light wear),Works with minor issues,No,Yes,Under 3 months,Yes,No,15900.0,completed_sale,synthetic_v1
+793,ssd,WD,,1.0,240,SATA,,0,2022,4,Poor (heavy wear),Fully working,No,No,,No,Yes,450.0,completed_sale,synthetic_v1
+794,ram,Adata,,1.0,16,DDR3,DIMM_2x8,0,2019,7,Like new,Fully working,No,No,,Yes,No,850.0,asking,synthetic_v1
+795,hdd,Toshiba,,1.0,500,5400rpm,,0,2025,1,Good (light wear),Fully working,Yes,No,,No,No,1550.0,asking,synthetic_v1
+796,hdd,WD,,1.3,500,7200rpm,,0,2021,5,Good (light wear),Fully working,No,No,,No,Yes,500.0,completed_sale,synthetic_v1
+797,hdd,WD,,1.0,320,5400rpm,,0,2023,3,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,750.0,completed_sale,synthetic_v1
+798,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2023,3,Good (light wear),Not working,No,Yes,Under 3 months,No,Yes,150.0,completed_sale,synthetic_v1
+799,ssd,Crucial,,2.0,256,NVMe PCIe 3.0,,0,2020,6,Like new,Works with minor issues,No,No,,Yes,No,450.0,completed_sale,synthetic_v1
+800,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2023,3,Good (light wear),Not working,No,No,,No,No,300.0,completed_sale,synthetic_v1
+801,cooler,Corsair,,1.0,0,,Air cooler,0,2025,1,Like new,Fully working,No,Yes,3 to 6 months,No,Yes,2050.0,completed_sale,synthetic_v1
+802,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2023,3,Fair (visible wear),Fully working,No,Yes,More than 12 months,Yes,No,10500.0,completed_sale,synthetic_v1
+803,hdd,Seagate,,1.0,500,5400rpm,,0,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,2250.0,completed_sale,synthetic_v1
+804,psu,Cosmic Byte,,2.0,550,80+ Bronze,,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,Yes,4550.0,completed_sale,synthetic_v1
+805,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,Yes,15650.0,completed_sale,synthetic_v1
+806,motherboard,Gigabyte,,3.0,0,LGA1700,Micro-ATX,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,22350.0,asking,synthetic_v1
+807,ssd,Adata,,3.0,240,NVMe PCIe 4.0,,0,2024,2,Like new,Fully working,No,No,,No,No,1300.0,completed_sale,synthetic_v1
+808,psu,Cooler Master,,1.0,750,80+ White,,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,No,4650.0,completed_sale,synthetic_v1
+809,gpu,ASUS,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,0,2019,7,Good (light wear),Fully working,No,No,,Yes,No,5550.0,completed_sale,synthetic_v1
+810,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2026,0,Good (light wear),Fully working,No,No,,Yes,No,4550.0,asking,synthetic_v1
+811,cabinet,NZXT,,2.0,0,,Mid tower,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,4150.0,asking,synthetic_v1
+812,gpu,XFX,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2021,5,Good (light wear),Works with minor issues,No,No,,Yes,No,5600.0,completed_sale,synthetic_v1
+813,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,10300.0,completed_sale,synthetic_v1
+814,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2024,2,Like new,Fully working,No,No,,Yes,No,8550.0,completed_sale,synthetic_v1
+815,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,400.0,asking,synthetic_v1
+816,ssd,Crucial,,2.0,2000,NVMe PCIe 3.0,,0,2024,2,Fair (visible wear),Fully working,No,No,,No,Yes,5250.0,completed_sale,synthetic_v1
+817,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2020,6,Fair (visible wear),Fully working,No,No,,Yes,No,6600.0,completed_sale,synthetic_v1
+818,gpu,Zotac,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2016,10,Good (light wear),Fully working,No,No,,No,Yes,4700.0,completed_sale,synthetic_v1
+819,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2022,4,Like new,Fully working,No,No,,No,Yes,14800.0,asking,synthetic_v1
+820,ram,Adata,,1.0,4,DDR3,DIMM_1x4,0,2024,2,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,500.0,completed_sale,synthetic_v1
+821,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,3150.0,completed_sale,synthetic_v1
+822,motherboard,Gigabyte,,2.0,0,AM4,Micro-ATX,0,2022,4,Like new,Fully working,No,No,,No,No,7050.0,completed_sale,synthetic_v1
+823,psu,Deepcool,,3.0,850,80+ Gold,,0,2026,0,Fair (visible wear),Fully working,No,No,,No,No,7050.0,completed_sale,synthetic_v1
+824,psu,Deepcool,,2.0,550,80+ Bronze,,0,2026,0,Fair (visible wear),Fully working,Yes,Yes,6 to 12 months,Yes,Yes,4200.0,completed_sale,synthetic_v1
+825,gpu,XFX,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,0,2026,0,Fair (visible wear),Fully working,No,No,,No,No,36400.0,asking,synthetic_v1
+826,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2020,6,Good (light wear),Works with minor issues,No,No,,No,No,1700.0,completed_sale,synthetic_v1
+827,ram,Kingston,,2.0,64,DDR4,SO-DIMM_2x32,0,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,17400.0,completed_sale,synthetic_v1
+828,motherboard,ASUS,,3.5,0,AM5,Mini-ITX,0,2018,8,Like new,Works with minor issues,No,No,,No,No,3850.0,completed_sale,synthetic_v1
+829,cooler,Cooler Master,,1.0,0,,Air cooler,0,2022,4,Like new,Fully working,No,No,,Yes,No,1050.0,completed_sale,synthetic_v1
+830,cooler,Cooler Master,,2.0,0,,AIO 240 mm,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,5700.0,completed_sale,synthetic_v1
+831,cabinet,Deepcool,,1.0,0,,Micro-ATX,0,2024,2,Like new,Fully working,No,No,,No,No,2400.0,completed_sale,synthetic_v1
+832,hdd,WD,,1.0,1000,5400rpm,,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,1900.0,asking,synthetic_v1
+833,ram,Kingston,,2.0,16,DDR4,DIMM_1x16,0,2025,1,Good (light wear),Works with minor issues,No,No,,No,No,2950.0,completed_sale,synthetic_v1
+834,gpu,MSI,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2021,5,Poor (heavy wear),Fully working,No,No,,No,Yes,4500.0,completed_sale,synthetic_v1
+835,ram,Corsair,,2.0,16,DDR4,DIMM_1x16,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,4100.0,completed_sale,synthetic_v1
+836,cabinet,Deepcool,,2.0,0,,Mid tower,1,2025,1,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,No,3100.0,completed_sale,synthetic_v1
+837,motherboard,ASUS,,2.0,0,AM4,ATX,0,2024,2,Fair (visible wear),Works with minor issues,No,No,,No,Yes,8050.0,completed_sale,synthetic_v1
+838,psu,Cosmic Byte,,3.0,550,80+ Gold,,0,2025,1,Fair (visible wear),Works with minor issues,No,No,,No,Yes,3900.0,completed_sale,synthetic_v1
+839,gpu,XFX,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2023,3,Like new,Fully working,Yes,No,,No,No,21450.0,completed_sale,synthetic_v1
+840,gpu,Sapphire,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,9650.0,asking,synthetic_v1
+841,psu,Antec,,2.0,850,80+ Bronze,,0,2022,4,Like new,Works with minor issues,No,No,,Yes,Yes,3100.0,completed_sale,synthetic_v1
+842,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2026,0,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,28600.0,completed_sale,synthetic_v1
+843,cooler,Corsair,,1.0,0,,Air cooler,0,2022,4,Like new,Fully working,Yes,No,,Yes,Yes,1100.0,completed_sale,synthetic_v1
+844,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2022,4,Good (light wear),Works with minor issues,No,No,,No,No,8000.0,completed_sale,synthetic_v1
+845,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2023,3,Good (light wear),Fully working,Yes,Yes,3 to 6 months,Yes,No,7500.0,asking,synthetic_v1
+846,gpu,Zotac,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,heavily_mined,0,2025,1,Fair (visible wear),Not working,No,No,,Yes,Yes,3450.0,completed_sale,synthetic_v1
+847,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2022,4,Fair (visible wear),Fully working,Yes,No,,Yes,No,5100.0,completed_sale,synthetic_v1
+848,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,Yes,No,5000.0,asking,synthetic_v1
+849,motherboard,MSI,,3.5,0,AM5,Micro-ATX,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,12250.0,completed_sale,synthetic_v1
+850,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,No,Yes,8850.0,completed_sale,synthetic_v1
+851,motherboard,ASRock,,2.0,0,AM4,Micro-ATX,0,2022,4,Poor (heavy wear),Fully working,No,No,,No,Yes,4200.0,completed_sale,synthetic_v1
+852,cabinet,NZXT,,2.0,0,,Mid tower,0,2023,3,Poor (heavy wear),Fully working,No,Yes,6 to 12 months,Yes,No,2300.0,completed_sale,synthetic_v1
+853,ssd,Samsung,,1.0,2000,SATA,,0,2023,3,Like new,Fully working,No,Yes,3 to 6 months,Yes,Yes,4550.0,completed_sale,synthetic_v1
+854,gpu,Sapphire,AMD Radeon RX 580,1.7,8,GDDR5,heavily_mined,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,9900.0,completed_sale,synthetic_v1
+855,ram,G.Skill,,2.0,8,DDR4,SO-DIMM_2x4,0,2023,3,Good (light wear),Fully working,No,No,,No,No,1250.0,completed_sale,synthetic_v1
+856,expansion_card,ASUS,,1.0,0,,Wi-Fi card,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,No,800.0,asking,synthetic_v1
+857,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2025,1,Good (light wear),Fully working,Yes,No,,Yes,Yes,16850.0,asking,synthetic_v1
+858,gpu,Gigabyte,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2026,0,Good (light wear),Not working,No,No,,Yes,Yes,12050.0,asking,synthetic_v1
+859,gpu,Sapphire,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,heavily_mined,0,2022,4,Poor (heavy wear),Fully working,No,No,,Yes,No,5250.0,completed_sale,synthetic_v1
+860,gpu,Zotac,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2024,2,Like new,Fully working,No,No,,Yes,No,29200.0,completed_sale,synthetic_v1
+861,ssd,Adata,,1.0,480,SATA,,0,2022,4,Poor (heavy wear),Works with minor issues,No,No,,No,Yes,600.0,completed_sale,synthetic_v1
+862,cooler,Corsair,,1.0,0,,Air cooler,0,2021,5,Like new,Fully working,No,No,,No,Yes,900.0,completed_sale,synthetic_v1
+863,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,No,Yes,1150.0,completed_sale,synthetic_v1
+864,hdd,WD,,1.0,4000,5400rpm,,0,2021,5,Fair (visible wear),Fully working,No,No,,No,Yes,2250.0,completed_sale,synthetic_v1
+865,hdd,Toshiba,,1.0,2000,5400rpm,,0,2020,6,Good (light wear),Works with minor issues,No,No,,Yes,No,1000.0,completed_sale,synthetic_v1
+866,psu,Antec,,3.0,550,80+ Gold,,0,2025,1,Like new,Works with minor issues,No,Yes,3 to 6 months,Yes,Yes,5100.0,completed_sale,synthetic_v1
+867,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2025,1,Poor (heavy wear),Fully working,No,Yes,More than 12 months,No,No,2800.0,completed_sale,synthetic_v1
+868,cooler,Corsair,,1.0,0,,Air cooler,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,1600.0,completed_sale,synthetic_v1
+869,psu,Corsair,,2.0,550,80+ Bronze,,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,Yes,Yes,4750.0,completed_sale,synthetic_v1
+870,ram,Corsair,,2.0,64,DDR4,SO-DIMM_2x32,0,2018,8,Good (light wear),Fully working,No,No,,No,No,2850.0,completed_sale,synthetic_v1
+871,psu,Antec,,1.0,450,80+ White,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,2700.0,completed_sale,synthetic_v1
+872,ram,Adata,,2.0,64,DDR4,DIMM_2x32,0,2024,2,Like new,Works with minor issues,No,No,,No,No,11750.0,asking,synthetic_v1
+873,ssd,Crucial,,2.0,2000,NVMe PCIe 3.0,,1,2023,3,Like new,Fully working,No,No,,No,Yes,4400.0,completed_sale,synthetic_v1
+874,psu,Cosmic Byte,,1.0,450,80+ White,,0,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,3600.0,completed_sale,synthetic_v1
+875,motherboard,Gigabyte,,2.0,0,AM4,ATX,0,2019,7,Poor (heavy wear),Fully working,No,No,,Yes,Yes,2650.0,completed_sale,synthetic_v1
+876,gpu,Sapphire,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,0,2022,4,Like new,Fully working,No,No,,No,Yes,12300.0,completed_sale,synthetic_v1
+877,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2024,2,Like new,Works with minor issues,Yes,No,,Yes,No,7700.0,completed_sale,synthetic_v1
+878,ssd,Kingston,,1.0,480,SATA,,1,2025,1,Good (light wear),Fully working,No,No,,Yes,No,1500.0,completed_sale,synthetic_v1
+879,psu,Cooler Master,,2.0,650,80+ Bronze,,0,2026,0,Like new,Works with minor issues,No,Yes,Under 3 months,Yes,No,5050.0,completed_sale,synthetic_v1
+880,psu,Deepcool,,1.0,450,80+ White,,0,2022,4,Good (light wear),Fully working,Yes,No,,No,Yes,2000.0,asking,synthetic_v1
+881,ssd,Samsung,,2.0,240,NVMe PCIe 3.0,,0,2024,2,Like new,Fully working,No,Yes,More than 12 months,Yes,Yes,1300.0,completed_sale,synthetic_v1
+882,expansion_card,TP-Link,,1.0,0,,Ethernet card,0,2023,3,Fair (visible wear),Not working,No,Yes,More than 12 months,Yes,No,200.0,completed_sale,synthetic_v1
+883,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,1,2025,1,Good (light wear),Fully working,No,No,,No,Yes,21550.0,asking,synthetic_v1
+884,ssd,WD,,3.0,240,NVMe PCIe 4.0,,0,2024,2,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,1050.0,completed_sale,synthetic_v1
+885,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2025,1,Good (light wear),Not working,No,Yes,More than 12 months,No,No,9150.0,completed_sale,synthetic_v1
+886,hdd,WD,,1.3,320,7200rpm,,0,2022,4,Good (light wear),Fully working,Yes,No,,No,No,550.0,completed_sale,synthetic_v1
+887,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,11700.0,asking,synthetic_v1
+888,psu,Antec,,2.0,750,80+ Bronze,,0,2024,2,Fair (visible wear),Fully working,No,No,,No,Yes,3650.0,completed_sale,synthetic_v1
+889,ram,Corsair,,2.0,4,DDR4,SO-DIMM_1x4,0,2021,5,Like new,Fully working,Yes,No,,No,No,400.0,completed_sale,synthetic_v1
+890,ram,Kingston,,2.0,16,DDR4,SO-DIMM_1x16,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,3100.0,completed_sale,synthetic_v1
+891,ssd,Adata,,1.0,240,SATA,,0,2024,2,Good (light wear),Fully working,Yes,No,,Yes,Yes,1000.0,completed_sale,synthetic_v1
+892,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2021,5,Like new,Fully working,No,No,,No,No,600.0,asking,synthetic_v1
+893,ram,G.Skill,,1.0,16,DDR3,DIMM_1x16,0,2025,1,Good (light wear),Fully working,No,No,,No,Yes,2850.0,asking,synthetic_v1
+894,gpu,ASUS,AMD Radeon RX 580,1.7,4,GDDR5,normal_use,0,2025,1,Fair (visible wear),Works with minor issues,No,Yes,More than 12 months,Yes,Yes,7950.0,completed_sale,synthetic_v1
+895,ram,Adata,,2.0,8,DDR4,SO-DIMM_1x8,0,2023,3,Like new,Fully working,No,No,,Yes,No,1300.0,completed_sale,synthetic_v1
+896,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,10050.0,completed_sale,synthetic_v1
+897,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,9050.0,completed_sale,synthetic_v1
+898,ram,G.Skill,,2.0,16,DDR4,SO-DIMM_1x16,0,2025,1,Poor (heavy wear),Fully working,No,Yes,6 to 12 months,Yes,No,2850.0,completed_sale,synthetic_v1
+899,gpu,Palit,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,1,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,18850.0,completed_sale,synthetic_v1
+900,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2022,4,Poor (heavy wear),Not working,No,No,,Yes,No,1250.0,asking,synthetic_v1
+901,ssd,WD,,1.0,1000,SATA,,0,2022,4,Like new,Fully working,No,No,,No,Yes,2050.0,completed_sale,synthetic_v1
+902,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2020,6,Fair (visible wear),Fully working,No,No,,No,Yes,6150.0,completed_sale,synthetic_v1
+903,ssd,Samsung,,1.0,240,SATA,,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,Yes,No,1550.0,asking,synthetic_v1
+904,gpu,Sapphire,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2019,7,Fair (visible wear),Not working,Yes,No,,No,No,1600.0,completed_sale,synthetic_v1
+905,motherboard,ASRock,,2.0,0,AM4,Mini-ITX,0,2022,4,Like new,Fully working,Yes,No,,Yes,Yes,8400.0,asking,synthetic_v1
+906,gpu,XFX,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2016,10,Poor (heavy wear),Works with minor issues,No,No,,Yes,Yes,1250.0,completed_sale,synthetic_v1
+907,psu,Antec,,2.0,750,80+ Bronze,,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,Yes,No,5500.0,completed_sale,synthetic_v1
+908,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2022,4,Like new,Fully working,No,No,,Yes,Yes,14350.0,completed_sale,synthetic_v1
+909,ram,G.Skill,,2.0,64,DDR4,SO-DIMM_2x32,0,2023,3,Like new,Not working,No,No,,Yes,Yes,4250.0,asking,synthetic_v1
+910,motherboard,Gigabyte,,3.5,0,AM5,Micro-ATX,0,2023,3,Fair (visible wear),Works with minor issues,No,Yes,Under 3 months,Yes,No,8250.0,completed_sale,synthetic_v1
+911,ram,G.Skill,,2.0,32,DDR4,DIMM_2x16,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,No,Yes,7650.0,completed_sale,synthetic_v1
+912,ram,Adata,,2.0,64,DDR4,DIMM_2x32,0,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,19450.0,completed_sale,synthetic_v1
+913,hdd,Toshiba,,1.3,500,7200rpm,,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,1300.0,completed_sale,synthetic_v1
+914,gpu,ASUS,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,Yes,9500.0,asking,synthetic_v1
+915,ram,Corsair,,2.0,8,DDR4,DIMM_1x8,0,2023,3,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,No,950.0,completed_sale,synthetic_v1
+916,gpu,Palit,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2021,5,Poor (heavy wear),Fully working,No,No,,Yes,Yes,4400.0,completed_sale,synthetic_v1
+917,motherboard,Gigabyte,,2.0,0,LGA1200,ATX,0,2026,0,Like new,Fully working,No,Yes,3 to 6 months,No,Yes,16450.0,completed_sale,synthetic_v1
+918,gpu,ASUS,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2019,7,Like new,Works with minor issues,No,No,,Yes,No,3450.0,completed_sale,synthetic_v1
+919,hdd,Seagate,,1.3,1000,7200rpm,,0,2018,8,Poor (heavy wear),Fully working,Yes,No,,Yes,No,200.0,completed_sale,synthetic_v1
+920,gpu,MSI,AMD Radeon RX 580,1.7,4,GDDR5,normal_use,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,3600.0,completed_sale,synthetic_v1
+921,hdd,Toshiba,,1.0,1000,5400rpm,,0,2023,3,Like new,Fully working,Yes,No,,Yes,Yes,1700.0,asking,synthetic_v1
+922,cooler,Cooler Master,,2.0,0,,AIO 240 mm,0,2026,0,Like new,Fully working,Yes,Yes,More than 12 months,Yes,No,9300.0,asking,synthetic_v1
+923,motherboard,MSI,,2.0,0,LGA1200,Micro-ATX,0,2024,2,Good (light wear),Fully working,Yes,No,,Yes,No,8700.0,asking,synthetic_v1
+924,gpu,Gigabyte,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2020,6,Like new,Fully working,Yes,No,,Yes,Yes,6400.0,completed_sale,synthetic_v1
+925,psu,Cooler Master,,2.0,450,80+ Bronze,,0,2020,6,Fair (visible wear),Fully working,No,No,,No,No,1500.0,asking,synthetic_v1
+926,cabinet,Deepcool,,2.0,0,,Mid tower,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,4300.0,completed_sale,synthetic_v1
+927,cooler,Noctua,,1.0,0,,Air cooler,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,900.0,completed_sale,synthetic_v1
+928,hdd,Toshiba,,1.3,2000,7200rpm,,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,2100.0,completed_sale,synthetic_v1
+929,gpu,XFX,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2025,1,Fair (visible wear),Works with minor issues,No,Yes,3 to 6 months,Yes,No,11700.0,completed_sale,synthetic_v1
+930,motherboard,ASRock,,3.5,0,AM5,ATX,0,2020,6,Fair (visible wear),Fully working,No,No,,No,Yes,5500.0,completed_sale,synthetic_v1
+931,cooler,Deepcool,,1.0,0,,Air cooler,0,2017,9,Fair (visible wear),Fully working,No,No,,Yes,Yes,300.0,completed_sale,synthetic_v1
+932,psu,Corsair,,1.0,750,80+ White,,0,2026,0,Like new,Fully working,No,Yes,6 to 12 months,No,No,5900.0,completed_sale,synthetic_v1
+933,gpu,Gigabyte,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,12300.0,asking,synthetic_v1
+934,gpu,Gigabyte,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,49500.0,completed_sale,synthetic_v1
+935,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,10250.0,asking,synthetic_v1
+936,gpu,Zotac,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,No,,No,No,20450.0,completed_sale,synthetic_v1
+937,motherboard,ASUS,,2.0,0,AM4,Micro-ATX,0,2021,5,Good (light wear),Works with minor issues,No,No,,No,No,4000.0,completed_sale,synthetic_v1
+938,motherboard,ASRock,,2.0,0,AM4,Micro-ATX,0,2026,0,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,13350.0,completed_sale,synthetic_v1
+939,gpu,Zotac,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,12850.0,completed_sale,synthetic_v1
+940,motherboard,ASRock,,2.0,0,AM4,Micro-ATX,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,14200.0,asking,synthetic_v1
+941,ram,Adata,,2.0,4,DDR4,SO-DIMM_1x4,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,No,Yes,1050.0,completed_sale,synthetic_v1
+942,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2022,4,Fair (visible wear),Works with minor issues,No,No,,No,No,4600.0,completed_sale,synthetic_v1
+943,motherboard,ASRock,,3.0,0,LGA1700,Micro-ATX,0,2025,1,Like new,Fully working,No,No,,No,No,16650.0,completed_sale,synthetic_v1
+944,psu,Antec,,1.0,750,80+ White,,0,2024,2,Good (light wear),Not working,No,Yes,Under 3 months,Yes,No,1250.0,completed_sale,synthetic_v1
+945,psu,Cosmic Byte,,2.0,450,80+ Bronze,,0,2026,0,Good (light wear),Fully working,No,No,,No,No,4500.0,completed_sale,synthetic_v1
+946,motherboard,Gigabyte,,2.0,0,AM4,ATX,0,2023,3,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,9100.0,completed_sale,synthetic_v1
+947,expansion_card,ASUS,,1.0,0,,Ethernet card,0,2022,4,Like new,Fully working,No,No,,Yes,No,550.0,asking,synthetic_v1
+948,gpu,XFX,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,No,18950.0,completed_sale,synthetic_v1
+949,ssd,Adata,,2.0,2000,NVMe PCIe 3.0,,0,2026,0,Good (light wear),Fully working,No,No,,Yes,Yes,9550.0,completed_sale,synthetic_v1
+950,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2023,3,Like new,Fully working,No,No,,No,No,3250.0,completed_sale,synthetic_v1
+951,gpu,XFX,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2021,5,Poor (heavy wear),Fully working,No,No,,Yes,No,6450.0,asking,synthetic_v1
+952,ram,Crucial,,2.0,16,DDR4,DIMM_2x8,0,2026,0,Like new,Fully working,No,No,,No,Yes,4850.0,completed_sale,synthetic_v1
+953,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2021,5,Fair (visible wear),Fully working,No,No,,Yes,Yes,6150.0,completed_sale,synthetic_v1
+954,cooler,Noctua,,1.0,0,,Air cooler,0,2025,1,Poor (heavy wear),Fully working,No,No,,Yes,Yes,1350.0,completed_sale,synthetic_v1
+955,ssd,Kingston,,2.0,480,NVMe PCIe 3.0,,0,2021,5,Poor (heavy wear),Fully working,No,No,,No,No,700.0,completed_sale,synthetic_v1
+956,motherboard,ASRock,,3.5,0,AM5,ATX,0,2024,2,Good (light wear),Fully working,No,No,,No,No,18400.0,asking,synthetic_v1
+957,ram,Corsair,,2.0,16,DDR4,DIMM_1x16,0,2022,4,Like new,Fully working,No,No,,No,No,1800.0,completed_sale,synthetic_v1
+958,ram,Crucial,,3.0,64,DDR5,SO-DIMM_2x32,0,2019,7,Good (light wear),Fully working,Yes,No,,No,No,5250.0,completed_sale,synthetic_v1
+959,cooler,Cooler Master,,2.0,0,,AIO 240 mm,0,2026,0,Like new,Works with minor issues,No,Yes,Under 3 months,No,No,6450.0,completed_sale,synthetic_v1
+960,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,2450.0,asking,synthetic_v1
+961,motherboard,ASUS,,2.0,0,AM4,ATX,0,2024,2,Like new,Fully working,No,No,,No,No,10000.0,completed_sale,synthetic_v1
+962,psu,Deepcool,,2.0,750,80+ Bronze,,0,2024,2,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,No,4250.0,completed_sale,synthetic_v1
+963,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2024,2,Like new,Fully working,No,No,,No,No,13650.0,completed_sale,synthetic_v1
+964,motherboard,ASRock,,3.0,0,LGA1700,Micro-ATX,0,2025,1,Good (light wear),Fully working,Yes,Yes,More than 12 months,No,No,17850.0,asking,synthetic_v1
+965,hdd,Seagate,,1.3,4000,7200rpm,,1,2023,3,Fair (visible wear),Works with minor issues,No,No,,Yes,Yes,2500.0,completed_sale,synthetic_v1
+966,ram,Crucial,,2.0,32,DDR4,DIMM_1x32,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,5850.0,completed_sale,synthetic_v1
+967,motherboard,ASRock,,3.5,0,AM5,Micro-ATX,0,2023,3,Like new,Fully working,No,No,,No,Yes,12000.0,completed_sale,synthetic_v1
+968,ssd,Crucial,,2.0,1000,NVMe PCIe 3.0,,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,2200.0,completed_sale,synthetic_v1
+969,gpu,Palit,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2025,1,Good (light wear),Works with minor issues,No,Yes,More than 12 months,Yes,No,34050.0,completed_sale,synthetic_v1
+970,ram,Adata,,3.0,16,DDR5,SO-DIMM_1x16,0,2026,0,Like new,Fully working,No,No,,No,No,6800.0,completed_sale,synthetic_v1
+971,gpu,Gigabyte,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2022,4,Like new,Fully working,No,No,,No,No,8800.0,completed_sale,synthetic_v1
+972,ram,Kingston,,1.0,16,DDR3,DIMM_1x16,0,2016,10,Poor (heavy wear),Fully working,No,No,,No,Yes,300.0,asking,synthetic_v1
+973,ram,Kingston,,2.0,4,DDR4,DIMM_1x4,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,500.0,completed_sale,synthetic_v1
+974,motherboard,ASUS,,3.0,0,LGA1700,Micro-ATX,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,Yes,No,16250.0,asking,synthetic_v1
+975,ram,Adata,,2.0,64,DDR4,DIMM_2x32,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,10400.0,completed_sale,synthetic_v1
+976,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,9000.0,completed_sale,synthetic_v1
+977,gpu,Sapphire,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2026,0,Good (light wear),Works with minor issues,No,Yes,Under 3 months,No,Yes,18550.0,completed_sale,synthetic_v1
+978,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2018,8,Good (light wear),Fully working,No,No,,Yes,No,4500.0,completed_sale,synthetic_v1
+979,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,1450.0,completed_sale,synthetic_v1
+980,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2026,0,Fair (visible wear),Fully working,No,Yes,Under 3 months,Yes,No,950.0,completed_sale,synthetic_v1
+981,psu,Deepcool,,2.0,750,80+ Bronze,,0,2025,1,Fair (visible wear),Fully working,Yes,No,,Yes,No,4500.0,completed_sale,synthetic_v1
+982,hdd,Seagate,,1.0,500,5400rpm,,0,2025,1,Poor (heavy wear),Works with minor issues,No,No,,No,Yes,900.0,completed_sale,synthetic_v1
+983,ssd,Crucial,,2.0,240,NVMe PCIe 3.0,,0,2024,2,Like new,Fully working,No,Yes,More than 12 months,Yes,No,1150.0,completed_sale,synthetic_v1
+984,psu,Deepcool,,2.0,550,80+ Bronze,,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,3750.0,asking,synthetic_v1
+985,ssd,Adata,,1.0,256,SATA,,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,650.0,completed_sale,synthetic_v1
+986,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2023,3,Poor (heavy wear),Fully working,Yes,No,,No,Yes,6700.0,completed_sale,synthetic_v1
+987,motherboard,ASUS,,2.0,0,LGA1200,Micro-ATX,1,2024,2,Good (light wear),Fully working,No,No,,No,No,7750.0,completed_sale,synthetic_v1
+988,ram,G.Skill,,2.0,8,DDR4,SO-DIMM_1x8,0,2026,0,Good (light wear),Not working,No,Yes,Under 3 months,Yes,No,800.0,completed_sale,synthetic_v1
+989,ssd,Adata,,2.0,480,NVMe PCIe 3.0,,1,2023,3,Good (light wear),Fully working,No,No,,No,No,1100.0,completed_sale,synthetic_v1
+990,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2025,1,Good (light wear),Works with minor issues,No,Yes,6 to 12 months,No,Yes,1150.0,completed_sale,synthetic_v1
+991,ssd,Crucial,,1.0,256,SATA,,0,2021,5,Like new,Works with minor issues,Yes,No,,Yes,No,600.0,asking,synthetic_v1
+992,motherboard,ASUS,,3.5,0,AM5,Micro-ATX,0,2020,6,Like new,Fully working,No,No,,Yes,Yes,6950.0,completed_sale,synthetic_v1
+993,ram,Kingston,,2.0,64,DDR4,DIMM_2x32,0,2023,3,Fair (visible wear),Not working,No,Yes,Under 3 months,No,No,3650.0,asking,synthetic_v1
+994,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,31600.0,asking,synthetic_v1
+995,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,1,2017,9,Good (light wear),Fully working,No,No,,No,No,2550.0,asking,synthetic_v1
+996,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2023,3,Poor (heavy wear),Fully working,No,No,,No,No,6950.0,completed_sale,synthetic_v1
+997,gpu,Palit,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2023,3,Good (light wear),Works with minor issues,No,No,,No,No,11250.0,completed_sale,synthetic_v1
+998,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2023,3,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,No,10500.0,completed_sale,synthetic_v1
+999,hdd,Toshiba,,1.0,500,5400rpm,,0,2021,5,Like new,Fully working,No,No,,Yes,Yes,600.0,completed_sale,synthetic_v1
+1000,gpu,Sapphire,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,heavily_mined,0,2024,2,Like new,Fully working,No,Yes,More than 12 months,No,No,18400.0,completed_sale,synthetic_v1
+1001,ssd,Crucial,,1.0,2000,SATA,,0,2024,2,Like new,Fully working,No,Yes,Under 3 months,Yes,Yes,6250.0,completed_sale,synthetic_v1
+1002,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,17250.0,completed_sale,synthetic_v1
+1003,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,19150.0,asking,synthetic_v1
+1004,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2022,4,Good (light wear),Fully working,Yes,No,,No,Yes,5100.0,asking,synthetic_v1
+1005,gpu,XFX,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2021,5,Good (light wear),Not working,No,No,,Yes,No,1150.0,completed_sale,synthetic_v1
+1006,hdd,Toshiba,,1.0,2000,5400rpm,,0,2024,2,Like new,Fully working,No,No,,No,No,3050.0,completed_sale,synthetic_v1
+1007,ram,Corsair,,2.0,32,DDR4,DIMM_2x16,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,4200.0,completed_sale,synthetic_v1
+1008,ssd,WD,,2.0,120,NVMe PCIe 3.0,,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,Yes,1000.0,completed_sale,synthetic_v1
+1009,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2025,1,Like new,Fully working,No,No,,No,No,12250.0,completed_sale,synthetic_v1
+1010,motherboard,ASUS,,2.0,0,AM4,Mini-ITX,0,2019,7,Poor (heavy wear),Fully working,No,No,,No,No,2400.0,completed_sale,synthetic_v1
+1011,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,14000.0,completed_sale,synthetic_v1
+1012,gpu,Palit,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2025,1,Fair (visible wear),Fully working,No,No,,No,Yes,15600.0,completed_sale,synthetic_v1
+1013,cooler,Cooler Master,,3.0,0,,AIO 360 mm,0,2022,4,Like new,Fully working,No,No,,Yes,No,5100.0,completed_sale,synthetic_v1
+1014,ram,Kingston,,2.0,8,DDR4,DIMM_1x8,0,2023,3,Poor (heavy wear),Fully working,No,Yes,6 to 12 months,No,Yes,850.0,completed_sale,synthetic_v1
+1015,gpu,Gigabyte,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,4050.0,completed_sale,synthetic_v1
+1016,gpu,ASUS,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,9000.0,completed_sale,synthetic_v1
+1017,ram,Corsair,,3.0,16,DDR5,SO-DIMM_1x16,0,2021,5,Like new,Fully working,No,No,,Yes,Yes,2500.0,completed_sale,synthetic_v1
+1018,cooler,Deepcool,,1.0,0,,Air cooler,0,2024,2,Good (light wear),Not working,No,No,,Yes,Yes,550.0,completed_sale,synthetic_v1
+1019,hdd,Toshiba,,1.3,500,7200rpm,,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,1750.0,completed_sale,synthetic_v1
+1020,ram,Adata,,3.0,4,DDR5,DIMM_1x4,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,1300.0,asking,synthetic_v1
+1021,ssd,Adata,,2.0,2000,NVMe PCIe 3.0,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,6500.0,completed_sale,synthetic_v1
+1022,hdd,Seagate,,1.3,500,7200rpm,,1,2014,12,Good (light wear),Fully working,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+1023,ssd,Kingston,,1.0,960,SATA,,0,2019,7,Fair (visible wear),Fully working,No,No,,Yes,No,800.0,completed_sale,synthetic_v1
+1024,gpu,Zotac,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,1,2020,6,Fair (visible wear),Fully working,Yes,No,,Yes,No,4800.0,asking,synthetic_v1
+1025,ssd,Samsung,,3.0,1000,NVMe PCIe 4.0,,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,5900.0,completed_sale,synthetic_v1
+1026,gpu,MSI,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2024,2,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,10850.0,asking,synthetic_v1
+1027,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2022,4,Fair (visible wear),Works with minor issues,No,No,,No,No,2100.0,completed_sale,synthetic_v1
+1028,gpu,MSI,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2024,2,Like new,Fully working,No,No,,No,No,26800.0,completed_sale,synthetic_v1
+1029,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2022,4,Like new,Works with minor issues,No,No,,Yes,No,4100.0,completed_sale,synthetic_v1
+1030,gpu,MSI,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,5400.0,completed_sale,synthetic_v1
+1031,ram,Crucial,,2.0,16,DDR4,SO-DIMM_2x8,0,2025,1,Like new,Fully working,No,No,,No,Yes,4050.0,completed_sale,synthetic_v1
+1032,gpu,Sapphire,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2024,2,Like new,Works with minor issues,No,Yes,Under 3 months,No,No,26850.0,asking,synthetic_v1
+1033,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2019,7,Good (light wear),Fully working,Yes,No,,Yes,No,200.0,completed_sale,synthetic_v1
+1034,ram,Crucial,,3.0,16,DDR5,SO-DIMM_1x16,0,2015,11,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,700.0,completed_sale,synthetic_v1
+1035,motherboard,ASUS,,3.5,0,AM5,ATX,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,No,20650.0,asking,synthetic_v1
+1036,gpu,ASUS,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,0,2019,7,Good (light wear),Fully working,No,No,,No,Yes,5400.0,completed_sale,synthetic_v1
+1037,ram,Corsair,,2.0,32,DDR4,DIMM_1x32,0,2020,6,Good (light wear),Fully working,No,No,,Yes,Yes,2400.0,completed_sale,synthetic_v1
+1038,ssd,WD,,3.0,2000,NVMe PCIe 4.0,,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,5300.0,completed_sale,synthetic_v1
+1039,ssd,Crucial,,1.0,120,SATA,,0,2022,4,Good (light wear),Fully working,No,No,,No,No,500.0,completed_sale,synthetic_v1
+1040,expansion_card,ASUS,,1.0,0,,Ethernet card,0,2026,0,Fair (visible wear),Fully working,No,No,,No,Yes,1050.0,completed_sale,synthetic_v1
+1041,psu,Cosmic Byte,,2.0,750,80+ Bronze,,0,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,4150.0,completed_sale,synthetic_v1
+1042,psu,Corsair,,2.0,650,80+ Bronze,,1,2019,7,Good (light wear),Fully working,No,No,,No,Yes,1200.0,completed_sale,synthetic_v1
+1043,ram,G.Skill,,1.0,64,DDR3,DIMM_2x32,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,6400.0,completed_sale,synthetic_v1
+1044,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,9550.0,completed_sale,synthetic_v1
+1045,hdd,Seagate,,1.3,500,7200rpm,,0,2026,0,Good (light wear),Fully working,No,No,,No,No,2050.0,completed_sale,synthetic_v1
+1046,psu,Corsair,,2.0,750,80+ Bronze,,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,6650.0,completed_sale,synthetic_v1
+1047,ssd,Crucial,,3.0,960,NVMe PCIe 4.0,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,4350.0,completed_sale,synthetic_v1
+1048,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2023,3,Poor (heavy wear),Fully working,No,Yes,6 to 12 months,No,Yes,10550.0,completed_sale,synthetic_v1
+1049,gpu,MSI,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,13700.0,completed_sale,synthetic_v1
+1050,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2025,1,Good (light wear),Fully working,No,No,,No,Yes,24250.0,completed_sale,synthetic_v1
+1051,psu,Corsair,,3.0,450,80+ Gold,,0,2024,2,Good (light wear),Fully working,Yes,No,,No,Yes,3500.0,completed_sale,synthetic_v1
+1052,motherboard,ASUS,,2.0,0,LGA1200,Micro-ATX,0,2025,1,Like new,Works with minor issues,No,Yes,More than 12 months,No,No,10350.0,completed_sale,synthetic_v1
+1053,gpu,Sapphire,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2015,11,Fair (visible wear),Fully working,Yes,No,,No,Yes,1950.0,completed_sale,synthetic_v1
+1054,hdd,WD,,1.3,4000,7200rpm,,0,2021,5,Like new,Fully working,No,No,,No,No,2550.0,completed_sale,synthetic_v1
+1055,psu,Corsair,,3.0,450,80+ Gold,,0,2026,0,Good (light wear),Fully working,Yes,Yes,3 to 6 months,Yes,Yes,5750.0,completed_sale,synthetic_v1
+1056,hdd,Toshiba,,1.3,4000,7200rpm,,1,2020,6,Like new,Fully working,Yes,No,,No,No,1300.0,completed_sale,synthetic_v1
+1057,gpu,Gigabyte,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,heavily_mined,0,2023,3,Like new,Fully working,Yes,No,,No,Yes,11700.0,completed_sale,synthetic_v1
+1058,psu,Cosmic Byte,,2.0,650,80+ Bronze,,0,2022,4,Fair (visible wear),Works with minor issues,No,No,,No,Yes,2050.0,completed_sale,synthetic_v1
+1059,ram,Crucial,,2.0,64,DDR4,SO-DIMM_2x32,0,2023,3,Like new,Fully working,No,No,,No,Yes,10400.0,completed_sale,synthetic_v1
+1060,ram,Adata,,2.0,4,DDR4,DIMM_1x4,0,2021,5,Poor (heavy wear),Fully working,No,No,,Yes,No,250.0,completed_sale,synthetic_v1
+1061,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,11400.0,completed_sale,synthetic_v1
+1062,ram,Crucial,,2.0,16,DDR4,SO-DIMM_1x16,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,3850.0,completed_sale,synthetic_v1
+1063,gpu,MSI,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2022,4,Good (light wear),Not working,No,No,,No,Yes,5250.0,completed_sale,synthetic_v1
+1064,motherboard,Gigabyte,,2.0,0,LGA1200,ATX,0,2024,2,Good (light wear),Fully working,Yes,Yes,More than 12 months,No,Yes,12350.0,asking,synthetic_v1
+1065,gpu,Sapphire,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,6750.0,completed_sale,synthetic_v1
+1066,gpu,XFX,AMD Radeon RX 580,1.7,8,GDDR5,normal_use,0,2025,1,Fair (visible wear),Not working,No,Yes,More than 12 months,No,No,3600.0,completed_sale,synthetic_v1
+1067,gpu,Sapphire,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2024,2,Like new,Fully working,No,No,,Yes,No,21900.0,asking,synthetic_v1
+1068,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,6300.0,completed_sale,synthetic_v1
+1069,psu,Corsair,,2.0,450,80+ Bronze,,0,2020,6,Fair (visible wear),Works with minor issues,Yes,No,,No,Yes,1150.0,completed_sale,synthetic_v1
+1070,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2025,1,Good (light wear),Fully working,Yes,No,,No,No,21250.0,completed_sale,synthetic_v1
+1071,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2024,2,Fair (visible wear),Fully working,Yes,No,,Yes,No,15400.0,asking,synthetic_v1
+1072,expansion_card,ASUS,,1.0,0,,Sound card,0,2021,5,Like new,Fully working,No,No,,Yes,No,600.0,completed_sale,synthetic_v1
+1073,ssd,Samsung,,3.0,240,NVMe PCIe 4.0,,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,1200.0,completed_sale,synthetic_v1
+1074,cabinet,NZXT,,2.0,0,,Mid tower,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,2950.0,completed_sale,synthetic_v1
+1075,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2018,8,Fair (visible wear),Not working,No,No,,Yes,No,500.0,completed_sale,synthetic_v1
+1076,gpu,ASUS,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2026,0,Like new,Not working,No,No,,No,No,8550.0,completed_sale,synthetic_v1
+1077,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,7000.0,completed_sale,synthetic_v1
+1078,hdd,Toshiba,,1.3,1000,7200rpm,,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,950.0,completed_sale,synthetic_v1
+1079,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2022,4,Like new,Fully working,No,No,,No,No,9900.0,completed_sale,synthetic_v1
+1080,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,12900.0,completed_sale,synthetic_v1
+1081,gpu,MSI,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2024,2,Good (light wear),Not working,No,No,,Yes,No,2600.0,completed_sale,synthetic_v1
+1082,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,8700.0,completed_sale,synthetic_v1
+1083,cooler,Cooler Master,,2.0,0,,AIO 240 mm,0,2026,0,Fair (visible wear),Works with minor issues,No,Yes,More than 12 months,Yes,Yes,5450.0,completed_sale,synthetic_v1
+1084,ram,Kingston,,1.0,16,DDR3,DIMM_2x8,0,2020,6,Fair (visible wear),Works with minor issues,No,No,,No,No,650.0,asking,synthetic_v1
+1085,psu,Antec,,3.0,750,80+ Gold,,0,2024,2,Good (light wear),Fully working,No,No,,No,No,5100.0,completed_sale,synthetic_v1
+1086,hdd,WD,,1.3,2000,7200rpm,,1,2020,6,Fair (visible wear),Fully working,No,No,,No,Yes,600.0,completed_sale,synthetic_v1
+1087,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2023,3,Good (light wear),Fully working,Yes,Yes,Under 3 months,No,Yes,2900.0,completed_sale,synthetic_v1
+1088,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2025,1,Fair (visible wear),Works with minor issues,No,Yes,3 to 6 months,Yes,Yes,16950.0,completed_sale,synthetic_v1
+1089,gpu,MSI,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2023,3,Good (light wear),Works with minor issues,No,No,,No,Yes,7050.0,completed_sale,synthetic_v1
+1090,psu,Cooler Master,,3.0,750,80+ Gold,,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,8300.0,asking,synthetic_v1
+1091,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,23900.0,asking,synthetic_v1
+1092,gpu,Zotac,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,10000.0,completed_sale,synthetic_v1
+1093,ram,Adata,,2.0,16,DDR4,DIMM_2x8,0,2022,4,Poor (heavy wear),Works with minor issues,No,No,,No,No,1050.0,completed_sale,synthetic_v1
+1094,gpu,Gigabyte,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,1,2022,4,Fair (visible wear),Fully working,No,No,,No,No,7200.0,completed_sale,synthetic_v1
+1095,ram,Crucial,,2.0,32,DDR4,DIMM_1x32,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,No,6150.0,completed_sale,synthetic_v1
+1096,cabinet,NZXT,,1.0,0,,Micro-ATX,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,1850.0,completed_sale,synthetic_v1
+1097,ram,Corsair,,1.0,4,DDR3,DIMM_1x4,0,2022,4,Like new,Works with minor issues,No,No,,No,Yes,350.0,completed_sale,synthetic_v1
+1098,ram,Crucial,,2.0,8,DDR4,SO-DIMM_1x8,0,2024,2,Good (light wear),Works with minor issues,No,No,,Yes,Yes,1500.0,asking,synthetic_v1
+1099,ssd,Crucial,,1.0,2000,SATA,,0,2023,3,Like new,Fully working,No,No,,No,Yes,4550.0,completed_sale,synthetic_v1
+1100,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2018,8,Good (light wear),Works with minor issues,No,No,,Yes,No,1550.0,completed_sale,synthetic_v1
+1101,ram,Kingston,,1.0,32,DDR3,DIMM_2x16,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,Yes,6700.0,completed_sale,synthetic_v1
+1102,psu,Antec,,2.0,850,80+ Bronze,,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,No,6150.0,completed_sale,synthetic_v1
+1103,gpu,ASUS,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,No,,No,Yes,27050.0,completed_sale,synthetic_v1
+1104,ram,G.Skill,,2.0,32,DDR4,SO-DIMM_1x32,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,6500.0,asking,synthetic_v1
+1105,ram,Adata,,1.0,8,DDR3,DIMM_1x8,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,No,1250.0,completed_sale,synthetic_v1
+1106,ssd,Crucial,,1.0,2000,SATA,,0,2024,2,Like new,Fully working,No,No,,Yes,No,5950.0,completed_sale,synthetic_v1
+1107,psu,Cosmic Byte,,2.0,850,80+ Bronze,,0,2026,0,Like new,Fully working,No,No,,No,No,7350.0,completed_sale,synthetic_v1
+1108,ram,G.Skill,,2.0,32,DDR4,DIMM_2x16,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,3000.0,completed_sale,synthetic_v1
+1109,ram,G.Skill,,3.0,16,DDR5,SO-DIMM_1x16,0,2024,2,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,No,4100.0,completed_sale,synthetic_v1
+1110,hdd,Toshiba,,1.3,320,7200rpm,,0,2023,3,Good (light wear),Fully working,No,No,,No,No,750.0,completed_sale,synthetic_v1
+1111,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2021,5,Fair (visible wear),Works with minor issues,No,No,,Yes,Yes,7500.0,completed_sale,synthetic_v1
+1112,ram,Crucial,,2.0,8,DDR4,SO-DIMM_1x8,0,2025,1,Like new,Fully working,No,No,,No,Yes,1950.0,completed_sale,synthetic_v1
+1113,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,No,Yes,4300.0,completed_sale,synthetic_v1
+1114,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2022,4,Like new,Works with minor issues,No,No,,Yes,Yes,8700.0,completed_sale,synthetic_v1
+1115,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,3750.0,completed_sale,synthetic_v1
+1116,hdd,Toshiba,,1.0,1000,5400rpm,,0,2021,5,Good (light wear),Fully working,No,No,,Yes,Yes,850.0,completed_sale,synthetic_v1
+1117,psu,Deepcool,,1.0,750,80+ White,,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,2600.0,completed_sale,synthetic_v1
+1118,ram,Crucial,,3.0,16,DDR5,DIMM_1x16,1,2021,5,Fair (visible wear),Fully working,No,No,,No,No,1800.0,completed_sale,synthetic_v1
+1119,ssd,Samsung,,1.0,1000,SATA,,0,2022,4,Like new,Fully working,No,No,,No,Yes,1900.0,completed_sale,synthetic_v1
+1120,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2020,6,Like new,Fully working,No,No,,Yes,Yes,4900.0,completed_sale,synthetic_v1
+1121,gpu,Gigabyte,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2021,5,Like new,Fully working,No,No,,Yes,Yes,3750.0,completed_sale,synthetic_v1
+1122,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2017,9,Good (light wear),Fully working,No,No,,Yes,No,1600.0,completed_sale,synthetic_v1
+1123,gpu,XFX,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,1,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,No,24350.0,completed_sale,synthetic_v1
+1124,hdd,Seagate,,1.3,2000,7200rpm,,1,2018,8,Poor (heavy wear),Fully working,No,No,,Yes,No,300.0,completed_sale,synthetic_v1
+1125,gpu,MSI,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2022,4,Good (light wear),Fully working,No,No,,No,No,7700.0,completed_sale,synthetic_v1
+1126,gpu,Palit,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,No,13450.0,asking,synthetic_v1
+1127,gpu,XFX,NVIDIA GeForce RTX 3060,3.3,8,GDDR6,normal_use,0,2026,0,Fair (visible wear),Works with minor issues,No,Yes,6 to 12 months,No,Yes,26600.0,asking,synthetic_v1
+1128,ssd,Samsung,,2.0,1000,NVMe PCIe 3.0,,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,3100.0,completed_sale,synthetic_v1
+1129,hdd,Seagate,,1.0,2000,5400rpm,,0,2026,0,Good (light wear),Fully working,No,No,,No,No,4750.0,completed_sale,synthetic_v1
+1130,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,9100.0,completed_sale,synthetic_v1
+1131,ram,Crucial,,2.0,32,DDR4,SO-DIMM_1x32,0,2022,4,Poor (heavy wear),Fully working,No,No,,No,Yes,2550.0,completed_sale,synthetic_v1
+1132,gpu,XFX,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,20150.0,completed_sale,synthetic_v1
+1133,motherboard,ASRock,,2.0,0,LGA1200,Micro-ATX,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,7700.0,completed_sale,synthetic_v1
+1134,hdd,Toshiba,,1.0,1000,5400rpm,,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,1900.0,completed_sale,synthetic_v1
+1135,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2023,3,Good (light wear),Works with minor issues,No,Yes,3 to 6 months,Yes,No,7450.0,completed_sale,synthetic_v1
+1136,ram,Adata,,2.0,32,DDR4,SO-DIMM_1x32,0,2018,8,Good (light wear),Not working,Yes,No,,Yes,Yes,500.0,completed_sale,synthetic_v1
+1137,ssd,Kingston,,1.0,960,SATA,,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,2000.0,asking,synthetic_v1
+1138,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,7500.0,completed_sale,synthetic_v1
+1139,cooler,Deepcool,,3.0,0,,AIO 360 mm,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,4800.0,asking,synthetic_v1
+1140,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2025,1,Good (light wear),Works with minor issues,No,No,,No,Yes,8000.0,completed_sale,synthetic_v1
+1141,psu,Cosmic Byte,,3.0,450,80+ Gold,,0,2024,2,Good (light wear),Fully working,No,No,,No,No,3900.0,completed_sale,synthetic_v1
+1142,gpu,Zotac,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2018,8,Good (light wear),Fully working,No,No,,No,Yes,3600.0,completed_sale,synthetic_v1
+1143,motherboard,Gigabyte,,2.0,0,AM4,Micro-ATX,0,2025,1,Good (light wear),Fully working,No,No,,No,No,11850.0,completed_sale,synthetic_v1
+1144,expansion_card,TP-Link,,1.0,0,,Wi-Fi card,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,1300.0,completed_sale,synthetic_v1
+1145,cooler,Corsair,,2.0,0,,AIO 240 mm,0,2022,4,Poor (heavy wear),Fully working,No,No,,No,No,2050.0,completed_sale,synthetic_v1
+1146,gpu,ASUS,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,16150.0,asking,synthetic_v1
+1147,hdd,Toshiba,,1.0,4000,5400rpm,,0,2026,0,Good (light wear),Fully working,No,No,,Yes,No,8450.0,completed_sale,synthetic_v1
+1148,gpu,Gigabyte,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,6150.0,completed_sale,synthetic_v1
+1149,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2024,2,Like new,Fully working,No,Yes,More than 12 months,No,Yes,3450.0,completed_sale,synthetic_v1
+1150,hdd,Toshiba,,1.0,500,5400rpm,,1,2024,2,Good (light wear),Works with minor issues,No,Yes,More than 12 months,No,No,850.0,asking,synthetic_v1
+1151,gpu,Sapphire,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2019,7,Poor (heavy wear),Fully working,No,No,,Yes,No,3650.0,completed_sale,synthetic_v1
+1152,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2021,5,Good (light wear),Fully working,Yes,No,,No,No,7100.0,completed_sale,synthetic_v1
+1153,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2020,6,Poor (heavy wear),Fully working,No,No,,No,Yes,5300.0,completed_sale,synthetic_v1
+1154,gpu,Zotac,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2022,4,Good (light wear),Works with minor issues,No,No,,No,No,6700.0,completed_sale,synthetic_v1
+1155,motherboard,MSI,,3.5,0,AM5,Micro-ATX,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,13950.0,completed_sale,synthetic_v1
+1156,gpu,MSI,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2023,3,Like new,Fully working,No,No,,Yes,No,12950.0,completed_sale,synthetic_v1
+1157,expansion_card,Gigabyte,,1.0,0,,Ethernet card,0,2024,2,Like new,Fully working,No,No,,Yes,No,700.0,completed_sale,synthetic_v1
+1158,motherboard,Gigabyte,,2.0,0,AM4,ATX,0,2022,4,Like new,Fully working,Yes,No,,No,No,6850.0,completed_sale,synthetic_v1
+1159,cabinet,NZXT,,2.0,0,,Mid tower,0,2024,2,Good (light wear),Fully working,No,No,,No,No,3250.0,completed_sale,synthetic_v1
+1160,psu,Corsair,,2.0,750,80+ Bronze,,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,2450.0,completed_sale,synthetic_v1
+1161,gpu,Sapphire,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2026,0,Like new,Fully working,No,No,,Yes,No,17800.0,completed_sale,synthetic_v1
+1162,cooler,Cooler Master,,1.0,0,,Air cooler,0,2014,12,Fair (visible wear),Not working,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+1163,ssd,Kingston,,3.0,480,NVMe PCIe 4.0,,0,2019,7,Good (light wear),Works with minor issues,Yes,No,,Yes,No,650.0,completed_sale,synthetic_v1
+1164,hdd,Toshiba,,1.3,2000,7200rpm,,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,1350.0,completed_sale,synthetic_v1
+1165,cooler,Corsair,,1.0,0,,Air cooler,0,2023,3,Fair (visible wear),Fully working,No,No,,No,Yes,1300.0,asking,synthetic_v1
+1166,ssd,Kingston,,1.0,256,SATA,,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,900.0,completed_sale,synthetic_v1
+1167,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2021,5,Poor (heavy wear),Fully working,No,No,,Yes,Yes,4150.0,completed_sale,synthetic_v1
+1168,hdd,WD,,1.0,2000,5400rpm,,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,5500.0,completed_sale,synthetic_v1
+1169,motherboard,ASUS,,2.0,0,LGA1200,ATX,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,8250.0,completed_sale,synthetic_v1
+1170,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2023,3,Like new,Fully working,No,No,,No,Yes,3100.0,completed_sale,synthetic_v1
+1171,cooler,Corsair,,2.0,0,,AIO 240 mm,0,2019,7,Fair (visible wear),Fully working,Yes,No,,No,No,1200.0,completed_sale,synthetic_v1
+1172,motherboard,ASRock,,2.0,0,LGA1200,ATX,0,2023,3,Like new,Fully working,No,No,,No,No,10600.0,asking,synthetic_v1
+1173,hdd,Toshiba,,1.0,4000,5400rpm,,0,2023,3,Fair (visible wear),Not working,No,No,,Yes,No,1350.0,completed_sale,synthetic_v1
+1174,gpu,ASUS,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,No,No,11700.0,completed_sale,synthetic_v1
+1175,ram,G.Skill,,2.0,32,DDR4,SO-DIMM_1x32,0,2018,8,Good (light wear),Fully working,No,No,,No,No,1350.0,completed_sale,synthetic_v1
+1176,ssd,Samsung,,1.0,480,SATA,,0,2019,7,Fair (visible wear),Fully working,Yes,No,,No,Yes,450.0,completed_sale,synthetic_v1
+1177,expansion_card,TP-Link,,1.0,0,,Ethernet card,0,2023,3,Like new,Fully working,No,No,,No,Yes,700.0,asking,synthetic_v1
+1178,motherboard,ASRock,,2.0,0,AM4,ATX,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,14000.0,completed_sale,synthetic_v1
+1179,ram,G.Skill,,2.0,64,DDR4,DIMM_2x32,0,2025,1,Like new,Works with minor issues,Yes,No,,No,Yes,12650.0,completed_sale,synthetic_v1
+1180,ram,Adata,,2.0,16,DDR4,DIMM_1x16,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,2800.0,completed_sale,synthetic_v1
+1181,motherboard,ASRock,,2.0,0,LGA1200,ATX,0,2024,2,Like new,Fully working,No,No,,No,Yes,13600.0,asking,synthetic_v1
+1182,motherboard,ASUS,,2.0,0,LGA1200,Micro-ATX,0,2021,5,Fair (visible wear),Fully working,Yes,No,,No,Yes,4250.0,completed_sale,synthetic_v1
+1183,gpu,Zotac,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2024,2,Like new,Fully working,No,No,,No,No,15200.0,completed_sale,synthetic_v1
+1184,gpu,ASUS,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2024,2,Like new,Works with minor issues,Yes,Yes,6 to 12 months,Yes,No,9650.0,completed_sale,synthetic_v1
+1185,motherboard,ASRock,,3.5,0,AM5,Mini-ITX,0,2020,6,Good (light wear),Fully working,No,No,,Yes,Yes,6300.0,completed_sale,synthetic_v1
+1186,motherboard,ASUS,,2.0,0,AM4,Mini-ITX,1,2024,2,Good (light wear),Works with minor issues,No,No,,No,Yes,6750.0,completed_sale,synthetic_v1
+1187,cabinet,Deepcool,,2.0,0,,Mid tower,0,2025,1,Like new,Works with minor issues,No,Yes,6 to 12 months,Yes,No,3400.0,completed_sale,synthetic_v1
+1188,ram,G.Skill,,2.0,4,DDR4,DIMM_1x4,0,2025,1,Poor (heavy wear),Fully working,No,Yes,More than 12 months,No,Yes,750.0,completed_sale,synthetic_v1
+1189,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,1,2021,5,Fair (visible wear),Fully working,No,No,,Yes,Yes,7700.0,completed_sale,synthetic_v1
+1190,psu,Cooler Master,,2.0,750,80+ Bronze,,0,2025,1,Like new,Fully working,No,No,,Yes,Yes,5500.0,completed_sale,synthetic_v1
+1191,cabinet,NZXT,,1.0,0,,Micro-ATX,0,2020,6,Poor (heavy wear),Fully working,No,No,,Yes,Yes,1250.0,asking,synthetic_v1
+1192,ssd,Adata,,1.0,2000,SATA,,0,2022,4,Like new,Fully working,No,No,,No,No,5050.0,asking,synthetic_v1
+1193,cabinet,NZXT,,2.0,0,,Mid tower,0,2021,5,Poor (heavy wear),Fully working,No,No,,Yes,No,1750.0,completed_sale,synthetic_v1
+1194,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2025,1,Like new,Fully working,No,No,,Yes,Yes,26500.0,completed_sale,synthetic_v1
+1195,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,3600.0,completed_sale,synthetic_v1
+1196,hdd,Toshiba,,1.0,4000,5400rpm,,0,2024,2,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,5050.0,completed_sale,synthetic_v1
+1197,psu,Cosmic Byte,,1.0,450,80+ White,,0,2021,5,Like new,Fully working,No,No,,Yes,Yes,1700.0,completed_sale,synthetic_v1
+1198,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2021,5,Fair (visible wear),Fully working,No,No,,No,No,7850.0,completed_sale,synthetic_v1
+1199,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,7500.0,completed_sale,synthetic_v1
+1200,cooler,Corsair,,1.0,0,,Air cooler,0,2025,1,Good (light wear),Fully working,No,No,,Yes,Yes,2200.0,completed_sale,synthetic_v1
+1201,cooler,Noctua,,3.0,0,,AIO 360 mm,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,7250.0,completed_sale,synthetic_v1
+1202,gpu,ASUS,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,36300.0,completed_sale,synthetic_v1
+1203,psu,Deepcool,,2.0,850,80+ Bronze,,0,2022,4,Like new,Fully working,No,No,,No,No,3850.0,asking,synthetic_v1
+1204,gpu,XFX,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,heavily_mined,0,2025,1,Like new,Fully working,No,No,,No,No,22500.0,completed_sale,synthetic_v1
+1205,hdd,Seagate,,1.0,500,5400rpm,,0,2018,8,Good (light wear),Works with minor issues,No,No,,No,Yes,250.0,completed_sale,synthetic_v1
+1206,cooler,Noctua,,1.0,0,,Air cooler,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,No,1800.0,asking,synthetic_v1
+1207,gpu,MSI,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,Yes,Yes,3 to 6 months,Yes,No,17000.0,asking,synthetic_v1
+1208,hdd,WD,,1.3,2000,7200rpm,,0,2024,2,Like new,Fully working,No,No,,Yes,No,3050.0,completed_sale,synthetic_v1
+1209,gpu,Palit,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2021,5,Fair (visible wear),Works with minor issues,Yes,No,,Yes,No,6400.0,completed_sale,synthetic_v1
+1210,gpu,Gigabyte,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,19950.0,completed_sale,synthetic_v1
+1211,ram,Crucial,,2.0,8,DDR4,DIMM_1x8,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,Yes,1050.0,completed_sale,synthetic_v1
+1212,cabinet,Deepcool,,2.0,0,,Mid tower,0,2024,2,Poor (heavy wear),Fully working,No,No,,No,No,2150.0,completed_sale,synthetic_v1
+1213,ram,Crucial,,2.0,4,DDR4,SO-DIMM_1x4,0,2024,2,Good (light wear),Works with minor issues,No,No,,No,Yes,650.0,completed_sale,synthetic_v1
+1214,psu,Deepcool,,2.0,750,80+ Bronze,,0,2021,5,Fair (visible wear),Fully working,No,No,,No,Yes,1950.0,completed_sale,synthetic_v1
+1215,ram,G.Skill,,1.0,32,DDR3,SO-DIMM_2x16,0,2026,0,Like new,Fully working,No,No,,No,No,6950.0,completed_sale,synthetic_v1
+1216,gpu,Zotac,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,Yes,7200.0,asking,synthetic_v1
+1217,ram,G.Skill,,2.0,32,DDR4,SO-DIMM_1x32,0,2024,2,Good (light wear),Fully working,No,No,,No,No,5400.0,completed_sale,synthetic_v1
+1218,ssd,Kingston,,2.0,2000,NVMe PCIe 3.0,,0,2022,4,Poor (heavy wear),Fully working,Yes,No,,Yes,Yes,2950.0,completed_sale,synthetic_v1
+1219,psu,Deepcool,,2.0,550,80+ Bronze,,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,2100.0,completed_sale,synthetic_v1
+1220,psu,Deepcool,,1.0,650,80+ White,,0,2025,1,Like new,Fully working,Yes,Yes,Under 3 months,Yes,No,3950.0,completed_sale,synthetic_v1
+1221,gpu,ASUS,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2025,1,Poor (heavy wear),Fully working,No,No,,Yes,No,16450.0,asking,synthetic_v1
+1222,ssd,Crucial,,2.0,512,NVMe PCIe 3.0,,0,2023,3,Good (light wear),Fully working,Yes,No,,Yes,No,1450.0,completed_sale,synthetic_v1
+1223,expansion_card,ASUS,,1.0,0,,Sound card,0,2022,4,Good (light wear),Fully working,No,No,,No,No,800.0,completed_sale,synthetic_v1
+1224,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,2950.0,completed_sale,synthetic_v1
+1225,hdd,Seagate,,1.3,2000,7200rpm,,0,2021,5,Good (light wear),Fully working,Yes,No,,Yes,Yes,1300.0,completed_sale,synthetic_v1
+1226,psu,Deepcool,,2.0,650,80+ Bronze,,0,2025,1,Fair (visible wear),Fully working,No,Yes,3 to 6 months,Yes,No,3900.0,completed_sale,synthetic_v1
+1227,gpu,Zotac,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,No,No,20900.0,completed_sale,synthetic_v1
+1228,psu,Cooler Master,,2.0,450,80+ Bronze,,0,2020,6,Fair (visible wear),Fully working,No,No,,No,No,1750.0,asking,synthetic_v1
+1229,ram,Kingston,,2.0,16,DDR4,DIMM_1x16,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,2250.0,completed_sale,synthetic_v1
+1230,ram,G.Skill,,3.0,8,DDR5,SO-DIMM_2x4,0,2023,3,Good (light wear),Fully working,No,No,,No,No,1700.0,completed_sale,synthetic_v1
+1231,ram,Adata,,1.0,16,DDR3,SO-DIMM_2x8,0,2025,1,Fair (visible wear),Fully working,No,No,,No,No,2600.0,completed_sale,synthetic_v1
+1232,hdd,Seagate,,1.3,320,7200rpm,,0,2022,4,Fair (visible wear),Fully working,Yes,No,,Yes,No,450.0,completed_sale,synthetic_v1
+1233,gpu,Zotac,NVIDIA GeForce RTX 3050,2.5,6,GDDR6,normal_use,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,8350.0,completed_sale,synthetic_v1
+1234,psu,Cooler Master,,1.0,750,80+ White,,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,Yes,2800.0,completed_sale,synthetic_v1
+1235,hdd,WD,,1.0,4000,5400rpm,,0,2019,7,Good (light wear),Fully working,No,No,,No,No,1350.0,completed_sale,synthetic_v1
+1236,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,11450.0,asking,synthetic_v1
+1237,cooler,Cooler Master,,2.0,0,,AIO 240 mm,0,2025,1,Like new,Fully working,No,No,,No,No,6200.0,completed_sale,synthetic_v1
+1238,gpu,Palit,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,Yes,6550.0,asking,synthetic_v1
+1239,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,1,2024,2,Fair (visible wear),Works with minor issues,No,No,,Yes,Yes,11300.0,completed_sale,synthetic_v1
+1240,cooler,Cooler Master,,1.0,0,,Air cooler,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,1350.0,completed_sale,synthetic_v1
+1241,ssd,Kingston,,3.0,120,NVMe PCIe 4.0,,0,2025,1,Like new,Fully working,No,No,,No,Yes,1200.0,completed_sale,synthetic_v1
+1242,psu,Antec,,2.0,550,80+ Bronze,,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,3650.0,completed_sale,synthetic_v1
+1243,motherboard,MSI,,3.0,0,LGA1700,ATX,0,2025,1,Like new,Fully working,No,No,,No,Yes,17300.0,completed_sale,synthetic_v1
+1244,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2024,2,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,18500.0,completed_sale,synthetic_v1
+1245,ram,Adata,,2.0,32,DDR4,SO-DIMM_1x32,0,2021,5,Fair (visible wear),Fully working,No,No,,Yes,No,2300.0,completed_sale,synthetic_v1
+1246,cooler,Cooler Master,,3.0,0,,AIO 360 mm,0,2016,10,Fair (visible wear),Fully working,No,No,,No,Yes,1150.0,completed_sale,synthetic_v1
+1247,gpu,ASUS,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,13500.0,completed_sale,synthetic_v1
+1248,psu,Deepcool,,3.0,450,80+ Gold,,0,2024,2,Good (light wear),Fully working,No,No,,No,No,3850.0,completed_sale,synthetic_v1
+1249,ssd,Crucial,,2.0,960,NVMe PCIe 3.0,,0,2024,2,Fair (visible wear),Works with minor issues,No,No,,Yes,Yes,2400.0,completed_sale,synthetic_v1
+1250,ram,Kingston,,1.0,16,DDR3,SO-DIMM_1x16,0,2024,2,Good (light wear),Fully working,No,No,,No,No,2050.0,completed_sale,synthetic_v1
+1251,psu,Deepcool,,2.0,650,80+ Bronze,,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,3750.0,completed_sale,synthetic_v1
+1252,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,Yes,14500.0,completed_sale,synthetic_v1
+1253,gpu,Palit,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,Yes,No,17550.0,asking,synthetic_v1
+1254,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2021,5,Like new,Fully working,No,No,,Yes,Yes,4650.0,completed_sale,synthetic_v1
+1255,motherboard,ASUS,,2.0,0,AM4,Micro-ATX,0,2025,1,Good (light wear),Fully working,No,No,,Yes,Yes,13000.0,completed_sale,synthetic_v1
+1256,ram,G.Skill,,3.0,64,DDR5,DIMM_2x32,0,2023,3,Good (light wear),Fully working,No,No,,No,No,13000.0,completed_sale,synthetic_v1
+1257,psu,Corsair,,3.0,850,80+ Gold,,0,2018,8,Good (light wear),Fully working,No,No,,No,Yes,1950.0,completed_sale,synthetic_v1
+1258,hdd,Seagate,,1.0,2000,5400rpm,,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,2600.0,asking,synthetic_v1
+1259,cooler,Deepcool,,1.0,0,,Air cooler,0,2022,4,Like new,Works with minor issues,No,No,,No,No,900.0,completed_sale,synthetic_v1
+1260,cooler,Corsair,,3.0,0,,AIO 360 mm,1,2023,3,Good (light wear),Works with minor issues,No,No,,Yes,No,3600.0,completed_sale,synthetic_v1
+1261,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2023,3,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,No,5300.0,completed_sale,synthetic_v1
+1262,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,1,2019,7,Fair (visible wear),Works with minor issues,Yes,No,,No,Yes,2050.0,completed_sale,synthetic_v1
+1263,ssd,Crucial,,1.0,960,SATA,,0,2024,2,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,2600.0,completed_sale,synthetic_v1
+1264,ram,Crucial,,2.0,64,DDR4,DIMM_2x32,0,2019,7,Good (light wear),Fully working,No,No,,Yes,No,3750.0,completed_sale,synthetic_v1
+1265,gpu,Gigabyte,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2023,3,Good (light wear),Fully working,Yes,No,,No,No,20400.0,completed_sale,synthetic_v1
+1266,cabinet,Deepcool,,1.0,0,,Micro-ATX,0,2024,2,Like new,Fully working,No,No,,No,No,2250.0,completed_sale,synthetic_v1
+1267,motherboard,MSI,,2.0,0,AM4,Micro-ATX,0,2023,3,Fair (visible wear),Works with minor issues,Yes,Yes,6 to 12 months,Yes,No,6400.0,completed_sale,synthetic_v1
+1268,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2024,2,Good (light wear),Works with minor issues,No,No,,Yes,Yes,3100.0,completed_sale,synthetic_v1
+1269,gpu,Zotac,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,34150.0,asking,synthetic_v1
+1270,hdd,Seagate,,1.3,4000,7200rpm,,0,2019,7,Good (light wear),Fully working,No,No,,Yes,No,1400.0,asking,synthetic_v1
+1271,hdd,Seagate,,1.3,500,7200rpm,,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,850.0,completed_sale,synthetic_v1
+1272,gpu,XFX,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2023,3,Fair (visible wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,11550.0,completed_sale,synthetic_v1
+1273,gpu,Gigabyte,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2023,3,Fair (visible wear),Fully working,Yes,No,,No,No,8200.0,completed_sale,synthetic_v1
+1274,motherboard,MSI,,2.0,0,LGA1200,ATX,0,2021,5,Like new,Fully working,No,No,,No,No,6200.0,completed_sale,synthetic_v1
+1275,hdd,Seagate,,1.3,500,7200rpm,,1,2022,4,Like new,Fully working,No,No,,No,No,600.0,completed_sale,synthetic_v1
+1276,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2024,2,Fair (visible wear),Works with minor issues,Yes,No,,No,Yes,8350.0,completed_sale,synthetic_v1
+1277,ram,Kingston,,3.0,8,DDR5,DIMM_2x4,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,1450.0,completed_sale,synthetic_v1
+1278,hdd,Toshiba,,1.0,1000,5400rpm,,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,1600.0,completed_sale,synthetic_v1
+1279,ram,Kingston,,3.0,32,DDR5,DIMM_2x16,0,2025,1,Like new,Fully working,No,No,,No,No,11950.0,completed_sale,synthetic_v1
+1280,psu,Cooler Master,,2.0,850,80+ Bronze,,0,2025,1,Like new,Works with minor issues,No,Yes,More than 12 months,No,No,5200.0,completed_sale,synthetic_v1
+1281,ssd,WD,,1.0,960,SATA,,0,2026,0,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,4550.0,completed_sale,synthetic_v1
+1282,motherboard,Gigabyte,,3.5,0,AM5,Micro-ATX,1,2023,3,Like new,Fully working,No,No,,No,Yes,9250.0,completed_sale,synthetic_v1
+1283,ssd,Samsung,,2.0,960,NVMe PCIe 3.0,,0,2025,1,Like new,Fully working,No,No,,Yes,Yes,4550.0,completed_sale,synthetic_v1
+1284,psu,Corsair,,2.0,850,80+ Bronze,,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,8200.0,completed_sale,synthetic_v1
+1285,gpu,Sapphire,NVIDIA GeForce GTX 1660 Super,2.2,6,GDDR6,normal_use,0,2021,5,Poor (heavy wear),Fully working,No,No,,Yes,Yes,3650.0,completed_sale,synthetic_v1
+1286,motherboard,ASRock,,2.0,0,AM4,Mini-ITX,0,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,No,Yes,16650.0,asking,synthetic_v1
+1287,cabinet,Ant Esports,,2.0,0,,Mid tower,0,2024,2,Like new,Fully working,No,Yes,More than 12 months,Yes,No,3900.0,completed_sale,synthetic_v1
+1288,ssd,WD,,2.0,240,NVMe PCIe 3.0,,0,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,1900.0,asking,synthetic_v1
+1289,psu,Cosmic Byte,,1.0,850,80+ White,,0,2025,1,Like new,Fully working,No,No,,Yes,No,4550.0,completed_sale,synthetic_v1
+1290,motherboard,Gigabyte,,2.0,0,LGA1200,Micro-ATX,0,2024,2,Good (light wear),Fully working,No,No,,No,No,10200.0,asking,synthetic_v1
+1291,gpu,Zotac,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2020,6,Poor (heavy wear),Fully working,No,No,,No,Yes,3800.0,completed_sale,synthetic_v1
+1292,ram,Crucial,,3.0,16,DDR5,SO-DIMM_2x8,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,4150.0,completed_sale,synthetic_v1
+1293,cooler,Deepcool,,2.0,0,,AIO 240 mm,0,2026,0,Good (light wear),Fully working,No,No,,Yes,No,6850.0,completed_sale,synthetic_v1
+1294,ssd,Samsung,,2.0,240,NVMe PCIe 3.0,,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,650.0,completed_sale,synthetic_v1
+1295,ssd,Crucial,,1.0,1000,SATA,,0,2024,2,Fair (visible wear),Fully working,No,Yes,More than 12 months,Yes,Yes,2650.0,completed_sale,synthetic_v1
+1296,psu,Cosmic Byte,,3.0,650,80+ Gold,,0,2022,4,Good (light wear),Fully working,Yes,No,,No,Yes,2800.0,completed_sale,synthetic_v1
+1297,motherboard,Gigabyte,,3.0,0,LGA1700,Micro-ATX,0,2021,5,Good (light wear),Fully working,No,No,,Yes,Yes,7650.0,completed_sale,synthetic_v1
+1298,cpu,AMD,AMD Ryzen 7 5800X,3.8,0,AM4,,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,17900.0,completed_sale,synthetic_v1
+1299,psu,Deepcool,,2.0,450,80+ Bronze,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,2950.0,completed_sale,synthetic_v1
+1300,cabinet,Cooler Master,,2.0,0,,Mid tower,1,2022,4,Fair (visible wear),Fully working,No,No,,Yes,Yes,2250.0,completed_sale,synthetic_v1
+1301,psu,Antec,,2.0,550,80+ Bronze,,0,2025,1,Like new,Works with minor issues,No,Yes,6 to 12 months,No,Yes,3850.0,completed_sale,synthetic_v1
+1302,ssd,Samsung,,2.0,256,NVMe PCIe 3.0,,0,2021,5,Poor (heavy wear),Works with minor issues,No,No,,No,Yes,400.0,asking,synthetic_v1
+1303,cpu,AMD,AMD Ryzen 5 5600X,3.0,0,AM4,,0,2015,11,Good (light wear),Works with minor issues,No,No,,Yes,No,1100.0,completed_sale,synthetic_v1
+1304,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2023,3,Like new,Fully working,Yes,Yes,3 to 6 months,Yes,Yes,3350.0,asking,synthetic_v1
+1305,ssd,Samsung,,2.0,120,NVMe PCIe 3.0,,0,2025,1,Good (light wear),Fully working,No,No,,No,No,900.0,completed_sale,synthetic_v1
+1306,ram,Crucial,,3.0,8,DDR5,DIMM_1x8,0,2026,0,Good (light wear),Fully working,Yes,No,,Yes,No,3350.0,completed_sale,synthetic_v1
+1307,cpu,Intel,Intel Core i7-12700K,4.0,0,LGA1700,,0,2020,6,Good (light wear),Fully working,No,No,,No,Yes,7350.0,completed_sale,synthetic_v1
+1308,gpu,ASUS,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,heavily_mined,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,24100.0,asking,synthetic_v1
+1309,psu,Corsair,,2.0,850,80+ Bronze,,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,6500.0,completed_sale,synthetic_v1
+1310,ssd,Kingston,,1.0,1000,SATA,,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,Yes,3600.0,completed_sale,synthetic_v1
+1311,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,6600.0,completed_sale,synthetic_v1
+1312,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,8200.0,asking,synthetic_v1
+1313,expansion_card,ASUS,,1.0,0,,Wi-Fi card,0,2020,6,Like new,Fully working,Yes,No,,Yes,Yes,400.0,completed_sale,synthetic_v1
+1314,motherboard,MSI,,2.0,0,AM4,Micro-ATX,0,2021,5,Good (light wear),Fully working,No,No,,No,Yes,5300.0,completed_sale,synthetic_v1
+1315,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2024,2,Like new,Fully working,Yes,No,,Yes,No,19350.0,completed_sale,synthetic_v1
+1316,gpu,MSI,AMD Radeon RX 580,1.7,4,GDDR5,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,7550.0,completed_sale,synthetic_v1
+1317,psu,Cooler Master,,3.0,650,80+ Gold,,0,2022,4,Good (light wear),Fully working,No,No,,No,No,3600.0,completed_sale,synthetic_v1
+1318,expansion_card,Gigabyte,,1.0,0,,Wi-Fi card,0,2024,2,Good (light wear),Fully working,Yes,No,,No,No,1050.0,completed_sale,synthetic_v1
+1319,gpu,Palit,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2024,2,Fair (visible wear),Works with minor issues,No,No,,Yes,No,18700.0,completed_sale,synthetic_v1
+1320,ram,Corsair,,3.0,16,DDR5,DIMM_1x16,0,2024,2,Good (light wear),Works with minor issues,No,No,,No,No,3950.0,completed_sale,synthetic_v1
+1321,ram,G.Skill,,2.0,32,DDR4,DIMM_1x32,0,2019,7,Good (light wear),Fully working,No,No,,Yes,No,1850.0,completed_sale,synthetic_v1
+1322,expansion_card,ASUS,,1.0,0,,Ethernet card,0,2024,2,Good (light wear),Fully working,Yes,Yes,6 to 12 months,No,Yes,850.0,asking,synthetic_v1
+1323,ssd,Adata,,2.0,256,NVMe PCIe 3.0,,0,2022,4,Like new,Fully working,No,No,,Yes,No,800.0,completed_sale,synthetic_v1
+1324,expansion_card,ASUS,,1.0,0,,Ethernet card,0,2026,0,Poor (heavy wear),Fully working,No,No,,Yes,Yes,750.0,completed_sale,synthetic_v1
+1325,ram,Kingston,,3.0,16,DDR5,SO-DIMM_2x8,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,No,6250.0,completed_sale,synthetic_v1
+1326,ssd,Kingston,,2.0,240,NVMe PCIe 3.0,,0,2021,5,Poor (heavy wear),Fully working,No,No,,No,Yes,350.0,completed_sale,synthetic_v1
+1327,hdd,WD,,1.3,1000,7200rpm,,0,2026,0,Good (light wear),Fully working,Yes,Yes,3 to 6 months,No,Yes,2700.0,completed_sale,synthetic_v1
+1328,motherboard,MSI,,2.0,0,AM4,Micro-ATX,0,2021,5,Good (light wear),Fully working,No,No,,No,Yes,5350.0,completed_sale,synthetic_v1
+1329,ssd,Samsung,,1.0,512,SATA,,0,2025,1,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,No,1950.0,completed_sale,synthetic_v1
+1330,motherboard,ASRock,,2.0,0,LGA1200,ATX,0,2021,5,Fair (visible wear),Fully working,No,No,,No,Yes,5100.0,completed_sale,synthetic_v1
+1331,gpu,Sapphire,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,22500.0,completed_sale,synthetic_v1
+1332,gpu,Zotac,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2024,2,Like new,Fully working,No,No,,Yes,No,8450.0,completed_sale,synthetic_v1
+1333,psu,Cooler Master,,3.0,850,80+ Gold,,0,2022,4,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,3350.0,completed_sale,synthetic_v1
+1334,ram,Adata,,1.0,16,DDR3,DIMM_1x16,0,2026,0,Fair (visible wear),Fully working,No,No,,Yes,No,3300.0,asking,synthetic_v1
+1335,gpu,Gigabyte,NVIDIA GeForce RTX 3060,3.3,12,GDDR6,normal_use,0,2024,2,Good (light wear),Fully working,No,No,,No,No,21950.0,completed_sale,synthetic_v1
+1336,gpu,MSI,NVIDIA GeForce RTX 4060 Ti,4.2,8,GDDR6,normal_use,0,2021,5,Good (light wear),Fully working,No,No,,No,Yes,10850.0,completed_sale,synthetic_v1
+1337,ssd,Kingston,,3.0,120,NVMe PCIe 4.0,,1,2024,2,Like new,Fully working,No,Yes,6 to 12 months,No,Yes,750.0,completed_sale,synthetic_v1
+1338,ssd,Samsung,,1.0,1000,SATA,,1,2022,4,Good (light wear),Fully working,No,No,,Yes,No,1650.0,completed_sale,synthetic_v1
+1339,psu,Antec,,3.0,550,80+ Gold,,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,4400.0,completed_sale,synthetic_v1
+1340,motherboard,MSI,,3.0,0,LGA1700,Micro-ATX,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,7600.0,completed_sale,synthetic_v1
+1341,cooler,Cooler Master,,1.0,0,,Air cooler,0,2024,2,Like new,Fully working,Yes,Yes,More than 12 months,No,No,1600.0,completed_sale,synthetic_v1
+1342,ssd,Crucial,,3.0,960,NVMe PCIe 4.0,,0,2026,0,Fair (visible wear),Fully working,No,No,,No,Yes,5500.0,completed_sale,synthetic_v1
+1343,ram,G.Skill,,1.0,16,DDR3,SO-DIMM_1x16,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,1300.0,completed_sale,synthetic_v1
+1344,gpu,Gigabyte,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2025,1,Like new,Fully working,Yes,Yes,3 to 6 months,Yes,Yes,36550.0,completed_sale,synthetic_v1
+1345,expansion_card,ASUS,,1.0,0,,Ethernet card,0,2021,5,Good (light wear),Not working,No,No,,No,Yes,100.0,completed_sale,synthetic_v1
+1346,hdd,Toshiba,,1.0,500,5400rpm,,0,2023,3,Like new,Fully working,No,Yes,Under 3 months,No,Yes,950.0,completed_sale,synthetic_v1
+1347,hdd,Toshiba,,1.3,320,7200rpm,,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,1600.0,completed_sale,synthetic_v1
+1348,cabinet,NZXT,,2.0,0,,Mid tower,0,2020,6,Good (light wear),Works with minor issues,No,No,,No,Yes,1850.0,asking,synthetic_v1
+1349,ssd,Kingston,,2.0,480,NVMe PCIe 3.0,,0,2020,6,Like new,Fully working,No,No,,Yes,No,800.0,completed_sale,synthetic_v1
+1350,expansion_card,Gigabyte,,1.0,0,,Sound card,0,2018,8,Poor (heavy wear),Works with minor issues,No,No,,Yes,No,200.0,completed_sale,synthetic_v1
+1351,hdd,Toshiba,,1.3,1000,7200rpm,,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,1800.0,completed_sale,synthetic_v1
+1352,gpu,ASUS,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2026,0,Fair (visible wear),Fully working,No,No,,No,No,19400.0,completed_sale,synthetic_v1
+1353,ram,G.Skill,,1.0,32,DDR3,DIMM_2x16,0,2026,0,Fair (visible wear),Fully working,Yes,Yes,6 to 12 months,No,Yes,5200.0,completed_sale,synthetic_v1
+1354,hdd,Toshiba,,1.3,1000,7200rpm,,0,2022,4,Good (light wear),Fully working,No,No,,No,No,1050.0,completed_sale,synthetic_v1
+1355,psu,Corsair,,1.0,750,80+ White,,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,3450.0,completed_sale,synthetic_v1
+1356,psu,Deepcool,,2.0,750,80+ Bronze,,0,2026,0,Good (light wear),Fully working,No,No,,No,No,6550.0,completed_sale,synthetic_v1
+1357,motherboard,ASUS,,2.0,0,LGA1200,ATX,0,2024,2,Like new,Fully working,No,No,,No,Yes,10450.0,completed_sale,synthetic_v1
+1358,ram,Adata,,2.0,16,DDR4,DIMM_1x16,0,2021,5,Good (light wear),Fully working,No,No,,No,No,1550.0,completed_sale,synthetic_v1
+1359,psu,Cooler Master,,2.0,550,80+ Bronze,,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,3000.0,completed_sale,synthetic_v1
+1360,gpu,XFX,NVIDIA GeForce RTX 4060,3.8,8,GDDR6,normal_use,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,5950.0,completed_sale,synthetic_v1
+1361,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2020,6,Fair (visible wear),Fully working,No,No,,Yes,Yes,3000.0,completed_sale,synthetic_v1
+1362,cooler,Deepcool,,1.0,0,,Air cooler,0,2021,5,Good (light wear),Fully working,No,No,,No,Yes,650.0,completed_sale,synthetic_v1
+1363,ram,G.Skill,,3.0,4,DDR5,DIMM_1x4,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,1050.0,completed_sale,synthetic_v1
+1364,psu,Deepcool,,2.0,550,80+ Bronze,,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,2550.0,completed_sale,synthetic_v1
+1365,psu,Cosmic Byte,,1.0,850,80+ White,,0,2021,5,Fair (visible wear),Fully working,No,No,,Yes,No,2000.0,completed_sale,synthetic_v1
+1366,ram,Crucial,,3.0,8,DDR5,SO-DIMM_2x4,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,2000.0,completed_sale,synthetic_v1
+1367,expansion_card,ASUS,,1.0,0,,Wi-Fi card,0,2026,0,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,1900.0,completed_sale,synthetic_v1
+1368,psu,Corsair,,3.0,750,80+ Gold,,1,2026,0,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,9450.0,asking,synthetic_v1
+1369,psu,Cooler Master,,1.0,850,80+ White,,1,2018,8,Fair (visible wear),Works with minor issues,No,No,,No,Yes,850.0,completed_sale,synthetic_v1
+1370,cpu,AMD,AMD Ryzen 7 7700X,4.2,0,AM5,,0,2015,11,Fair (visible wear),Fully working,No,No,,No,No,2550.0,completed_sale,synthetic_v1
+1371,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2023,3,Good (light wear),Fully working,No,No,,No,No,9400.0,completed_sale,synthetic_v1
+1372,cpu,AMD,AMD Ryzen 5 5600,2.8,0,AM4,,0,2024,2,Poor (heavy wear),Fully working,Yes,Yes,Under 3 months,No,No,4550.0,completed_sale,synthetic_v1
+1373,ram,Adata,,3.0,64,DDR5,SO-DIMM_2x32,0,2019,7,Poor (heavy wear),Fully working,No,No,,No,No,3550.0,completed_sale,synthetic_v1
+1374,gpu,XFX,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2023,3,Like new,Fully working,No,Yes,6 to 12 months,Yes,Yes,26450.0,completed_sale,synthetic_v1
+1375,cabinet,Cooler Master,,1.0,0,,Micro-ATX,0,2025,1,Poor (heavy wear),Fully working,No,No,,Yes,Yes,1900.0,completed_sale,synthetic_v1
+1376,hdd,WD,,1.3,500,7200rpm,,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,1650.0,completed_sale,synthetic_v1
+1377,psu,Corsair,,3.0,550,80+ Gold,,0,2019,7,Like new,Not working,No,No,,Yes,No,700.0,completed_sale,synthetic_v1
+1378,cooler,Noctua,,2.0,0,,AIO 240 mm,1,2022,4,Good (light wear),Fully working,No,No,,Yes,No,2500.0,completed_sale,synthetic_v1
+1379,ram,Adata,,1.0,8,DDR3,SO-DIMM_1x8,0,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,No,Yes,1700.0,completed_sale,synthetic_v1
+1380,gpu,MSI,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2021,5,Like new,Fully working,No,No,,No,No,17300.0,asking,synthetic_v1
+1381,gpu,MSI,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,No,13350.0,completed_sale,synthetic_v1
+1382,psu,Antec,,1.0,850,80+ White,,1,2025,1,Like new,Fully working,No,No,,Yes,No,4100.0,completed_sale,synthetic_v1
+1383,ssd,Samsung,,2.0,960,NVMe PCIe 3.0,,0,2025,1,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,Yes,4000.0,completed_sale,synthetic_v1
+1384,ssd,Crucial,,3.0,120,NVMe PCIe 4.0,,0,2014,12,Fair (visible wear),Fully working,No,No,,No,No,100.0,completed_sale,synthetic_v1
+1385,gpu,ASUS,NVIDIA GeForce RTX 3050,2.5,8,GDDR6,normal_use,0,2025,1,Like new,Fully working,Yes,No,,No,Yes,19450.0,completed_sale,synthetic_v1
+1386,cabinet,Cooler Master,,2.0,0,,Mid tower,0,2023,3,Good (light wear),Fully working,No,No,,No,No,2700.0,completed_sale,synthetic_v1
+1387,hdd,Seagate,,1.0,2000,5400rpm,,0,2024,2,Good (light wear),Works with minor issues,No,No,,Yes,No,2550.0,completed_sale,synthetic_v1
+1388,cabinet,Cooler Master,,1.0,0,,Micro-ATX,0,2023,3,Like new,Fully working,No,No,,No,Yes,2200.0,completed_sale,synthetic_v1
+1389,ssd,WD,,1.0,256,SATA,,0,2025,1,Poor (heavy wear),Fully working,No,Yes,6 to 12 months,Yes,No,900.0,completed_sale,synthetic_v1
+1390,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2026,0,Like new,Fully working,Yes,Yes,Under 3 months,Yes,Yes,11350.0,completed_sale,synthetic_v1
+1391,gpu,ASUS,AMD Radeon RX 6600,3.0,8,GDDR6,normal_use,0,2021,5,Like new,Fully working,No,No,,No,Yes,7050.0,completed_sale,synthetic_v1
+1392,hdd,Seagate,,1.3,500,7200rpm,,1,2025,1,Like new,Fully working,No,No,,No,No,1250.0,completed_sale,synthetic_v1
+1393,ram,Adata,,3.0,8,DDR5,DIMM_1x8,1,2024,2,Good (light wear),Works with minor issues,No,Yes,Under 3 months,No,Yes,1950.0,asking,synthetic_v1
+1394,gpu,ASUS,NVIDIA GeForce RTX 4060 Ti,4.2,16,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,36800.0,completed_sale,synthetic_v1
+1395,gpu,Palit,NVIDIA GeForce GTX 1650,1.5,4,GDDR6,normal_use,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,9650.0,completed_sale,synthetic_v1
+1396,cpu,Intel,Intel Core i5-13400F,3.4,0,LGA1700,,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,11400.0,completed_sale,synthetic_v1
+1397,cooler,Corsair,,2.0,0,,AIO 240 mm,0,2024,2,Like new,Fully working,No,No,,Yes,No,5200.0,completed_sale,synthetic_v1
+1398,cpu,AMD,AMD Ryzen 5 7600,3.6,0,AM5,,0,2022,4,Like new,Fully working,No,No,,No,Yes,8850.0,completed_sale,synthetic_v1
+1399,cpu,Intel,Intel Core i5-12400F,3.0,0,LGA1700,,0,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,No,Yes,12000.0,completed_sale,synthetic_v1
+1400,ram,Crucial,,1.0,8,DDR3,SO-DIMM_1x8,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,1100.0,completed_sale,synthetic_v1

@@ -1,0 +1,401 @@
+row_id,reported_issue,desktop_type,brand,cpu_tier,ram_capacity_gb,storage_gb,has_dedicated_gpu,gpu_tier,psu_wattage,purchase_year,age_years,physical_condition,working_status,repair_history,warranty_available,warranty_left,original_box,purchase_bill,resale_price_inr,price_type,data_source
+1,0,branded_pc,Dell,1.8,4,2000,0,0.0,0,2026,0,Good (light wear),Fully working,No,No,,Yes,No,36500.0,completed_sale,synthetic_v1
+2,0,custom_pc,Custom build,1.8,32,512,1,3.8,750,2023,3,Fair (visible wear),Fully working,No,No,,Yes,No,46900.0,completed_sale,synthetic_v1
+3,0,custom_pc,Custom build,1.8,32,512,1,1.5,550,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,50700.0,completed_sale,synthetic_v1
+4,0,branded_pc,HP,1.8,32,512,0,0.0,0,2020,6,Fair (visible wear),Fully working,No,No,,Yes,No,21050.0,asking,synthetic_v1
+5,0,custom_pc,Custom build,1.8,16,2000,0,0.0,750,2022,4,Good (light wear),Fully working,No,No,,Yes,No,27600.0,completed_sale,synthetic_v1
+6,0,branded_pc,Dell,2.5,16,256,0,0.0,0,2019,7,Fair (visible wear),Fully working,No,No,,No,Yes,12100.0,completed_sale,synthetic_v1
+7,0,branded_pc,Dell,1.8,8,2000,1,4.5,0,2020,6,Fair (visible wear),Fully working,No,No,,Yes,No,26200.0,completed_sale,synthetic_v1
+8,0,custom_pc,Custom build,3.0,4,2000,1,3.3,550,2020,6,Good (light wear),Not working,No,No,,Yes,No,10600.0,completed_sale,synthetic_v1
+9,0,branded_pc,HP,2.5,16,512,0,0.0,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,26800.0,completed_sale,synthetic_v1
+10,0,custom_pc,Custom build,4.0,4,2000,1,4.5,450,2022,4,Good (light wear),Works with minor issues,No,No,,No,Yes,44150.0,completed_sale,synthetic_v1
+11,0,custom_pc,Custom build,4.0,32,2000,0,0.0,450,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,Yes,Yes,56600.0,completed_sale,synthetic_v1
+12,1,custom_pc,Custom build,4.5,16,512,1,2.5,550,2021,5,Good (light wear),Fully working,No,No,,Yes,No,35600.0,completed_sale,synthetic_v1
+13,0,custom_pc,Custom build,2.5,8,512,1,3.8,650,2026,0,Good (light wear),Works with minor issues,No,No,,Yes,No,68200.0,asking,synthetic_v1
+14,0,custom_pc,Custom build,1.8,32,1000,1,3.3,750,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,79450.0,completed_sale,synthetic_v1
+15,0,branded_pc,Dell,1.8,8,2000,0,0.0,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,40500.0,completed_sale,synthetic_v1
+16,0,branded_pc,Lenovo,2.5,4,1000,1,1.5,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,49650.0,completed_sale,synthetic_v1
+17,0,branded_pc,Acer,3.5,32,512,1,2.5,0,2022,4,Fair (visible wear),Fully working,Yes,No,,No,No,34700.0,completed_sale,synthetic_v1
+18,0,branded_pc,Acer,2.5,32,256,1,3.8,0,2025,1,Good (light wear),Works with minor issues,Yes,Yes,More than 12 months,No,Yes,63500.0,completed_sale,synthetic_v1
+19,1,custom_pc,Custom build,2.5,16,256,1,4.5,750,2024,2,Like new,Fully working,No,No,,Yes,No,61800.0,completed_sale,synthetic_v1
+20,0,branded_pc,HP,2.5,32,512,1,4.5,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,41400.0,completed_sale,synthetic_v1
+21,0,branded_pc,HP,4.5,4,256,0,0.0,0,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,No,Yes,36250.0,completed_sale,synthetic_v1
+22,1,custom_pc,Custom build,3.0,32,2000,0,0.0,550,2019,7,Poor (heavy wear),Fully working,No,No,,No,No,14350.0,asking,synthetic_v1
+23,1,branded_pc,Dell,4.5,4,256,1,3.3,0,2022,4,Good (light wear),Works with minor issues,No,No,,No,No,34550.0,completed_sale,synthetic_v1
+24,0,custom_pc,Custom build,3.0,4,256,1,3.8,650,2023,3,Like new,Fully working,Yes,No,,No,No,48100.0,completed_sale,synthetic_v1
+25,1,custom_pc,Custom build,1.8,32,512,1,3.8,750,2025,1,Like new,Fully working,No,Yes,3 to 6 months,No,No,74700.0,completed_sale,synthetic_v1
+26,0,branded_pc,Dell,4.5,8,256,0,0.0,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,58550.0,asking,synthetic_v1
+27,1,branded_pc,Acer,4.5,16,512,0,0.0,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,50400.0,asking,synthetic_v1
+28,0,branded_pc,ASUS,2.5,8,1000,1,4.5,0,2026,0,Like new,Fully working,No,Yes,6 to 12 months,Yes,Yes,90700.0,completed_sale,synthetic_v1
+29,0,branded_pc,Acer,3.5,16,256,0,0.0,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,34550.0,completed_sale,synthetic_v1
+30,0,custom_pc,Custom build,3.5,32,2000,0,0.0,550,2021,5,Fair (visible wear),Not working,No,No,,No,Yes,9050.0,completed_sale,synthetic_v1
+31,0,branded_pc,HP,4.5,4,512,1,1.5,0,2021,5,Fair (visible wear),Not working,No,No,,No,Yes,8900.0,completed_sale,synthetic_v1
+32,0,custom_pc,Custom build,2.5,16,512,1,3.3,450,2021,5,Good (light wear),Fully working,No,No,,No,No,33450.0,completed_sale,synthetic_v1
+33,1,custom_pc,Custom build,2.5,16,2000,0,0.0,450,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,32950.0,completed_sale,synthetic_v1
+34,1,branded_pc,HP,1.8,4,1000,0,0.0,0,2019,7,Like new,Fully working,Yes,No,,Yes,Yes,10700.0,completed_sale,synthetic_v1
+35,0,custom_pc,Custom build,4.5,4,256,1,4.5,550,2024,2,Fair (visible wear),Fully working,No,Yes,3 to 6 months,Yes,No,51250.0,completed_sale,synthetic_v1
+36,0,branded_pc,Acer,2.5,32,256,0,0.0,0,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,31300.0,asking,synthetic_v1
+37,0,custom_pc,Custom build,4.5,8,256,1,2.5,650,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,69200.0,completed_sale,synthetic_v1
+38,0,custom_pc,Custom build,1.8,16,1000,1,3.8,450,2023,3,Good (light wear),Fully working,No,No,,No,No,47950.0,completed_sale,synthetic_v1
+39,1,custom_pc,Custom build,3.0,8,512,1,3.3,750,2025,1,Good (light wear),Works with minor issues,No,Yes,Under 3 months,No,Yes,61300.0,asking,synthetic_v1
+40,0,branded_pc,ASUS,3.0,32,2000,1,4.5,0,2019,7,Good (light wear),Fully working,No,No,,Yes,Yes,33800.0,completed_sale,synthetic_v1
+41,0,custom_pc,Custom build,4.0,32,2000,1,1.5,550,2025,1,Poor (heavy wear),Fully working,No,Yes,More than 12 months,Yes,No,64750.0,completed_sale,synthetic_v1
+42,1,branded_pc,Dell,4.5,4,512,0,0.0,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,47300.0,completed_sale,synthetic_v1
+43,0,branded_pc,Acer,4.0,4,512,1,3.3,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,48000.0,completed_sale,synthetic_v1
+44,0,branded_pc,Acer,4.5,32,1000,0,0.0,0,2023,3,Like new,Works with minor issues,No,No,,Yes,Yes,42750.0,completed_sale,synthetic_v1
+45,0,custom_pc,Custom build,1.8,4,1000,1,4.5,450,2021,5,Good (light wear),Works with minor issues,Yes,No,,Yes,Yes,25000.0,completed_sale,synthetic_v1
+46,0,custom_pc,Custom build,2.5,32,512,1,3.3,550,2020,6,Fair (visible wear),Fully working,No,No,,No,No,30300.0,asking,synthetic_v1
+47,0,custom_pc,Custom build,2.5,16,256,1,2.5,750,2025,1,Poor (heavy wear),Fully working,No,Yes,More than 12 months,No,No,46250.0,completed_sale,synthetic_v1
+48,0,custom_pc,Custom build,1.8,8,1000,1,1.5,750,2022,4,Good (light wear),Fully working,No,No,,Yes,No,26600.0,completed_sale,synthetic_v1
+49,0,custom_pc,Custom build,4.0,32,1000,1,1.5,550,2023,3,Good (light wear),Fully working,Yes,No,,No,Yes,50400.0,completed_sale,synthetic_v1
+50,1,custom_pc,Custom build,1.8,32,256,0,0.0,750,2023,3,Like new,Fully working,Yes,No,,No,Yes,33900.0,completed_sale,synthetic_v1
+51,0,branded_pc,Lenovo,1.8,8,1000,1,2.5,0,2023,3,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,Yes,33950.0,completed_sale,synthetic_v1
+52,1,branded_pc,Lenovo,2.5,32,2000,0,0.0,0,2023,3,Like new,Fully working,No,No,,No,Yes,39850.0,completed_sale,synthetic_v1
+53,0,custom_pc,Custom build,2.5,16,2000,1,4.5,650,2021,5,Good (light wear),Fully working,No,No,,No,Yes,56300.0,asking,synthetic_v1
+54,0,custom_pc,Custom build,3.5,4,512,1,2.5,750,2024,2,Like new,Works with minor issues,No,No,,Yes,Yes,40800.0,completed_sale,synthetic_v1
+55,0,custom_pc,Custom build,4.0,8,256,1,4.5,550,2026,0,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,74600.0,completed_sale,synthetic_v1
+56,0,branded_pc,ASUS,2.5,4,2000,0,0.0,0,2022,4,Good (light wear),Fully working,Yes,No,,No,No,20950.0,completed_sale,synthetic_v1
+57,0,branded_pc,Acer,4.0,16,512,1,4.5,0,2026,0,Good (light wear),Fully working,No,No,,No,No,86750.0,completed_sale,synthetic_v1
+58,0,custom_pc,Custom build,3.0,8,1000,1,1.5,650,2021,5,Good (light wear),Fully working,Yes,No,,Yes,Yes,24200.0,completed_sale,synthetic_v1
+59,0,custom_pc,Custom build,3.0,8,512,0,0.0,750,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,39600.0,asking,synthetic_v1
+60,1,custom_pc,Custom build,1.8,32,1000,0,0.0,450,2025,1,Poor (heavy wear),Not working,No,Yes,More than 12 months,Yes,Yes,12300.0,completed_sale,synthetic_v1
+61,0,custom_pc,Custom build,4.0,16,2000,1,3.3,750,2022,4,Good (light wear),Fully working,No,No,,No,No,49200.0,completed_sale,synthetic_v1
+62,0,branded_pc,Lenovo,3.5,32,512,1,3.8,0,2019,7,Like new,Fully working,No,No,,No,No,38800.0,asking,synthetic_v1
+63,0,custom_pc,Custom build,3.5,32,512,1,3.8,450,2021,5,Good (light wear),Fully working,No,No,,No,Yes,39600.0,completed_sale,synthetic_v1
+64,0,custom_pc,Custom build,4.5,16,1000,1,4.5,650,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,137700.0,asking,synthetic_v1
+65,0,branded_pc,ASUS,4.5,8,256,0,0.0,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,35750.0,completed_sale,synthetic_v1
+66,0,branded_pc,Acer,3.0,16,1000,0,0.0,0,2023,3,Like new,Works with minor issues,No,Yes,6 to 12 months,Yes,Yes,27100.0,completed_sale,synthetic_v1
+67,0,custom_pc,Custom build,2.5,32,1000,1,3.8,650,2024,2,Fair (visible wear),Not working,No,No,,Yes,No,21750.0,completed_sale,synthetic_v1
+68,0,branded_pc,Lenovo,4.5,4,2000,1,2.5,0,2021,5,Poor (heavy wear),Not working,No,No,,No,Yes,7700.0,completed_sale,synthetic_v1
+69,0,custom_pc,Custom build,4.5,8,512,1,3.8,750,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,90550.0,completed_sale,synthetic_v1
+70,0,branded_pc,ASUS,4.5,4,512,0,0.0,0,2025,1,Like new,Fully working,No,No,,No,No,41850.0,completed_sale,synthetic_v1
+71,0,branded_pc,Lenovo,3.5,32,512,1,3.3,0,2026,0,Fair (visible wear),Fully working,No,No,,No,Yes,91600.0,asking,synthetic_v1
+72,0,branded_pc,ASUS,4.5,16,2000,1,3.8,0,2023,3,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,71300.0,completed_sale,synthetic_v1
+73,0,branded_pc,HP,3.0,4,1000,0,0.0,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,37350.0,completed_sale,synthetic_v1
+74,1,custom_pc,Custom build,3.0,16,512,1,3.8,550,2023,3,Good (light wear),Fully working,Yes,Yes,6 to 12 months,Yes,No,41750.0,completed_sale,synthetic_v1
+75,0,branded_pc,Acer,2.5,4,512,1,3.8,0,2021,5,Good (light wear),Works with minor issues,No,No,,Yes,Yes,26950.0,completed_sale,synthetic_v1
+76,1,custom_pc,Custom build,4.5,4,2000,1,1.5,550,2018,8,Good (light wear),Works with minor issues,No,No,,Yes,No,17000.0,asking,synthetic_v1
+77,1,custom_pc,Custom build,3.0,16,256,1,3.3,450,2023,3,Fair (visible wear),Fully working,No,No,,No,No,34550.0,completed_sale,synthetic_v1
+78,0,custom_pc,Custom build,4.0,16,256,1,4.5,650,2025,1,Fair (visible wear),Fully working,No,No,,No,Yes,70250.0,completed_sale,synthetic_v1
+79,0,custom_pc,Custom build,4.5,4,2000,1,4.5,750,2021,5,Like new,Fully working,No,No,,No,No,43700.0,completed_sale,synthetic_v1
+80,0,custom_pc,Custom build,1.8,32,256,1,3.3,450,2026,0,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,No,65800.0,completed_sale,synthetic_v1
+81,0,branded_pc,HP,4.0,4,512,0,0.0,0,2023,3,Good (light wear),Fully working,No,No,,No,No,28200.0,completed_sale,synthetic_v1
+82,0,custom_pc,Custom build,1.8,32,256,1,3.8,650,2023,3,Like new,Fully working,No,Yes,More than 12 months,No,No,58900.0,completed_sale,synthetic_v1
+83,0,branded_pc,Lenovo,1.8,32,2000,0,0.0,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,50750.0,completed_sale,synthetic_v1
+84,0,branded_pc,Acer,4.5,16,256,0,0.0,0,2026,0,Good (light wear),Fully working,No,No,,Yes,Yes,50600.0,completed_sale,synthetic_v1
+85,0,branded_pc,HP,4.0,4,2000,0,0.0,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,Yes,33150.0,asking,synthetic_v1
+86,0,branded_pc,Acer,1.8,8,2000,1,4.5,0,2021,5,Fair (visible wear),Works with minor issues,No,No,,Yes,Yes,26700.0,completed_sale,synthetic_v1
+87,0,branded_pc,ASUS,3.5,4,512,0,0.0,0,2021,5,Fair (visible wear),Fully working,No,No,,No,No,14450.0,completed_sale,synthetic_v1
+88,0,custom_pc,Custom build,1.8,16,2000,1,3.8,650,2022,4,Fair (visible wear),Fully working,No,No,,No,No,35750.0,completed_sale,synthetic_v1
+89,0,branded_pc,ASUS,2.5,8,2000,1,3.3,0,2026,0,Good (light wear),Fully working,Yes,Yes,Under 3 months,Yes,No,73200.0,completed_sale,synthetic_v1
+90,0,custom_pc,Custom build,3.5,16,2000,0,0.0,450,2025,1,Good (light wear),Fully working,No,No,,Yes,No,52050.0,completed_sale,synthetic_v1
+91,1,custom_pc,Custom build,2.5,32,256,1,1.5,550,2019,7,Fair (visible wear),Works with minor issues,No,No,,Yes,No,15900.0,completed_sale,synthetic_v1
+92,0,custom_pc,Custom build,3.0,8,2000,1,1.5,750,2021,5,Like new,Fully working,No,No,,No,No,33300.0,completed_sale,synthetic_v1
+93,0,custom_pc,Custom build,3.5,8,512,1,3.3,550,2025,1,Good (light wear),Fully working,No,No,,No,No,78650.0,asking,synthetic_v1
+94,0,custom_pc,Custom build,4.5,32,512,1,4.5,450,2023,3,Like new,Fully working,No,Yes,More than 12 months,Yes,No,82900.0,completed_sale,synthetic_v1
+95,0,custom_pc,Custom build,4.5,32,512,1,3.8,750,2024,2,Like new,Fully working,No,No,,No,No,84200.0,completed_sale,synthetic_v1
+96,0,branded_pc,ASUS,1.8,4,2000,1,2.5,0,2026,0,Like new,Fully working,No,No,,Yes,No,75300.0,completed_sale,synthetic_v1
+97,0,branded_pc,Lenovo,4.0,32,2000,1,3.8,0,2014,12,Poor (heavy wear),Fully working,No,No,,No,Yes,10250.0,completed_sale,synthetic_v1
+98,0,branded_pc,Acer,3.5,8,512,0,0.0,0,2024,2,Poor (heavy wear),Fully working,No,Yes,More than 12 months,Yes,Yes,22000.0,completed_sale,synthetic_v1
+99,0,custom_pc,Custom build,3.5,8,2000,1,3.8,750,2025,1,Good (light wear),Fully working,No,No,,Yes,No,76300.0,completed_sale,synthetic_v1
+100,0,custom_pc,Custom build,4.0,8,2000,1,2.5,450,2021,5,Fair (visible wear),Not working,No,No,,Yes,Yes,10500.0,completed_sale,synthetic_v1
+101,0,custom_pc,Custom build,3.5,4,512,1,1.5,450,2017,9,Fair (visible wear),Not working,No,No,,No,Yes,4200.0,completed_sale,synthetic_v1
+102,1,branded_pc,ASUS,3.5,32,256,1,1.5,0,2019,7,Good (light wear),Not working,Yes,No,,No,Yes,7650.0,completed_sale,synthetic_v1
+103,0,custom_pc,Custom build,3.0,16,1000,1,2.5,750,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,Yes,67750.0,completed_sale,synthetic_v1
+104,0,branded_pc,Dell,3.0,8,256,1,4.5,0,2023,3,Like new,Fully working,No,No,,Yes,No,49550.0,completed_sale,synthetic_v1
+105,0,branded_pc,Dell,3.0,4,2000,1,4.5,0,2022,4,Good (light wear),Fully working,Yes,No,,Yes,Yes,43550.0,completed_sale,synthetic_v1
+106,0,custom_pc,Custom build,2.5,32,2000,1,4.5,450,2025,1,Fair (visible wear),Fully working,Yes,No,,No,No,83350.0,completed_sale,synthetic_v1
+107,0,branded_pc,Lenovo,4.5,8,2000,1,4.5,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,56850.0,completed_sale,synthetic_v1
+108,0,branded_pc,ASUS,1.8,16,256,1,3.8,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,Yes,No,51400.0,completed_sale,synthetic_v1
+109,0,branded_pc,Dell,4.5,8,1000,1,3.8,0,2022,4,Like new,Fully working,No,No,,No,No,59450.0,asking,synthetic_v1
+110,0,custom_pc,Custom build,2.5,32,512,1,4.5,550,2021,5,Poor (heavy wear),Fully working,Yes,No,,Yes,Yes,31700.0,asking,synthetic_v1
+111,0,branded_pc,Lenovo,3.5,4,512,1,3.3,0,2021,5,Fair (visible wear),Fully working,No,No,,No,Yes,24250.0,completed_sale,synthetic_v1
+112,0,branded_pc,HP,3.0,8,512,0,0.0,0,2024,2,Poor (heavy wear),Fully working,No,No,,No,No,20450.0,completed_sale,synthetic_v1
+113,0,custom_pc,Custom build,2.5,16,1000,1,2.5,750,2024,2,Fair (visible wear),Fully working,No,No,,No,Yes,42150.0,completed_sale,synthetic_v1
+114,0,custom_pc,Custom build,3.0,8,1000,1,4.5,650,2025,1,Like new,Fully working,No,Yes,3 to 6 months,Yes,Yes,87100.0,completed_sale,synthetic_v1
+115,0,custom_pc,Custom build,4.0,16,1000,1,3.8,650,2023,3,Fair (visible wear),Fully working,No,No,,Yes,No,53250.0,completed_sale,synthetic_v1
+116,0,branded_pc,Dell,2.5,16,256,0,0.0,0,2026,0,Fair (visible wear),Fully working,No,No,,No,No,43350.0,asking,synthetic_v1
+117,1,custom_pc,Custom build,4.0,8,1000,1,3.3,450,2021,5,Fair (visible wear),Fully working,No,No,,Yes,Yes,29800.0,completed_sale,synthetic_v1
+118,0,custom_pc,Custom build,1.8,32,2000,1,4.5,650,2025,1,Fair (visible wear),Not working,No,Yes,More than 12 months,Yes,Yes,30100.0,completed_sale,synthetic_v1
+119,0,custom_pc,Custom build,3.5,4,512,0,0.0,650,2026,0,Like new,Fully working,No,Yes,More than 12 months,No,Yes,41900.0,completed_sale,synthetic_v1
+120,0,custom_pc,Custom build,3.5,4,1000,1,1.5,650,2023,3,Like new,Fully working,No,Yes,3 to 6 months,No,No,40650.0,asking,synthetic_v1
+121,0,custom_pc,Custom build,4.0,16,512,1,3.8,650,2024,2,Like new,Fully working,No,No,,Yes,No,60250.0,completed_sale,synthetic_v1
+122,0,branded_pc,HP,3.0,8,256,0,0.0,0,2022,4,Like new,Fully working,Yes,No,,No,Yes,20100.0,completed_sale,synthetic_v1
+123,0,custom_pc,Custom build,3.5,8,2000,0,0.0,550,2023,3,Fair (visible wear),Fully working,No,No,,No,No,31100.0,completed_sale,synthetic_v1
+124,0,custom_pc,Custom build,3.0,4,1000,1,3.3,650,2025,1,Fair (visible wear),Fully working,No,No,,Yes,Yes,59950.0,asking,synthetic_v1
+125,0,branded_pc,HP,4.0,8,256,0,0.0,0,2024,2,Poor (heavy wear),Fully working,No,No,,No,Yes,23400.0,completed_sale,synthetic_v1
+126,1,branded_pc,Acer,3.0,16,256,0,0.0,0,2022,4,Poor (heavy wear),Fully working,No,No,,Yes,No,17100.0,completed_sale,synthetic_v1
+127,0,branded_pc,HP,3.0,4,512,0,0.0,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,31950.0,asking,synthetic_v1
+128,0,custom_pc,Custom build,2.5,8,2000,1,4.5,750,2019,7,Good (light wear),Fully working,No,No,,No,Yes,27250.0,completed_sale,synthetic_v1
+129,0,custom_pc,Custom build,3.5,16,1000,1,3.3,550,2024,2,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,Yes,62100.0,completed_sale,synthetic_v1
+130,0,branded_pc,HP,3.0,4,1000,0,0.0,0,2026,0,Fair (visible wear),Fully working,No,No,,Yes,No,39700.0,completed_sale,synthetic_v1
+131,0,custom_pc,Custom build,4.0,4,1000,1,3.3,450,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,59000.0,completed_sale,synthetic_v1
+132,0,branded_pc,Dell,2.5,16,512,1,4.5,0,2022,4,Poor (heavy wear),Works with minor issues,No,No,,No,No,24500.0,completed_sale,synthetic_v1
+133,1,branded_pc,Lenovo,2.5,8,2000,0,0.0,0,2024,2,Poor (heavy wear),Fully working,No,No,,No,No,21750.0,completed_sale,synthetic_v1
+134,0,custom_pc,Custom build,4.0,16,256,0,0.0,550,2024,2,Like new,Fully working,No,No,,No,Yes,39250.0,completed_sale,synthetic_v1
+135,0,branded_pc,Acer,3.5,8,256,0,0.0,0,2026,0,Fair (visible wear),Fully working,No,No,,No,Yes,37950.0,completed_sale,synthetic_v1
+136,0,branded_pc,HP,4.0,32,512,0,0.0,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,No,Yes,86050.0,asking,synthetic_v1
+137,1,branded_pc,HP,1.8,8,1000,1,2.5,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,31600.0,completed_sale,synthetic_v1
+138,0,custom_pc,Custom build,4.0,8,256,1,1.5,550,2020,6,Good (light wear),Not working,No,No,,No,Yes,7200.0,completed_sale,synthetic_v1
+139,0,branded_pc,HP,3.5,8,256,0,0.0,0,2021,5,Fair (visible wear),Fully working,No,No,,No,Yes,17100.0,completed_sale,synthetic_v1
+140,0,branded_pc,Acer,4.5,16,256,1,4.5,0,2024,2,Good (light wear),Fully working,No,No,,No,No,64050.0,completed_sale,synthetic_v1
+141,0,branded_pc,Dell,3.5,4,512,0,0.0,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,Yes,20500.0,completed_sale,synthetic_v1
+142,1,custom_pc,Custom build,3.5,4,2000,0,0.0,450,2019,7,Poor (heavy wear),Fully working,Yes,No,,No,No,13350.0,asking,synthetic_v1
+143,0,branded_pc,Acer,1.8,4,1000,0,0.0,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,26300.0,completed_sale,synthetic_v1
+144,0,custom_pc,Custom build,2.5,4,256,1,1.5,550,2020,6,Fair (visible wear),Fully working,No,No,,No,Yes,14950.0,completed_sale,synthetic_v1
+145,0,branded_pc,Acer,4.0,32,256,1,1.5,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,Yes,No,73750.0,completed_sale,synthetic_v1
+146,1,custom_pc,Custom build,3.0,32,512,1,1.5,650,2020,6,Fair (visible wear),Fully working,No,No,,No,Yes,23600.0,completed_sale,synthetic_v1
+147,0,branded_pc,Dell,4.0,8,512,0,0.0,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,45750.0,completed_sale,synthetic_v1
+148,0,branded_pc,ASUS,2.5,4,1000,0,0.0,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,25000.0,completed_sale,synthetic_v1
+149,1,custom_pc,Custom build,1.8,4,2000,1,2.5,650,2025,1,Like new,Fully working,No,Yes,3 to 6 months,No,No,53450.0,completed_sale,synthetic_v1
+150,0,custom_pc,Custom build,3.0,4,1000,1,3.8,650,2025,1,Good (light wear),Fully working,No,No,,No,No,67500.0,completed_sale,synthetic_v1
+151,0,custom_pc,Custom build,4.5,32,1000,1,3.8,550,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,109000.0,completed_sale,synthetic_v1
+152,0,branded_pc,Dell,4.5,16,1000,0,0.0,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,Yes,37950.0,completed_sale,synthetic_v1
+153,0,custom_pc,Custom build,4.5,16,1000,1,3.3,450,2024,2,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,Yes,75550.0,asking,synthetic_v1
+154,0,branded_pc,Acer,4.5,16,512,1,4.5,0,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,73550.0,completed_sale,synthetic_v1
+155,1,branded_pc,Acer,4.0,4,256,1,1.5,0,2020,6,Fair (visible wear),Fully working,No,No,,No,No,14800.0,completed_sale,synthetic_v1
+156,0,custom_pc,Custom build,2.5,4,512,1,3.3,450,2023,3,Good (light wear),Fully working,Yes,Yes,More than 12 months,Yes,No,38850.0,completed_sale,synthetic_v1
+157,0,branded_pc,Acer,3.0,32,2000,0,0.0,0,2024,2,Like new,Works with minor issues,No,Yes,6 to 12 months,No,No,43000.0,completed_sale,synthetic_v1
+158,0,branded_pc,Dell,4.5,8,2000,0,0.0,0,2026,0,Like new,Works with minor issues,No,Yes,More than 12 months,Yes,No,58300.0,completed_sale,synthetic_v1
+159,0,custom_pc,Custom build,3.5,4,1000,1,3.3,650,2018,8,Fair (visible wear),Works with minor issues,No,No,,No,Yes,17850.0,asking,synthetic_v1
+160,1,branded_pc,Acer,3.0,8,512,0,0.0,0,2026,0,Poor (heavy wear),Fully working,Yes,Yes,3 to 6 months,Yes,No,32150.0,asking,synthetic_v1
+161,0,branded_pc,Dell,2.5,8,1000,0,0.0,0,2018,8,Fair (visible wear),Works with minor issues,No,No,,No,No,8100.0,completed_sale,synthetic_v1
+162,0,custom_pc,Custom build,4.5,32,512,1,3.8,750,2014,12,Poor (heavy wear),Fully working,Yes,No,,No,No,10650.0,completed_sale,synthetic_v1
+163,0,branded_pc,Dell,4.0,4,256,1,1.5,0,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,26750.0,completed_sale,synthetic_v1
+164,0,custom_pc,Custom build,4.0,8,1000,1,3.3,550,2026,0,Good (light wear),Fully working,No,No,,Yes,No,79000.0,completed_sale,synthetic_v1
+165,0,branded_pc,Lenovo,1.8,8,256,0,0.0,0,2024,2,Poor (heavy wear),Not working,No,No,,No,No,6900.0,asking,synthetic_v1
+166,0,branded_pc,Dell,3.0,8,1000,1,2.5,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,58300.0,completed_sale,synthetic_v1
+167,0,custom_pc,Custom build,3.0,4,2000,0,0.0,450,2026,0,Like new,Fully working,No,Yes,More than 12 months,Yes,No,63350.0,asking,synthetic_v1
+168,0,branded_pc,HP,2.5,8,256,0,0.0,0,2022,4,Like new,Fully working,No,No,,No,Yes,19900.0,completed_sale,synthetic_v1
+169,0,branded_pc,ASUS,3.5,8,512,0,0.0,0,2024,2,Good (light wear),Fully working,Yes,No,,No,No,27650.0,completed_sale,synthetic_v1
+170,0,branded_pc,Lenovo,4.5,32,2000,0,0.0,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,68350.0,completed_sale,synthetic_v1
+171,0,branded_pc,ASUS,1.8,8,256,0,0.0,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,33250.0,asking,synthetic_v1
+172,0,branded_pc,ASUS,4.5,8,256,1,3.3,0,2024,2,Poor (heavy wear),Fully working,No,No,,Yes,No,40200.0,completed_sale,synthetic_v1
+173,0,custom_pc,Custom build,2.5,8,1000,1,4.5,650,2022,4,Good (light wear),Fully working,Yes,No,,Yes,No,41550.0,completed_sale,synthetic_v1
+174,0,custom_pc,Custom build,3.0,8,2000,1,3.3,750,2020,6,Good (light wear),Works with minor issues,No,No,,No,No,27250.0,completed_sale,synthetic_v1
+175,0,custom_pc,Custom build,1.8,16,256,1,3.8,650,2025,1,Poor (heavy wear),Fully working,No,No,,Yes,No,52250.0,asking,synthetic_v1
+176,0,custom_pc,Custom build,1.8,8,2000,1,2.5,750,2023,3,Like new,Fully working,No,No,,Yes,No,40150.0,completed_sale,synthetic_v1
+177,0,custom_pc,Custom build,2.5,16,1000,1,1.5,450,2024,2,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,41100.0,completed_sale,synthetic_v1
+178,1,custom_pc,Custom build,1.8,8,2000,1,4.5,450,2024,2,Like new,Fully working,No,Yes,3 to 6 months,No,No,58150.0,completed_sale,synthetic_v1
+179,0,custom_pc,Custom build,4.5,8,2000,1,4.5,650,2021,5,Fair (visible wear),Fully working,No,No,,Yes,Yes,43900.0,completed_sale,synthetic_v1
+180,0,branded_pc,ASUS,1.8,16,256,1,4.5,0,2024,2,Good (light wear),Fully working,Yes,No,,Yes,Yes,55850.0,completed_sale,synthetic_v1
+181,0,branded_pc,Lenovo,4.5,16,2000,1,4.5,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,57150.0,completed_sale,synthetic_v1
+182,1,custom_pc,Custom build,3.5,16,512,1,4.5,650,2020,6,Like new,Fully working,No,No,,Yes,Yes,36650.0,completed_sale,synthetic_v1
+183,0,custom_pc,Custom build,4.0,4,2000,0,0.0,550,2023,3,Fair (visible wear),Works with minor issues,No,No,,No,No,29700.0,asking,synthetic_v1
+184,0,branded_pc,Acer,3.0,4,256,1,3.8,0,2023,3,Like new,Fully working,Yes,Yes,More than 12 months,No,Yes,44250.0,completed_sale,synthetic_v1
+185,0,branded_pc,Dell,1.8,4,2000,0,0.0,0,2026,0,Fair (visible wear),Fully working,No,No,,No,No,34400.0,completed_sale,synthetic_v1
+186,0,custom_pc,Custom build,1.8,16,1000,1,3.3,450,2022,4,Like new,Fully working,No,No,,Yes,Yes,40350.0,completed_sale,synthetic_v1
+187,1,branded_pc,Dell,4.0,16,256,1,3.3,0,2022,4,Fair (visible wear),Works with minor issues,No,No,,No,No,29250.0,completed_sale,synthetic_v1
+188,0,branded_pc,Lenovo,1.8,4,512,1,4.5,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,59900.0,completed_sale,synthetic_v1
+189,0,branded_pc,Lenovo,2.5,8,1000,0,0.0,0,2026,0,Good (light wear),Works with minor issues,No,Yes,Under 3 months,No,Yes,34000.0,completed_sale,synthetic_v1
+190,1,branded_pc,HP,3.0,32,512,1,1.5,0,2023,3,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,40150.0,completed_sale,synthetic_v1
+191,0,branded_pc,Lenovo,3.0,16,1000,1,4.5,0,2023,3,Fair (visible wear),Fully working,No,No,,No,Yes,50900.0,completed_sale,synthetic_v1
+192,0,branded_pc,Dell,4.0,16,512,1,4.5,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,42800.0,completed_sale,synthetic_v1
+193,0,custom_pc,Custom build,4.5,8,2000,0,0.0,750,2024,2,Good (light wear),Fully working,Yes,No,,Yes,Yes,43150.0,completed_sale,synthetic_v1
+194,0,custom_pc,Custom build,3.5,16,1000,1,1.5,750,2024,2,Like new,Not working,No,Yes,3 to 6 months,No,No,20500.0,completed_sale,synthetic_v1
+195,0,branded_pc,Dell,1.8,32,256,1,4.5,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,78850.0,completed_sale,synthetic_v1
+196,0,custom_pc,Custom build,3.0,32,2000,1,4.5,450,2023,3,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,Yes,62150.0,completed_sale,synthetic_v1
+197,0,custom_pc,Custom build,4.0,32,1000,1,2.5,450,2023,3,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,55300.0,asking,synthetic_v1
+198,0,branded_pc,Acer,4.5,8,256,0,0.0,0,2023,3,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,29950.0,completed_sale,synthetic_v1
+199,0,custom_pc,Custom build,4.5,8,2000,0,0.0,650,2019,7,Fair (visible wear),Not working,No,No,,No,Yes,5900.0,completed_sale,synthetic_v1
+200,0,custom_pc,Custom build,3.5,4,1000,0,0.0,750,2025,1,Good (light wear),Fully working,Yes,Yes,More than 12 months,Yes,Yes,42150.0,completed_sale,synthetic_v1
+201,0,branded_pc,Lenovo,2.5,16,256,1,4.5,0,2023,3,Fair (visible wear),Not working,Yes,No,,Yes,No,15200.0,completed_sale,synthetic_v1
+202,0,branded_pc,Acer,3.0,32,1000,0,0.0,0,2024,2,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,42700.0,completed_sale,synthetic_v1
+203,0,branded_pc,Dell,1.8,8,2000,1,4.5,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,Yes,41700.0,completed_sale,synthetic_v1
+204,0,branded_pc,ASUS,3.0,16,256,1,1.5,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,36150.0,completed_sale,synthetic_v1
+205,0,branded_pc,ASUS,1.8,32,512,0,0.0,0,2024,2,Poor (heavy wear),Fully working,No,No,,Yes,No,29050.0,completed_sale,synthetic_v1
+206,0,custom_pc,Custom build,4.5,4,2000,0,0.0,550,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,55850.0,completed_sale,synthetic_v1
+207,0,custom_pc,Custom build,2.5,4,512,1,4.5,550,2022,4,Like new,Works with minor issues,No,No,,No,No,30800.0,completed_sale,synthetic_v1
+208,1,branded_pc,Dell,3.5,16,256,0,0.0,0,2023,3,Like new,Works with minor issues,No,No,,Yes,No,25200.0,completed_sale,synthetic_v1
+209,0,branded_pc,Dell,3.0,4,1000,0,0.0,0,2023,3,Good (light wear),Fully working,No,No,,No,No,27450.0,completed_sale,synthetic_v1
+210,0,custom_pc,Custom build,4.0,8,1000,0,0.0,750,2015,11,Like new,Fully working,No,No,,Yes,Yes,9050.0,completed_sale,synthetic_v1
+211,0,branded_pc,Lenovo,3.5,16,256,1,3.8,0,2021,5,Good (light wear),Fully working,No,No,,No,Yes,39700.0,asking,synthetic_v1
+212,0,custom_pc,Custom build,2.5,8,256,0,0.0,650,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,32450.0,completed_sale,synthetic_v1
+213,0,custom_pc,Custom build,1.8,32,1000,1,1.5,450,2023,3,Like new,Fully working,No,No,,No,No,46150.0,completed_sale,synthetic_v1
+214,0,custom_pc,Custom build,3.5,16,256,1,4.5,750,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,55150.0,completed_sale,synthetic_v1
+215,0,custom_pc,Custom build,2.5,4,512,1,3.3,550,2026,0,Good (light wear),Works with minor issues,No,No,,No,Yes,54350.0,completed_sale,synthetic_v1
+216,0,branded_pc,Acer,3.0,4,1000,0,0.0,0,2021,5,Fair (visible wear),Fully working,No,No,,Yes,No,16300.0,completed_sale,synthetic_v1
+217,0,custom_pc,Custom build,4.0,32,512,1,1.5,650,2017,9,Fair (visible wear),Fully working,No,No,,No,Yes,16250.0,completed_sale,synthetic_v1
+218,0,custom_pc,Custom build,3.0,16,512,1,2.5,750,2023,3,Fair (visible wear),Works with minor issues,Yes,No,,No,No,32000.0,completed_sale,synthetic_v1
+219,0,branded_pc,Acer,3.5,16,2000,0,0.0,0,2019,7,Good (light wear),Fully working,No,No,,Yes,No,17800.0,completed_sale,synthetic_v1
+220,0,custom_pc,Custom build,3.0,32,512,1,3.3,650,2026,0,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,75500.0,completed_sale,synthetic_v1
+221,0,branded_pc,Dell,3.5,16,512,1,2.5,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,24700.0,completed_sale,synthetic_v1
+222,0,branded_pc,HP,4.5,8,512,0,0.0,0,2025,1,Good (light wear),Works with minor issues,No,Yes,6 to 12 months,No,No,41650.0,completed_sale,synthetic_v1
+223,0,custom_pc,Custom build,4.5,8,2000,0,0.0,450,2025,1,Like new,Fully working,No,Yes,More than 12 months,Yes,Yes,72750.0,asking,synthetic_v1
+224,0,custom_pc,Custom build,3.5,4,256,0,0.0,650,2021,5,Good (light wear),Fully working,No,No,,No,Yes,20350.0,asking,synthetic_v1
+225,0,custom_pc,Custom build,4.5,32,512,0,0.0,650,2022,4,Fair (visible wear),Fully working,No,No,,No,No,35900.0,completed_sale,synthetic_v1
+226,0,branded_pc,Dell,4.0,16,256,0,0.0,0,2026,0,Poor (heavy wear),Fully working,No,No,,No,No,45400.0,asking,synthetic_v1
+227,0,branded_pc,Dell,3.5,32,1000,1,1.5,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,66300.0,completed_sale,synthetic_v1
+228,0,custom_pc,Custom build,3.5,4,2000,1,3.3,650,2021,5,Fair (visible wear),Fully working,No,No,,No,No,29950.0,completed_sale,synthetic_v1
+229,0,custom_pc,Custom build,3.5,8,2000,1,1.5,550,2025,1,Like new,Works with minor issues,No,No,,Yes,No,54750.0,completed_sale,synthetic_v1
+230,0,custom_pc,Custom build,2.5,4,2000,1,2.5,550,2020,6,Poor (heavy wear),Fully working,No,No,,No,Yes,17500.0,completed_sale,synthetic_v1
+231,0,custom_pc,Custom build,1.8,16,2000,1,1.5,750,2025,1,Like new,Fully working,No,Yes,3 to 6 months,Yes,Yes,61850.0,completed_sale,synthetic_v1
+232,1,branded_pc,HP,4.0,4,2000,0,0.0,0,2024,2,Like new,Fully working,Yes,No,,Yes,Yes,39650.0,completed_sale,synthetic_v1
+233,0,branded_pc,Acer,4.0,8,256,0,0.0,0,2020,6,Fair (visible wear),Fully working,Yes,No,,Yes,No,16150.0,completed_sale,synthetic_v1
+234,1,custom_pc,Custom build,1.8,8,256,1,1.5,550,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,24950.0,asking,synthetic_v1
+235,1,custom_pc,Custom build,4.5,32,2000,1,3.3,550,2024,2,Fair (visible wear),Works with minor issues,No,No,,No,No,57350.0,completed_sale,synthetic_v1
+236,0,custom_pc,Custom build,4.0,32,512,0,0.0,550,2024,2,Poor (heavy wear),Fully working,No,No,,No,Yes,36200.0,completed_sale,synthetic_v1
+237,0,branded_pc,Dell,3.0,16,512,0,0.0,0,2025,1,Fair (visible wear),Fully working,Yes,No,,No,Yes,31850.0,completed_sale,synthetic_v1
+238,0,custom_pc,Custom build,1.8,8,256,1,1.5,450,2021,5,Like new,Not working,Yes,No,,No,Yes,6500.0,completed_sale,synthetic_v1
+239,0,branded_pc,Dell,4.0,16,2000,0,0.0,0,2025,1,Like new,Fully working,No,No,,No,No,59650.0,completed_sale,synthetic_v1
+240,1,branded_pc,Dell,3.5,16,256,0,0.0,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,31300.0,completed_sale,synthetic_v1
+241,1,custom_pc,Custom build,1.8,8,256,1,2.5,550,2021,5,Like new,Fully working,No,No,,Yes,Yes,27700.0,asking,synthetic_v1
+242,0,branded_pc,ASUS,2.5,32,1000,1,1.5,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,80750.0,completed_sale,synthetic_v1
+243,0,custom_pc,Custom build,2.5,4,512,1,2.5,650,2019,7,Good (light wear),Fully working,No,No,,Yes,No,19150.0,asking,synthetic_v1
+244,0,branded_pc,Lenovo,2.5,8,256,0,0.0,0,2022,4,Good (light wear),Fully working,No,No,,No,No,18100.0,completed_sale,synthetic_v1
+245,0,branded_pc,Lenovo,1.8,8,256,1,3.8,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,No,58600.0,completed_sale,synthetic_v1
+246,0,branded_pc,Dell,3.0,4,256,0,0.0,0,2024,2,Fair (visible wear),Fully working,No,Yes,3 to 6 months,Yes,No,22750.0,completed_sale,synthetic_v1
+247,0,branded_pc,Acer,2.5,16,256,1,2.5,0,2014,12,Like new,Fully working,No,No,,Yes,Yes,10050.0,completed_sale,synthetic_v1
+248,0,branded_pc,Dell,4.0,4,2000,0,0.0,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,26300.0,completed_sale,synthetic_v1
+249,1,branded_pc,ASUS,3.0,8,512,0,0.0,0,2018,8,Fair (visible wear),Works with minor issues,No,No,,No,No,7950.0,completed_sale,synthetic_v1
+250,0,custom_pc,Custom build,1.8,16,2000,0,0.0,650,2023,3,Fair (visible wear),Fully working,No,No,,No,Yes,26300.0,completed_sale,synthetic_v1
+251,0,custom_pc,Custom build,4.5,8,512,1,4.5,650,2020,6,Poor (heavy wear),Fully working,No,No,,No,Yes,26050.0,completed_sale,synthetic_v1
+252,0,custom_pc,Custom build,4.0,16,2000,1,4.5,550,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,Yes,111900.0,completed_sale,synthetic_v1
+253,1,custom_pc,Custom build,4.5,32,512,1,2.5,750,2024,2,Like new,Fully working,No,No,,No,Yes,74750.0,completed_sale,synthetic_v1
+254,0,custom_pc,Custom build,1.8,4,512,0,0.0,750,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,Yes,22050.0,completed_sale,synthetic_v1
+255,0,branded_pc,Acer,3.5,4,1000,0,0.0,0,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,20950.0,completed_sale,synthetic_v1
+256,0,custom_pc,Custom build,2.5,32,512,1,2.5,450,2017,9,Fair (visible wear),Works with minor issues,No,No,,No,Yes,17200.0,asking,synthetic_v1
+257,0,custom_pc,Custom build,1.8,32,512,0,0.0,650,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,54350.0,completed_sale,synthetic_v1
+258,0,custom_pc,Custom build,1.8,16,1000,1,4.5,550,2024,2,Poor (heavy wear),Works with minor issues,Yes,Yes,More than 12 months,No,No,38400.0,completed_sale,synthetic_v1
+259,1,custom_pc,Custom build,1.8,8,2000,1,1.5,750,2021,5,Fair (visible wear),Not working,No,No,,No,No,7350.0,completed_sale,synthetic_v1
+260,0,custom_pc,Custom build,4.0,4,256,1,3.3,550,2023,3,Poor (heavy wear),Fully working,No,Yes,3 to 6 months,No,No,35250.0,completed_sale,synthetic_v1
+261,0,custom_pc,Custom build,3.0,32,1000,1,3.3,550,2021,5,Good (light wear),Fully working,No,No,,No,Yes,41000.0,completed_sale,synthetic_v1
+262,0,custom_pc,Custom build,1.8,8,512,1,3.3,750,2022,4,Fair (visible wear),Works with minor issues,Yes,No,,Yes,Yes,24550.0,completed_sale,synthetic_v1
+263,0,custom_pc,Custom build,3.0,4,256,1,3.8,750,2022,4,Poor (heavy wear),Fully working,No,No,,No,Yes,26300.0,completed_sale,synthetic_v1
+264,1,custom_pc,Custom build,4.0,16,256,1,2.5,550,2023,3,Poor (heavy wear),Fully working,No,No,,No,No,32650.0,completed_sale,synthetic_v1
+265,0,branded_pc,ASUS,1.8,16,1000,1,2.5,0,2022,4,Like new,Fully working,No,No,,No,No,33700.0,completed_sale,synthetic_v1
+266,1,custom_pc,Custom build,3.0,4,512,1,3.3,750,2018,8,Like new,Fully working,Yes,No,,Yes,No,20850.0,asking,synthetic_v1
+267,0,branded_pc,Dell,3.5,32,2000,1,4.5,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,No,102600.0,completed_sale,synthetic_v1
+268,0,custom_pc,Custom build,4.5,8,256,1,1.5,550,2023,3,Fair (visible wear),Fully working,No,No,,No,Yes,33950.0,completed_sale,synthetic_v1
+269,0,branded_pc,Acer,1.8,4,1000,1,1.5,0,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,30400.0,completed_sale,synthetic_v1
+270,0,custom_pc,Custom build,2.5,16,512,1,3.8,450,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,67450.0,completed_sale,synthetic_v1
+271,0,custom_pc,Custom build,2.5,16,1000,1,3.8,650,2014,12,Good (light wear),Fully working,No,No,,No,Yes,11100.0,completed_sale,synthetic_v1
+272,0,custom_pc,Custom build,2.5,16,512,1,2.5,550,2020,6,Like new,Not working,No,No,,Yes,No,10850.0,asking,synthetic_v1
+273,0,custom_pc,Custom build,2.5,16,256,0,0.0,450,2022,4,Fair (visible wear),Fully working,No,No,,No,No,18700.0,completed_sale,synthetic_v1
+274,0,custom_pc,Custom build,3.5,16,256,1,1.5,750,2020,6,Like new,Fully working,No,No,,No,No,27550.0,completed_sale,synthetic_v1
+275,0,custom_pc,Custom build,3.5,8,1000,0,0.0,450,2023,3,Like new,Fully working,No,Yes,Under 3 months,Yes,Yes,38100.0,asking,synthetic_v1
+276,0,custom_pc,Custom build,3.5,32,256,1,3.3,650,2025,1,Good (light wear),Fully working,No,No,,No,No,83850.0,completed_sale,synthetic_v1
+277,0,custom_pc,Custom build,4.0,8,512,1,3.3,650,2024,2,Poor (heavy wear),Fully working,No,No,,No,No,35450.0,completed_sale,synthetic_v1
+278,1,branded_pc,Acer,2.5,8,1000,0,0.0,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,29850.0,completed_sale,synthetic_v1
+279,0,branded_pc,Acer,3.0,16,2000,0,0.0,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,32600.0,completed_sale,synthetic_v1
+280,0,branded_pc,Lenovo,1.8,32,2000,0,0.0,0,2025,1,Good (light wear),Not working,Yes,Yes,3 to 6 months,Yes,Yes,20700.0,asking,synthetic_v1
+281,0,custom_pc,Custom build,3.5,8,256,1,4.5,750,2019,7,Fair (visible wear),Fully working,No,No,,No,No,22600.0,completed_sale,synthetic_v1
+282,1,branded_pc,Acer,1.8,32,512,0,0.0,0,2025,1,Fair (visible wear),Fully working,Yes,No,,No,Yes,33750.0,completed_sale,synthetic_v1
+283,0,custom_pc,Custom build,1.8,8,1000,1,3.8,750,2026,0,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,Yes,59850.0,completed_sale,synthetic_v1
+284,0,custom_pc,Custom build,2.5,4,512,0,0.0,450,2024,2,Good (light wear),Fully working,No,No,,No,Yes,23250.0,completed_sale,synthetic_v1
+285,0,custom_pc,Custom build,3.5,32,2000,0,0.0,450,2021,5,Good (light wear),Works with minor issues,Yes,No,,No,Yes,27950.0,completed_sale,synthetic_v1
+286,0,custom_pc,Custom build,4.5,32,2000,1,4.5,750,2018,8,Good (light wear),Fully working,No,No,,No,No,37350.0,asking,synthetic_v1
+287,0,branded_pc,ASUS,2.5,16,2000,0,0.0,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,32250.0,asking,synthetic_v1
+288,1,custom_pc,Custom build,1.8,32,2000,1,3.8,550,2022,4,Fair (visible wear),Fully working,No,No,,No,No,36000.0,completed_sale,synthetic_v1
+289,0,branded_pc,HP,1.8,4,512,0,0.0,0,2020,6,Fair (visible wear),Fully working,No,No,,No,No,9900.0,completed_sale,synthetic_v1
+290,0,branded_pc,Lenovo,4.0,4,1000,1,3.8,0,2026,0,Like new,Fully working,No,No,,No,No,86100.0,completed_sale,synthetic_v1
+291,1,custom_pc,Custom build,2.5,16,256,1,4.5,550,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,64250.0,completed_sale,synthetic_v1
+292,0,branded_pc,Dell,4.0,16,2000,1,3.8,0,2021,5,Good (light wear),Fully working,No,No,,No,No,41350.0,completed_sale,synthetic_v1
+293,0,custom_pc,Custom build,4.5,4,512,1,3.8,650,2024,2,Poor (heavy wear),Fully working,No,Yes,6 to 12 months,No,Yes,43750.0,completed_sale,synthetic_v1
+294,0,branded_pc,Dell,3.5,32,512,1,3.3,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,81650.0,completed_sale,synthetic_v1
+295,0,branded_pc,Lenovo,4.0,16,256,0,0.0,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,25000.0,completed_sale,synthetic_v1
+296,1,branded_pc,Dell,4.0,32,1000,0,0.0,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,45800.0,completed_sale,synthetic_v1
+297,0,custom_pc,Custom build,4.0,16,1000,1,3.3,750,2024,2,Good (light wear),Fully working,Yes,Yes,3 to 6 months,Yes,No,60900.0,completed_sale,synthetic_v1
+298,0,custom_pc,Custom build,3.5,4,256,1,4.5,750,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,56450.0,completed_sale,synthetic_v1
+299,0,branded_pc,HP,3.0,32,1000,0,0.0,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,69500.0,asking,synthetic_v1
+300,0,custom_pc,Custom build,4.0,4,512,1,3.3,550,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,53200.0,completed_sale,synthetic_v1
+301,0,custom_pc,Custom build,3.5,8,1000,1,3.3,450,2023,3,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,42800.0,completed_sale,synthetic_v1
+302,0,branded_pc,ASUS,4.0,32,512,0,0.0,0,2025,1,Like new,Fully working,No,Yes,3 to 6 months,No,Yes,69700.0,completed_sale,synthetic_v1
+303,1,custom_pc,Custom build,3.5,4,1000,1,3.3,450,2021,5,Fair (visible wear),Fully working,No,No,,No,No,29400.0,completed_sale,synthetic_v1
+304,0,custom_pc,Custom build,3.0,32,1000,1,3.8,650,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,99000.0,completed_sale,synthetic_v1
+305,0,custom_pc,Custom build,3.5,32,1000,1,1.5,650,2017,9,Good (light wear),Fully working,Yes,No,,Yes,Yes,21500.0,asking,synthetic_v1
+306,0,branded_pc,ASUS,2.5,16,1000,1,1.5,0,2020,6,Like new,Fully working,No,No,,Yes,No,27250.0,completed_sale,synthetic_v1
+307,0,branded_pc,HP,2.5,8,512,0,0.0,0,2019,7,Good (light wear),Fully working,No,No,,Yes,Yes,12450.0,completed_sale,synthetic_v1
+308,1,branded_pc,Dell,2.5,4,1000,1,1.5,0,2019,7,Fair (visible wear),Fully working,Yes,No,,No,Yes,12000.0,completed_sale,synthetic_v1
+309,0,custom_pc,Custom build,4.5,32,256,0,0.0,650,2022,4,Good (light wear),Fully working,Yes,No,,No,Yes,31450.0,completed_sale,synthetic_v1
+310,0,branded_pc,Dell,4.0,4,2000,0,0.0,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,41400.0,completed_sale,synthetic_v1
+311,0,branded_pc,HP,2.5,16,256,0,0.0,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,31450.0,completed_sale,synthetic_v1
+312,0,custom_pc,Custom build,1.8,32,512,1,1.5,450,2024,2,Like new,Fully working,No,Yes,3 to 6 months,Yes,No,53400.0,completed_sale,synthetic_v1
+313,1,branded_pc,ASUS,4.0,8,512,1,1.5,0,2022,4,Good (light wear),Works with minor issues,No,No,,Yes,Yes,26650.0,completed_sale,synthetic_v1
+314,0,custom_pc,Custom build,3.0,4,1000,1,2.5,750,2024,2,Good (light wear),Fully working,Yes,No,,No,Yes,46150.0,completed_sale,synthetic_v1
+315,0,custom_pc,Custom build,4.0,4,1000,1,1.5,550,2026,0,Like new,Fully working,No,Yes,6 to 12 months,No,No,71050.0,completed_sale,synthetic_v1
+316,0,branded_pc,Lenovo,4.5,8,512,1,4.5,0,2025,1,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,Yes,65000.0,completed_sale,synthetic_v1
+317,0,branded_pc,Lenovo,3.5,32,1000,1,2.5,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,Yes,82950.0,asking,synthetic_v1
+318,0,custom_pc,Custom build,3.0,32,256,0,0.0,550,2025,1,Good (light wear),Fully working,No,No,,No,No,48650.0,completed_sale,synthetic_v1
+319,0,branded_pc,ASUS,1.8,32,256,1,2.5,0,2022,4,Like new,Fully working,No,No,,No,Yes,41000.0,completed_sale,synthetic_v1
+320,0,custom_pc,Custom build,4.0,8,1000,1,2.5,450,2022,4,Good (light wear),Fully working,No,No,,Yes,No,43700.0,completed_sale,synthetic_v1
+321,0,branded_pc,Dell,3.0,16,2000,0,0.0,0,2022,4,Like new,Fully working,No,No,,No,No,38050.0,asking,synthetic_v1
+322,0,branded_pc,HP,4.5,8,512,1,3.8,0,2024,2,Poor (heavy wear),Fully working,No,No,,No,Yes,44750.0,completed_sale,synthetic_v1
+323,0,branded_pc,Acer,2.5,16,512,1,4.5,0,2023,3,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,47650.0,completed_sale,synthetic_v1
+324,0,custom_pc,Custom build,4.0,4,256,1,3.8,550,2025,1,Good (light wear),Fully working,No,No,,Yes,No,64450.0,completed_sale,synthetic_v1
+325,0,branded_pc,Acer,3.5,16,256,1,4.5,0,2024,2,Good (light wear),Works with minor issues,No,No,,No,No,53800.0,completed_sale,synthetic_v1
+326,0,custom_pc,Custom build,2.5,4,256,1,4.5,650,2025,1,Like new,Fully working,No,No,,Yes,No,71150.0,completed_sale,synthetic_v1
+327,0,branded_pc,HP,3.0,32,1000,0,0.0,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,Yes,No,66450.0,completed_sale,synthetic_v1
+328,0,custom_pc,Custom build,3.0,8,1000,1,3.8,450,2022,4,Fair (visible wear),Fully working,No,No,,No,No,44700.0,asking,synthetic_v1
+329,0,custom_pc,Custom build,4.5,32,2000,1,4.5,650,2023,3,Good (light wear),Fully working,Yes,No,,No,No,65200.0,completed_sale,synthetic_v1
+330,0,branded_pc,Lenovo,4.0,32,1000,0,0.0,0,2019,7,Good (light wear),Fully working,No,No,,No,Yes,22100.0,completed_sale,synthetic_v1
+331,0,custom_pc,Custom build,3.0,16,1000,0,0.0,550,2021,5,Fair (visible wear),Works with minor issues,No,No,,Yes,Yes,16400.0,completed_sale,synthetic_v1
+332,0,custom_pc,Custom build,3.0,16,2000,1,1.5,750,2021,5,Like new,Fully working,No,No,,No,Yes,36650.0,completed_sale,synthetic_v1
+333,0,custom_pc,Custom build,2.5,16,1000,1,3.3,750,2025,1,Poor (heavy wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,51650.0,completed_sale,synthetic_v1
+334,0,custom_pc,Custom build,3.5,4,1000,1,2.5,650,2018,8,Good (light wear),Fully working,No,No,,No,No,17000.0,completed_sale,synthetic_v1
+335,0,branded_pc,Dell,3.0,8,1000,0,0.0,0,2025,1,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,Yes,33400.0,completed_sale,synthetic_v1
+336,0,branded_pc,Lenovo,4.0,32,2000,0,0.0,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,76900.0,asking,synthetic_v1
+337,0,custom_pc,Custom build,4.0,8,1000,1,3.3,450,2024,2,Like new,Fully working,No,Yes,3 to 6 months,Yes,Yes,65050.0,completed_sale,synthetic_v1
+338,0,custom_pc,Custom build,1.8,32,512,1,4.5,750,2022,4,Poor (heavy wear),Fully working,No,No,,Yes,Yes,35500.0,completed_sale,synthetic_v1
+339,0,custom_pc,Custom build,2.5,32,2000,0,0.0,750,2026,0,Good (light wear),Fully working,No,No,,Yes,Yes,71250.0,completed_sale,synthetic_v1
+340,0,branded_pc,ASUS,4.0,8,256,0,0.0,0,2022,4,Good (light wear),Fully working,Yes,No,,Yes,Yes,24500.0,completed_sale,synthetic_v1
+341,0,branded_pc,Lenovo,4.5,8,2000,0,0.0,0,2025,1,Like new,Fully working,No,No,,Yes,No,57500.0,completed_sale,synthetic_v1
+342,0,custom_pc,Custom build,4.5,4,1000,1,3.3,450,2022,4,Like new,Works with minor issues,No,No,,Yes,No,36500.0,completed_sale,synthetic_v1
+343,0,branded_pc,Dell,3.5,4,512,1,1.5,0,2018,8,Fair (visible wear),Not working,No,No,,Yes,Yes,4150.0,completed_sale,synthetic_v1
+344,1,branded_pc,ASUS,3.5,8,512,0,0.0,0,2024,2,Good (light wear),Works with minor issues,No,No,,Yes,No,28600.0,asking,synthetic_v1
+345,0,branded_pc,Acer,4.5,8,256,0,0.0,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,34450.0,completed_sale,synthetic_v1
+346,0,branded_pc,ASUS,4.0,4,1000,0,0.0,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,32950.0,completed_sale,synthetic_v1
+347,0,custom_pc,Custom build,3.0,16,1000,1,3.3,550,2024,2,Fair (visible wear),Fully working,No,No,,No,No,46800.0,completed_sale,synthetic_v1
+348,0,branded_pc,HP,2.5,32,2000,1,3.3,0,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,71100.0,completed_sale,synthetic_v1
+349,0,branded_pc,Lenovo,4.5,4,256,0,0.0,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,21700.0,completed_sale,synthetic_v1
+350,0,custom_pc,Custom build,3.0,8,512,1,2.5,750,2024,2,Like new,Fully working,Yes,Yes,Under 3 months,No,No,55100.0,completed_sale,synthetic_v1
+351,0,branded_pc,Lenovo,4.0,8,2000,0,0.0,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,Yes,37550.0,asking,synthetic_v1
+352,1,branded_pc,HP,4.5,16,256,0,0.0,0,2023,3,Good (light wear),Works with minor issues,No,No,,Yes,No,26850.0,completed_sale,synthetic_v1
+353,0,branded_pc,HP,4.0,8,512,0,0.0,0,2021,5,Poor (heavy wear),Fully working,Yes,No,,No,Yes,16650.0,asking,synthetic_v1
+354,0,branded_pc,Dell,4.5,4,256,0,0.0,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,38900.0,completed_sale,synthetic_v1
+355,0,custom_pc,Custom build,3.5,32,512,0,0.0,450,2026,0,Like new,Fully working,Yes,Yes,More than 12 months,No,No,76500.0,asking,synthetic_v1
+356,1,custom_pc,Custom build,3.0,16,2000,1,4.5,650,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,72650.0,asking,synthetic_v1
+357,0,branded_pc,HP,2.5,4,1000,1,2.5,0,2024,2,Good (light wear),Works with minor issues,No,No,,No,No,37350.0,completed_sale,synthetic_v1
+358,0,branded_pc,Dell,3.5,8,1000,0,0.0,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,44000.0,completed_sale,synthetic_v1
+359,0,branded_pc,ASUS,3.0,4,512,0,0.0,0,2024,2,Like new,Fully working,No,No,,Yes,No,34900.0,asking,synthetic_v1
+360,0,custom_pc,Custom build,1.8,16,1000,1,2.5,750,2023,3,Good (light wear),Fully working,Yes,No,,No,No,37900.0,completed_sale,synthetic_v1
+361,0,branded_pc,Dell,4.0,4,1000,0,0.0,0,2024,2,Like new,Fully working,No,No,,Yes,No,39150.0,completed_sale,synthetic_v1
+362,0,branded_pc,ASUS,3.5,8,2000,1,3.8,0,2023,3,Poor (heavy wear),Fully working,No,No,,Yes,Yes,46250.0,asking,synthetic_v1
+363,0,branded_pc,Acer,3.5,32,512,1,1.5,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,66150.0,asking,synthetic_v1
+364,1,custom_pc,Custom build,1.8,4,2000,1,1.5,550,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,34950.0,completed_sale,synthetic_v1
+365,0,custom_pc,Custom build,2.5,16,512,1,2.5,750,2023,3,Like new,Fully working,No,Yes,3 to 6 months,Yes,No,47050.0,completed_sale,synthetic_v1
+366,0,branded_pc,Acer,2.5,8,1000,1,1.5,0,2023,3,Like new,Fully working,No,Yes,3 to 6 months,Yes,Yes,35750.0,completed_sale,synthetic_v1
+367,0,custom_pc,Custom build,4.0,8,512,1,3.3,450,2026,0,Good (light wear),Fully working,No,No,,No,Yes,73200.0,completed_sale,synthetic_v1
+368,0,branded_pc,Acer,4.5,4,2000,0,0.0,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,Yes,53650.0,asking,synthetic_v1
+369,0,custom_pc,Custom build,3.5,16,256,1,3.3,450,2022,4,Fair (visible wear),Fully working,No,No,,Yes,Yes,35100.0,completed_sale,synthetic_v1
+370,0,branded_pc,HP,3.0,4,256,0,0.0,0,2024,2,Like new,Fully working,No,No,,No,Yes,27700.0,completed_sale,synthetic_v1
+371,0,branded_pc,Acer,3.0,8,512,0,0.0,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,22950.0,completed_sale,synthetic_v1
+372,0,branded_pc,Lenovo,3.5,16,1000,0,0.0,0,2019,7,Good (light wear),Fully working,No,No,,No,No,15800.0,completed_sale,synthetic_v1
+373,0,branded_pc,Lenovo,3.0,16,512,1,1.5,0,2025,1,Poor (heavy wear),Fully working,No,Yes,Under 3 months,No,No,34900.0,completed_sale,synthetic_v1
+374,0,branded_pc,Acer,4.5,4,2000,0,0.0,0,2022,4,Fair (visible wear),Fully working,Yes,No,,Yes,No,22950.0,completed_sale,synthetic_v1
+375,0,custom_pc,Custom build,1.8,4,256,1,4.5,650,2023,3,Poor (heavy wear),Fully working,Yes,No,,Yes,No,31050.0,completed_sale,synthetic_v1
+376,1,custom_pc,Custom build,3.5,32,512,1,3.8,450,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,57300.0,completed_sale,synthetic_v1
+377,0,branded_pc,ASUS,1.8,8,1000,0,0.0,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,No,17950.0,completed_sale,synthetic_v1
+378,0,custom_pc,Custom build,4.0,32,1000,1,4.5,550,2023,3,Good (light wear),Fully working,No,No,,Yes,No,76100.0,asking,synthetic_v1
+379,1,branded_pc,Dell,3.5,16,2000,1,4.5,0,2021,5,Good (light wear),Fully working,No,No,,Yes,Yes,41150.0,completed_sale,synthetic_v1
+380,0,branded_pc,HP,1.8,32,512,0,0.0,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,No,51100.0,completed_sale,synthetic_v1
+381,0,branded_pc,ASUS,4.5,8,2000,0,0.0,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,72600.0,asking,synthetic_v1
+382,1,custom_pc,Custom build,2.5,8,1000,1,1.5,750,2024,2,Fair (visible wear),Fully working,No,No,,No,No,34000.0,completed_sale,synthetic_v1
+383,0,custom_pc,Custom build,3.5,4,512,1,4.5,750,2021,5,Fair (visible wear),Fully working,No,No,,No,No,31400.0,completed_sale,synthetic_v1
+384,0,custom_pc,Custom build,3.0,8,512,1,1.5,450,2016,10,Like new,Works with minor issues,Yes,No,,Yes,No,9400.0,asking,synthetic_v1
+385,1,branded_pc,Dell,1.8,16,1000,1,3.3,0,2024,2,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,54100.0,completed_sale,synthetic_v1
+386,1,custom_pc,Custom build,3.5,32,512,1,3.3,750,2025,1,Fair (visible wear),Fully working,No,No,,No,No,73400.0,completed_sale,synthetic_v1
+387,0,custom_pc,Custom build,3.5,8,1000,1,3.8,650,2024,2,Like new,Works with minor issues,Yes,No,,No,No,51650.0,completed_sale,synthetic_v1
+388,1,branded_pc,Dell,3.0,4,2000,0,0.0,0,2021,5,Fair (visible wear),Fully working,Yes,No,,No,Yes,16400.0,completed_sale,synthetic_v1
+389,0,custom_pc,Custom build,3.0,32,1000,1,4.5,750,2024,2,Like new,Fully working,No,No,,No,Yes,83400.0,completed_sale,synthetic_v1
+390,1,custom_pc,Custom build,2.5,4,2000,0,0.0,650,2019,7,Fair (visible wear),Works with minor issues,Yes,No,,Yes,Yes,9150.0,completed_sale,synthetic_v1
+391,0,branded_pc,HP,4.0,8,1000,0,0.0,0,2025,1,Like new,Works with minor issues,Yes,Yes,3 to 6 months,No,No,37250.0,completed_sale,synthetic_v1
+392,0,branded_pc,Dell,2.5,32,256,1,2.5,0,2024,2,Good (light wear),Works with minor issues,Yes,Yes,More than 12 months,Yes,No,58650.0,asking,synthetic_v1
+393,0,custom_pc,Custom build,2.5,8,2000,1,2.5,550,2023,3,Good (light wear),Fully working,Yes,No,,No,Yes,42400.0,completed_sale,synthetic_v1
+394,0,branded_pc,Lenovo,1.8,8,1000,0,0.0,0,2025,1,Like new,Fully working,No,No,,No,No,29650.0,completed_sale,synthetic_v1
+395,0,custom_pc,Custom build,2.5,16,256,1,1.5,650,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,48700.0,completed_sale,synthetic_v1
+396,1,custom_pc,Custom build,4.5,16,2000,1,3.3,450,2025,1,Like new,Fully working,No,No,,Yes,No,92200.0,completed_sale,synthetic_v1
+397,0,branded_pc,Dell,1.8,32,512,0,0.0,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,26650.0,completed_sale,synthetic_v1
+398,0,branded_pc,ASUS,1.8,16,2000,1,2.5,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,53950.0,completed_sale,synthetic_v1
+399,0,branded_pc,Dell,3.0,16,1000,1,3.8,0,2025,1,Fair (visible wear),Fully working,No,No,,No,No,58850.0,completed_sale,synthetic_v1
+400,0,branded_pc,Dell,1.8,16,256,0,0.0,0,2026,0,Good (light wear),Works with minor issues,No,No,,Yes,No,31550.0,completed_sale,synthetic_v1

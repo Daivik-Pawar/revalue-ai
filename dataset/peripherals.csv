@@ -1,0 +1,601 @@
+row_id,reported_issue,subtype,brand,type_option,tier,wireless,capacity_gb,purchase_year,age_years,physical_condition,working_status,repair_history,warranty_available,warranty_left,original_box,purchase_bill,resale_price_inr,price_type,data_source
+1,0,cooling_pad,Razer,Standard,1,0,0,2024,2,Fair (visible wear),Works with minor issues,No,No,,No,No,350.0,completed_sale,synthetic_v1
+2,1,webcam,Ant Esports,1080p,2,0,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,1600.0,asking,synthetic_v1
+3,0,webcam,Redragon,4K,1,0,0,2024,2,Fair (visible wear),Fully working,Yes,No,,No,Yes,1350.0,completed_sale,synthetic_v1
+4,0,keyboard,Corsair,Mechanical,1,0,0,2025,1,Like new,Works with minor issues,No,No,,Yes,No,1700.0,completed_sale,synthetic_v1
+5,0,webcam,HP,4K,2,0,0,2023,3,Fair (visible wear),Works with minor issues,Yes,No,,No,No,1300.0,completed_sale,synthetic_v1
+6,1,mouse,Generic,Gaming wired,1,0,0,2025,1,Fair (visible wear),Fully working,Yes,No,,No,No,300.0,completed_sale,synthetic_v1
+7,0,external_storage,Razer,External SSD,2,0,1000,2021,5,Fair (visible wear),Fully working,No,No,,Yes,No,2050.0,completed_sale,synthetic_v1
+8,0,external_storage,HP,External SSD,3,0,500,2022,4,Good (light wear),Fully working,Yes,No,,No,No,3600.0,completed_sale,synthetic_v1
+9,0,charger,Logitech,Barrel (round pin),1,0,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,550.0,completed_sale,synthetic_v1
+10,0,external_storage,Dell,External SSD,1,0,1000,2022,4,Good (light wear),Fully working,No,No,,No,Yes,2050.0,completed_sale,synthetic_v1
+11,0,keyboard,Corsair,Office / membrane,2,0,0,2020,6,Good (light wear),Fully working,No,No,,Yes,Yes,550.0,completed_sale,synthetic_v1
+12,0,cable,Dell,USB-C,3,0,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,350.0,completed_sale,synthetic_v1
+13,1,cable,Razer,SATA,1,0,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,100.0,completed_sale,synthetic_v1
+14,0,webcam,Generic,720p,1,0,0,2026,0,Good (light wear),Fully working,No,No,,No,Yes,850.0,completed_sale,synthetic_v1
+15,0,keyboard,Redragon,Office / membrane,3,0,0,2024,2,Like new,Not working,No,No,,No,No,850.0,completed_sale,synthetic_v1
+16,0,webcam,Logitech,4K,1,0,0,2023,3,Fair (visible wear),Fully working,No,Yes,More than 12 months,Yes,No,950.0,completed_sale,synthetic_v1
+17,0,hub_dock,Generic,Docking station,1,0,0,2019,7,Like new,Works with minor issues,No,No,,No,Yes,400.0,completed_sale,synthetic_v1
+18,0,cooling_pad,Ant Esports,Standard,1,0,0,2024,2,Like new,Fully working,No,Yes,More than 12 months,Yes,Yes,600.0,completed_sale,synthetic_v1
+19,0,webcam,Anker,4K,2,0,0,2021,5,Good (light wear),Fully working,No,No,,No,No,1250.0,completed_sale,synthetic_v1
+20,1,cable,Redragon,SATA,1,0,0,2022,4,Poor (heavy wear),Fully working,No,No,,No,Yes,100.0,completed_sale,synthetic_v1
+21,0,external_storage,Dell,External SSD,1,0,1000,2021,5,Good (light wear),Fully working,No,No,,No,Yes,2150.0,completed_sale,synthetic_v1
+22,0,mouse,Generic,Office wired,1,0,0,2023,3,Good (light wear),Not working,No,Yes,3 to 6 months,Yes,No,100.0,asking,synthetic_v1
+23,0,mouse,Redragon,Gaming wireless,3,1,0,2020,6,Like new,Fully working,No,No,,Yes,Yes,900.0,asking,synthetic_v1
+24,0,cable,HP,USB-C,3,0,0,2022,4,Poor (heavy wear),Fully working,No,No,,No,No,100.0,completed_sale,synthetic_v1
+25,0,cooling_pad,Ant Esports,Standard,1,0,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,550.0,completed_sale,synthetic_v1
+26,0,hub_dock,Corsair,Docking station,1,0,0,2024,2,Good (light wear),Fully working,Yes,Yes,6 to 12 months,Yes,No,1400.0,completed_sale,synthetic_v1
+27,0,cable,Anker,Ethernet (LAN),1,0,0,2024,2,Like new,Fully working,No,Yes,6 to 12 months,Yes,Yes,100.0,completed_sale,synthetic_v1
+28,0,external_storage,Ant Esports,External SSD,2,0,1000,2021,5,Like new,Fully working,No,No,,No,No,2800.0,completed_sale,synthetic_v1
+29,0,hub_dock,Razer,USB hub,2,0,0,2020,6,Good (light wear),Fully working,No,No,,No,No,900.0,asking,synthetic_v1
+30,0,headset,HP,Bluetooth,3,1,0,2026,0,Like new,Fully working,No,Yes,6 to 12 months,No,No,4900.0,completed_sale,synthetic_v1
+31,0,cable,Zebronics,DisplayPort,3,0,0,2026,0,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,800.0,asking,synthetic_v1
+32,0,webcam,Redragon,1080p,3,0,0,2026,0,Good (light wear),Fully working,No,No,,No,No,3300.0,completed_sale,synthetic_v1
+33,0,keyboard,Razer,Wireless,3,1,0,2025,1,Good (light wear),Fully working,Yes,Yes,6 to 12 months,No,Yes,3100.0,completed_sale,synthetic_v1
+34,0,external_storage,HP,External SSD,1,0,2000,2020,6,Good (light wear),Works with minor issues,No,No,,Yes,No,1500.0,completed_sale,synthetic_v1
+35,0,mouse,Razer,Office wireless,1,1,0,2026,0,Like new,Not working,No,Yes,3 to 6 months,No,Yes,350.0,completed_sale,synthetic_v1
+36,0,webcam,HP,1080p,2,0,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,No,1300.0,asking,synthetic_v1
+37,0,charger,Generic,USB-C,2,0,0,2023,3,Good (light wear),Fully working,Yes,No,,No,No,1300.0,completed_sale,synthetic_v1
+38,0,charger,Generic,Barrel (round pin),3,0,0,2014,12,Good (light wear),Fully working,No,No,,Yes,No,300.0,completed_sale,synthetic_v1
+39,0,mouse,Corsair,Gaming wired,1,0,0,2021,5,Poor (heavy wear),Works with minor issues,No,No,,No,No,100.0,asking,synthetic_v1
+40,0,cooling_pad,Redragon,Standard,1,0,0,2018,8,Fair (visible wear),Fully working,No,No,,No,No,100.0,completed_sale,synthetic_v1
+41,0,webcam,Anker,4K,2,0,0,2021,5,Like new,Fully working,No,No,,Yes,No,1450.0,completed_sale,synthetic_v1
+42,1,cooling_pad,Dell,Standard,3,0,0,2022,4,Good (light wear),Fully working,No,No,,No,No,750.0,completed_sale,synthetic_v1
+43,0,cooling_pad,Generic,Standard,1,0,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,650.0,asking,synthetic_v1
+44,1,cable,Logitech,HDMI,2,0,0,2019,7,Good (light wear),Works with minor issues,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+45,0,headset,Dell,Bluetooth,2,1,0,2023,3,Good (light wear),Fully working,No,No,,No,No,1400.0,completed_sale,synthetic_v1
+46,0,keyboard,Ant Esports,Mechanical,1,0,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,1600.0,completed_sale,synthetic_v1
+47,0,external_storage,Razer,External SSD,1,0,1000,2026,0,Good (light wear),Works with minor issues,No,Yes,Under 3 months,No,No,3900.0,completed_sale,synthetic_v1
+48,0,keyboard,HP,Mechanical,3,0,0,2022,4,Good (light wear),Fully working,No,No,,No,No,1900.0,completed_sale,synthetic_v1
+49,0,cable,Ant Esports,SATA,3,0,0,2025,1,Fair (visible wear),Fully working,No,No,,No,Yes,450.0,completed_sale,synthetic_v1
+50,0,webcam,Anker,1080p,2,0,0,2025,1,Good (light wear),Fully working,No,No,,No,No,1950.0,asking,synthetic_v1
+51,0,cooling_pad,Razer,Standard,1,0,0,2025,1,Like new,Works with minor issues,No,Yes,3 to 6 months,Yes,Yes,700.0,asking,synthetic_v1
+52,0,cooling_pad,Zebronics,Standard,2,0,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,550.0,asking,synthetic_v1
+53,1,headset,Dell,USB wired,1,0,0,2017,9,Poor (heavy wear),Fully working,Yes,No,,No,Yes,100.0,completed_sale,synthetic_v1
+54,0,hub_dock,Ant Esports,Docking station,1,0,0,2024,2,Fair (visible wear),Works with minor issues,No,Yes,More than 12 months,Yes,No,1150.0,completed_sale,synthetic_v1
+55,0,hub_dock,Redragon,Docking station,1,0,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,1200.0,completed_sale,synthetic_v1
+56,0,external_storage,Razer,External HDD,2,0,2000,2019,7,Like new,Fully working,No,No,,No,Yes,1950.0,completed_sale,synthetic_v1
+57,0,headset,Logitech,Bluetooth,1,1,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,1000.0,completed_sale,synthetic_v1
+58,0,keyboard,Logitech,Gaming,1,0,0,2025,1,Good (light wear),Fully working,Yes,Yes,6 to 12 months,Yes,Yes,600.0,completed_sale,synthetic_v1
+59,1,cooling_pad,Razer,Standard,1,0,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,Yes,Yes,700.0,completed_sale,synthetic_v1
+60,0,charger,Redragon,Barrel (round pin),2,0,0,2020,6,Good (light wear),Fully working,No,No,,No,No,700.0,completed_sale,synthetic_v1
+61,0,mouse,Logitech,Gaming wireless,1,1,0,2025,1,Fair (visible wear),Fully working,Yes,Yes,6 to 12 months,No,No,650.0,completed_sale,synthetic_v1
+62,0,hub_dock,Zebronics,USB hub,1,0,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,350.0,asking,synthetic_v1
+63,0,charger,Redragon,Barrel (round pin),3,0,0,2023,3,Fair (visible wear),Fully working,Yes,Yes,6 to 12 months,Yes,Yes,1600.0,completed_sale,synthetic_v1
+64,0,external_storage,Anker,External SSD,2,0,2000,2026,0,Like new,Fully working,No,Yes,More than 12 months,Yes,No,9100.0,completed_sale,synthetic_v1
+65,0,webcam,Zebronics,1080p,2,0,0,2023,3,Like new,Not working,No,No,,Yes,No,450.0,completed_sale,synthetic_v1
+66,0,keyboard,Ant Esports,Gaming,2,0,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,1150.0,completed_sale,synthetic_v1
+67,0,external_storage,HP,External HDD,3,0,1000,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,3850.0,completed_sale,synthetic_v1
+68,0,hub_dock,HP,USB hub,1,0,0,2021,5,Like new,Fully working,Yes,No,,Yes,No,250.0,completed_sale,synthetic_v1
+69,0,keyboard,Generic,Office / membrane,1,0,0,2026,0,Like new,Fully working,No,Yes,3 to 6 months,No,Yes,1000.0,asking,synthetic_v1
+70,1,keyboard,Generic,Mechanical,1,0,0,2016,10,Good (light wear),Fully working,Yes,No,,No,No,300.0,asking,synthetic_v1
+71,0,external_storage,Anker,External HDD,3,0,500,2016,10,Good (light wear),Not working,No,No,,No,Yes,350.0,asking,synthetic_v1
+72,0,cooling_pad,Razer,Standard,1,0,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,600.0,completed_sale,synthetic_v1
+73,0,mouse,Ant Esports,Office wireless,1,1,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,500.0,completed_sale,synthetic_v1
+74,0,keyboard,Dell,Mechanical,1,0,0,2022,4,Poor (heavy wear),Fully working,Yes,No,,Yes,No,600.0,completed_sale,synthetic_v1
+75,0,webcam,Logitech,4K,2,0,0,2022,4,Like new,Fully working,Yes,No,,Yes,Yes,1750.0,completed_sale,synthetic_v1
+76,1,cable,Zebronics,SATA,3,0,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,200.0,completed_sale,synthetic_v1
+77,0,cooling_pad,Razer,Standard,3,0,0,2026,0,Fair (visible wear),Fully working,No,No,,No,No,1800.0,completed_sale,synthetic_v1
+78,0,hub_dock,Dell,USB hub,3,0,0,2023,3,Like new,Fully working,No,No,,No,No,2650.0,completed_sale,synthetic_v1
+79,1,external_storage,Dell,External SSD,1,0,1000,2024,2,Good (light wear),Works with minor issues,No,No,,Yes,Yes,2500.0,completed_sale,synthetic_v1
+80,0,charger,Ant Esports,USB-C,3,0,0,2025,1,Like new,Fully working,Yes,Yes,More than 12 months,No,No,2700.0,completed_sale,synthetic_v1
+81,0,charger,Zebronics,Barrel (round pin),2,0,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,No,No,2350.0,completed_sale,synthetic_v1
+82,0,charger,Dell,USB-C,1,0,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,1000.0,completed_sale,synthetic_v1
+83,0,charger,Logitech,Barrel (round pin),1,0,0,2022,4,Like new,Fully working,Yes,No,,No,No,750.0,completed_sale,synthetic_v1
+84,0,external_storage,Anker,External SSD,1,0,1000,2025,1,Like new,Fully working,No,Yes,3 to 6 months,No,Yes,4650.0,asking,synthetic_v1
+85,0,cooling_pad,Logitech,Standard,2,0,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,1000.0,asking,synthetic_v1
+86,0,hub_dock,HP,Docking station,1,0,0,2023,3,Like new,Fully working,Yes,No,,Yes,No,1050.0,completed_sale,synthetic_v1
+87,0,hub_dock,Ant Esports,Docking station,3,0,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,5800.0,completed_sale,synthetic_v1
+88,0,cable,Logitech,Ethernet (LAN),3,0,0,2023,3,Fair (visible wear),Fully working,No,No,,No,Yes,200.0,asking,synthetic_v1
+89,1,cable,Redragon,USB-C,1,0,0,2022,4,Good (light wear),Works with minor issues,No,No,,No,Yes,100.0,completed_sale,synthetic_v1
+90,0,external_storage,Generic,External HDD,2,0,1000,2024,2,Fair (visible wear),Fully working,Yes,Yes,Under 3 months,No,Yes,3000.0,completed_sale,synthetic_v1
+91,0,keyboard,Razer,Gaming,2,0,0,2023,3,Good (light wear),Fully working,No,No,,No,No,1050.0,completed_sale,synthetic_v1
+92,0,mouse,Generic,Gaming wired,1,0,0,2022,4,Poor (heavy wear),Fully working,No,No,,Yes,No,150.0,asking,synthetic_v1
+93,0,mouse,Zebronics,Gaming wireless,1,1,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,750.0,completed_sale,synthetic_v1
+94,1,charger,Generic,Barrel (round pin),1,0,0,2016,10,Fair (visible wear),Fully working,No,No,,Yes,No,200.0,asking,synthetic_v1
+95,0,charger,Redragon,Barrel (round pin),1,0,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,Yes,Yes,1250.0,completed_sale,synthetic_v1
+96,0,keyboard,HP,Wireless,1,1,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,No,1050.0,asking,synthetic_v1
+97,0,mouse,Redragon,Gaming wired,2,0,0,2022,4,Good (light wear),Fully working,Yes,No,,No,No,550.0,completed_sale,synthetic_v1
+98,0,cooling_pad,Ant Esports,Standard,1,0,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,450.0,completed_sale,synthetic_v1
+99,0,keyboard,Anker,Mechanical,1,0,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,Yes,1700.0,completed_sale,synthetic_v1
+100,0,headset,HP,3.5 mm wired,2,0,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,1450.0,completed_sale,synthetic_v1
+101,0,external_storage,Zebronics,External HDD,2,0,2000,2024,2,Good (light wear),Not working,No,Yes,More than 12 months,No,No,1600.0,completed_sale,synthetic_v1
+102,0,hub_dock,Logitech,USB-C multiport hub,2,0,0,2024,2,Good (light wear),Works with minor issues,No,No,,No,No,1950.0,asking,synthetic_v1
+103,1,webcam,Dell,720p,1,0,0,2023,3,Fair (visible wear),Fully working,No,No,,No,No,400.0,completed_sale,synthetic_v1
+104,0,webcam,Corsair,4K,3,0,0,2020,6,Fair (visible wear),Not working,Yes,No,,Yes,No,400.0,completed_sale,synthetic_v1
+105,0,charger,Razer,Barrel (round pin),2,0,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,1500.0,completed_sale,synthetic_v1
+106,0,webcam,Generic,720p,1,0,0,2024,2,Like new,Fully working,No,No,,No,Yes,650.0,completed_sale,synthetic_v1
+107,0,headset,Razer,USB wired,3,0,0,2022,4,Like new,Fully working,Yes,No,,No,No,1450.0,completed_sale,synthetic_v1
+108,0,keyboard,Corsair,Mechanical,1,0,0,2023,3,Like new,Fully working,No,No,,No,No,1500.0,asking,synthetic_v1
+109,1,hub_dock,HP,USB hub,3,0,0,2024,2,Poor (heavy wear),Fully working,Yes,No,,Yes,No,2000.0,completed_sale,synthetic_v1
+110,0,external_storage,Razer,External SSD,1,0,2000,2025,1,Like new,Not working,No,No,,No,No,2200.0,completed_sale,synthetic_v1
+111,0,cooling_pad,Redragon,Standard,2,0,0,2024,2,Poor (heavy wear),Fully working,No,Yes,Under 3 months,No,Yes,650.0,completed_sale,synthetic_v1
+112,1,webcam,Logitech,4K,2,0,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,1750.0,completed_sale,synthetic_v1
+113,1,mouse,Logitech,Office wireless,1,1,0,2024,2,Like new,Fully working,No,No,,Yes,No,600.0,completed_sale,synthetic_v1
+114,0,cooling_pad,Ant Esports,Standard,3,0,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,500.0,completed_sale,synthetic_v1
+115,0,external_storage,Logitech,External SSD,2,0,2000,2022,4,Like new,Fully working,No,No,,No,No,3800.0,completed_sale,synthetic_v1
+116,0,headset,Generic,USB wired,1,0,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,350.0,completed_sale,synthetic_v1
+117,0,webcam,Razer,720p,1,0,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,600.0,completed_sale,synthetic_v1
+118,0,external_storage,Razer,External HDD,3,0,1000,2021,5,Poor (heavy wear),Fully working,No,No,,No,No,1950.0,completed_sale,synthetic_v1
+119,0,external_storage,HP,External HDD,2,0,1000,2024,2,Fair (visible wear),Fully working,No,No,,No,No,2950.0,completed_sale,synthetic_v1
+120,0,hub_dock,Anker,USB hub,1,0,0,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,750.0,completed_sale,synthetic_v1
+121,0,cable,Logitech,HDMI,2,0,0,2024,2,Like new,Works with minor issues,No,No,,No,No,250.0,completed_sale,synthetic_v1
+122,0,headset,Ant Esports,3.5 mm wired,1,0,0,2024,2,Like new,Fully working,No,No,,No,No,650.0,completed_sale,synthetic_v1
+123,0,external_storage,Generic,External SSD,2,0,500,2023,3,Like new,Fully working,No,Yes,3 to 6 months,Yes,Yes,3650.0,completed_sale,synthetic_v1
+124,1,cooling_pad,Dell,Standard,2,0,0,2023,3,Like new,Not working,No,No,,Yes,No,250.0,completed_sale,synthetic_v1
+125,0,external_storage,HP,External HDD,2,0,500,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,4500.0,completed_sale,synthetic_v1
+126,0,webcam,Ant Esports,1080p,2,0,0,2024,2,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,No,1400.0,completed_sale,synthetic_v1
+127,0,headset,Zebronics,Bluetooth,3,1,0,2026,0,Good (light wear),Fully working,No,No,,No,No,4200.0,completed_sale,synthetic_v1
+128,0,mouse,HP,Office wireless,2,1,0,2021,5,Fair (visible wear),Works with minor issues,Yes,No,,No,Yes,450.0,completed_sale,synthetic_v1
+129,0,cooling_pad,Zebronics,Standard,3,0,0,2018,8,Good (light wear),Fully working,Yes,No,,No,No,250.0,completed_sale,synthetic_v1
+130,0,hub_dock,Anker,USB hub,2,0,0,2024,2,Good (light wear),Fully working,No,No,,No,No,2050.0,asking,synthetic_v1
+131,0,external_storage,Logitech,External HDD,2,0,1000,2023,3,Like new,Fully working,No,No,,No,No,3000.0,completed_sale,synthetic_v1
+132,0,keyboard,Dell,Mechanical,2,0,0,2025,1,Good (light wear),Fully working,No,No,,No,Yes,2700.0,completed_sale,synthetic_v1
+133,0,charger,Anker,Barrel (round pin),2,0,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,1500.0,completed_sale,synthetic_v1
+134,0,keyboard,Logitech,Mechanical,2,0,0,2026,0,Fair (visible wear),Fully working,No,No,,No,No,3300.0,completed_sale,synthetic_v1
+135,0,cable,Anker,DisplayPort,1,0,0,2024,2,Like new,Fully working,No,Yes,6 to 12 months,Yes,Yes,150.0,asking,synthetic_v1
+136,0,cable,HP,HDMI,1,0,0,2024,2,Fair (visible wear),Fully working,No,Yes,3 to 6 months,Yes,No,100.0,completed_sale,synthetic_v1
+137,1,cooling_pad,HP,Standard,1,0,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,Yes,650.0,completed_sale,synthetic_v1
+138,0,cooling_pad,HP,Standard,1,0,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,550.0,completed_sale,synthetic_v1
+139,0,external_storage,Logitech,External HDD,1,0,500,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,1200.0,completed_sale,synthetic_v1
+140,0,mouse,HP,Gaming wired,1,0,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,350.0,completed_sale,synthetic_v1
+141,0,external_storage,Zebronics,External HDD,1,0,500,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,No,Yes,2750.0,completed_sale,synthetic_v1
+142,0,charger,HP,USB-C,1,0,0,2023,3,Good (light wear),Not working,No,Yes,Under 3 months,Yes,No,350.0,asking,synthetic_v1
+143,0,cable,Zebronics,Ethernet (LAN),2,0,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,Yes,350.0,completed_sale,synthetic_v1
+144,0,mouse,HP,Gaming wired,1,0,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,250.0,completed_sale,synthetic_v1
+145,0,headset,Logitech,USB wired,1,0,0,2025,1,Like new,Works with minor issues,No,No,,Yes,No,750.0,completed_sale,synthetic_v1
+146,0,hub_dock,Ant Esports,USB hub,3,0,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,2800.0,completed_sale,synthetic_v1
+147,1,headset,HP,3.5 mm wired,1,0,0,2022,4,Poor (heavy wear),Fully working,No,No,,Yes,Yes,250.0,completed_sale,synthetic_v1
+148,0,charger,Razer,USB-C,3,0,0,2024,2,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,No,2350.0,completed_sale,synthetic_v1
+149,0,webcam,Logitech,720p,1,0,0,2024,2,Like new,Fully working,No,No,,No,Yes,650.0,completed_sale,synthetic_v1
+150,0,mouse,Corsair,Office wired,3,0,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,800.0,completed_sale,synthetic_v1
+151,0,cable,Zebronics,USB-C,2,0,0,2019,7,Good (light wear),Fully working,Yes,No,,Yes,Yes,100.0,asking,synthetic_v1
+152,0,cooling_pad,Logitech,Standard,1,0,0,2025,1,Good (light wear),Fully working,No,No,,No,No,650.0,completed_sale,synthetic_v1
+153,0,headset,Corsair,Bluetooth,1,1,0,2024,2,Like new,Works with minor issues,No,No,,Yes,No,900.0,completed_sale,synthetic_v1
+154,0,charger,Corsair,USB-C,1,0,0,2023,3,Good (light wear),Works with minor issues,No,No,,No,No,700.0,completed_sale,synthetic_v1
+155,0,keyboard,Dell,Mechanical,1,0,0,2024,2,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,Yes,1350.0,completed_sale,synthetic_v1
+156,0,charger,Razer,USB-C,3,0,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,1400.0,completed_sale,synthetic_v1
+157,0,external_storage,Dell,External SSD,1,0,500,2024,2,Good (light wear),Works with minor issues,No,Yes,6 to 12 months,No,No,2550.0,completed_sale,synthetic_v1
+158,1,cable,Zebronics,SATA,3,0,0,2022,4,Good (light wear),Not working,Yes,No,,Yes,Yes,100.0,completed_sale,synthetic_v1
+159,0,cooling_pad,Redragon,Standard,1,0,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,400.0,completed_sale,synthetic_v1
+160,0,webcam,HP,720p,2,0,0,2024,2,Good (light wear),Fully working,No,No,,Yes,No,1500.0,completed_sale,synthetic_v1
+161,0,keyboard,Corsair,Mechanical,1,0,0,2025,1,Like new,Fully working,No,No,,Yes,No,1900.0,completed_sale,synthetic_v1
+162,0,cable,Dell,USB-C,1,0,0,2021,5,Good (light wear),Works with minor issues,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+163,0,charger,Ant Esports,Barrel (round pin),1,0,0,2014,12,Fair (visible wear),Works with minor issues,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+164,0,cooling_pad,Corsair,Standard,1,0,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,Yes,400.0,completed_sale,synthetic_v1
+165,0,charger,Redragon,Barrel (round pin),1,0,0,2024,2,Good (light wear),Fully working,Yes,Yes,More than 12 months,No,No,1000.0,completed_sale,synthetic_v1
+166,0,mouse,Corsair,Office wireless,1,1,0,2023,3,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,No,500.0,completed_sale,synthetic_v1
+167,0,cooling_pad,Razer,Standard,3,0,0,2026,0,Poor (heavy wear),Not working,No,Yes,Under 3 months,No,Yes,600.0,completed_sale,synthetic_v1
+168,0,mouse,Zebronics,Office wireless,1,1,0,2021,5,Poor (heavy wear),Fully working,No,No,,No,No,200.0,completed_sale,synthetic_v1
+169,0,keyboard,Corsair,Office / membrane,2,0,0,2023,3,Like new,Fully working,No,No,,Yes,No,1350.0,completed_sale,synthetic_v1
+170,0,external_storage,Logitech,External HDD,1,0,2000,2021,5,Like new,Works with minor issues,No,No,,No,No,1600.0,completed_sale,synthetic_v1
+171,0,mouse,Redragon,Gaming wireless,1,1,0,2025,1,Good (light wear),Fully working,No,No,,No,No,900.0,asking,synthetic_v1
+172,1,keyboard,Redragon,Office / membrane,1,0,0,2021,5,Good (light wear),Fully working,No,No,,No,Yes,250.0,completed_sale,synthetic_v1
+173,0,headset,Zebronics,3.5 mm wired,1,0,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,250.0,completed_sale,synthetic_v1
+174,0,cooling_pad,Zebronics,Standard,3,0,0,2026,0,Good (light wear),Fully working,No,No,,Yes,Yes,2300.0,completed_sale,synthetic_v1
+175,0,hub_dock,Corsair,Docking station,3,0,0,2024,2,Good (light wear),Fully working,No,No,,No,No,3500.0,completed_sale,synthetic_v1
+176,0,mouse,HP,Gaming wireless,1,1,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,350.0,completed_sale,synthetic_v1
+177,0,cable,HP,Ethernet (LAN),3,0,0,2023,3,Like new,Not working,Yes,No,,Yes,No,100.0,completed_sale,synthetic_v1
+178,0,external_storage,Corsair,External SSD,2,0,2000,2025,1,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,7050.0,completed_sale,synthetic_v1
+179,0,headset,Razer,USB wired,2,0,0,2023,3,Good (light wear),Fully working,Yes,No,,Yes,No,1250.0,completed_sale,synthetic_v1
+180,0,cable,Dell,DisplayPort,1,0,0,2020,6,Poor (heavy wear),Fully working,No,No,,No,No,100.0,completed_sale,synthetic_v1
+181,0,external_storage,Dell,External HDD,2,0,2000,2021,5,Like new,Fully working,No,No,,Yes,No,3600.0,asking,synthetic_v1
+182,0,mouse,Generic,Gaming wired,2,0,0,2025,1,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,No,950.0,completed_sale,synthetic_v1
+183,0,external_storage,HP,External SSD,1,0,500,2025,1,Like new,Works with minor issues,No,Yes,More than 12 months,No,No,3350.0,completed_sale,synthetic_v1
+184,0,keyboard,Ant Esports,Gaming,3,0,0,2023,3,Like new,Fully working,No,Yes,6 to 12 months,No,No,1900.0,completed_sale,synthetic_v1
+185,0,charger,Corsair,USB-C,1,0,0,2019,7,Fair (visible wear),Fully working,No,No,,No,No,350.0,completed_sale,synthetic_v1
+186,0,hub_dock,Generic,USB-C multiport hub,1,0,0,2022,4,Like new,Fully working,No,No,,No,Yes,300.0,completed_sale,synthetic_v1
+187,1,cooling_pad,Logitech,Standard,1,0,0,2023,3,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,350.0,completed_sale,synthetic_v1
+188,0,charger,Generic,Barrel (round pin),1,0,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,No,1050.0,completed_sale,synthetic_v1
+189,0,hub_dock,Redragon,Docking station,1,0,0,2023,3,Good (light wear),Fully working,No,Yes,6 to 12 months,No,Yes,1200.0,completed_sale,synthetic_v1
+190,1,keyboard,Redragon,Wireless,1,1,0,2015,11,Good (light wear),Fully working,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+191,0,hub_dock,Razer,Docking station,1,0,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,No,1450.0,completed_sale,synthetic_v1
+192,0,charger,Zebronics,Barrel (round pin),2,0,0,2021,5,Like new,Fully working,No,No,,No,Yes,950.0,completed_sale,synthetic_v1
+193,0,cooling_pad,Redragon,Standard,1,0,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,700.0,completed_sale,synthetic_v1
+194,0,cooling_pad,HP,Standard,2,0,0,2023,3,Like new,Fully working,Yes,No,,Yes,No,800.0,completed_sale,synthetic_v1
+195,0,keyboard,Razer,Office / membrane,1,0,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,550.0,completed_sale,synthetic_v1
+196,0,cable,Dell,DisplayPort,1,0,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,Yes,Yes,200.0,completed_sale,synthetic_v1
+197,0,headset,Dell,USB wired,2,0,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,700.0,asking,synthetic_v1
+198,0,webcam,Logitech,1080p,2,0,0,2026,0,Good (light wear),Fully working,Yes,Yes,6 to 12 months,No,Yes,2350.0,completed_sale,synthetic_v1
+199,0,webcam,Ant Esports,4K,1,0,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,No,1850.0,completed_sale,synthetic_v1
+200,0,webcam,Ant Esports,720p,1,0,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,550.0,completed_sale,synthetic_v1
+201,0,keyboard,HP,Office / membrane,1,0,0,2018,8,Good (light wear),Fully working,No,No,,No,No,150.0,asking,synthetic_v1
+202,0,webcam,Redragon,1080p,1,0,0,2021,5,Like new,Fully working,Yes,No,,Yes,No,300.0,completed_sale,synthetic_v1
+203,0,cooling_pad,Ant Esports,Standard,3,0,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,1100.0,completed_sale,synthetic_v1
+204,0,headset,Anker,USB wired,1,0,0,2021,5,Fair (visible wear),Works with minor issues,No,No,,Yes,No,250.0,completed_sale,synthetic_v1
+205,1,headset,Anker,Bluetooth,1,1,0,2023,3,Like new,Fully working,Yes,No,,Yes,Yes,650.0,completed_sale,synthetic_v1
+206,0,cooling_pad,Razer,Standard,1,0,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,700.0,completed_sale,synthetic_v1
+207,0,external_storage,Corsair,External SSD,2,0,2000,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,Yes,7750.0,completed_sale,synthetic_v1
+208,0,charger,Generic,Barrel (round pin),2,0,0,2021,5,Good (light wear),Works with minor issues,Yes,No,,Yes,Yes,700.0,asking,synthetic_v1
+209,0,webcam,HP,720p,2,0,0,2023,3,Like new,Fully working,Yes,No,,Yes,No,1300.0,completed_sale,synthetic_v1
+210,0,external_storage,Dell,External SSD,1,0,2000,2025,1,Fair (visible wear),Fully working,No,Yes,3 to 6 months,Yes,No,5150.0,completed_sale,synthetic_v1
+211,0,webcam,HP,1080p,2,0,0,2024,2,Like new,Fully working,No,No,,No,No,1550.0,completed_sale,synthetic_v1
+212,0,mouse,Redragon,Gaming wireless,1,1,0,2023,3,Poor (heavy wear),Fully working,No,No,,No,No,400.0,completed_sale,synthetic_v1
+213,1,mouse,Anker,Gaming wireless,1,1,0,2014,12,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,100.0,completed_sale,synthetic_v1
+214,0,webcam,Razer,720p,1,0,0,2023,3,Like new,Fully working,Yes,Yes,More than 12 months,No,Yes,500.0,completed_sale,synthetic_v1
+215,1,keyboard,Logitech,Gaming,1,0,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,450.0,completed_sale,synthetic_v1
+216,1,cable,Redragon,USB-C,1,0,0,2024,2,Good (light wear),Not working,Yes,Yes,3 to 6 months,Yes,Yes,100.0,completed_sale,synthetic_v1
+217,1,mouse,Logitech,Gaming wired,2,0,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,1000.0,completed_sale,synthetic_v1
+218,0,hub_dock,Razer,USB-C multiport hub,2,0,0,2017,9,Like new,Fully working,Yes,No,,No,No,450.0,completed_sale,synthetic_v1
+219,0,keyboard,HP,Wireless,1,1,0,2024,2,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,800.0,completed_sale,synthetic_v1
+220,0,keyboard,Logitech,Gaming,1,0,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,600.0,asking,synthetic_v1
+221,1,webcam,Zebronics,720p,1,0,0,2023,3,Like new,Fully working,No,No,,No,No,450.0,completed_sale,synthetic_v1
+222,1,hub_dock,HP,USB hub,1,0,0,2015,11,Good (light wear),Works with minor issues,No,No,,No,No,100.0,completed_sale,synthetic_v1
+223,1,cable,HP,DisplayPort,2,0,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,Yes,100.0,completed_sale,synthetic_v1
+224,0,hub_dock,Logitech,USB hub,2,0,0,2022,4,Poor (heavy wear),Not working,No,No,,Yes,No,350.0,asking,synthetic_v1
+225,0,webcam,HP,1080p,2,0,0,2020,6,Fair (visible wear),Works with minor issues,Yes,No,,No,No,400.0,completed_sale,synthetic_v1
+226,0,keyboard,Logitech,Office / membrane,2,0,0,2025,1,Fair (visible wear),Fully working,No,No,,No,No,1550.0,completed_sale,synthetic_v1
+227,0,external_storage,Zebronics,External HDD,1,0,2000,2024,2,Like new,Fully working,No,No,,No,No,3850.0,completed_sale,synthetic_v1
+228,0,hub_dock,Dell,USB-C multiport hub,1,0,0,2025,1,Good (light wear),Fully working,No,No,,No,Yes,650.0,asking,synthetic_v1
+229,0,headset,Generic,3.5 mm wired,1,0,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,No,No,1200.0,completed_sale,synthetic_v1
+230,0,cooling_pad,Ant Esports,Standard,3,0,0,2022,4,Good (light wear),Fully working,Yes,No,,Yes,No,850.0,completed_sale,synthetic_v1
+231,0,hub_dock,Ant Esports,USB-C multiport hub,1,0,0,2020,6,Good (light wear),Fully working,Yes,No,,Yes,No,150.0,completed_sale,synthetic_v1
+232,0,keyboard,HP,Wireless,1,1,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,800.0,completed_sale,synthetic_v1
+233,0,webcam,HP,4K,2,0,0,2026,0,Good (light wear),Fully working,No,No,,Yes,Yes,5100.0,asking,synthetic_v1
+234,0,cable,Razer,HDMI,2,0,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,100.0,completed_sale,synthetic_v1
+235,0,cable,Logitech,USB-C,2,0,0,2021,5,Like new,Fully working,No,No,,No,Yes,100.0,completed_sale,synthetic_v1
+236,0,cooling_pad,Anker,Standard,1,0,0,2023,3,Good (light wear),Fully working,No,No,,No,No,400.0,completed_sale,synthetic_v1
+237,0,hub_dock,Zebronics,Docking station,1,0,0,2024,2,Fair (visible wear),Works with minor issues,No,Yes,6 to 12 months,No,No,1100.0,completed_sale,synthetic_v1
+238,0,cable,Generic,USB-C,2,0,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,350.0,completed_sale,synthetic_v1
+239,0,external_storage,Generic,External HDD,1,0,1000,2024,2,Like new,Fully working,No,No,,No,No,2750.0,completed_sale,synthetic_v1
+240,0,webcam,Razer,1080p,1,0,0,2018,8,Good (light wear),Fully working,No,No,,No,Yes,150.0,completed_sale,synthetic_v1
+241,1,cooling_pad,Corsair,Standard,1,0,0,2022,4,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,250.0,completed_sale,synthetic_v1
+242,1,charger,Razer,Barrel (round pin),2,0,0,2025,1,Good (light wear),Fully working,No,No,,Yes,Yes,1750.0,completed_sale,synthetic_v1
+243,0,webcam,Generic,1080p,3,0,0,2025,1,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,No,3000.0,asking,synthetic_v1
+244,0,mouse,Generic,Gaming wired,1,0,0,2024,2,Good (light wear),Not working,No,Yes,Under 3 months,Yes,No,100.0,completed_sale,synthetic_v1
+245,0,mouse,Logitech,Gaming wireless,2,1,0,2024,2,Like new,Fully working,No,No,,No,No,1100.0,completed_sale,synthetic_v1
+246,0,webcam,Anker,1080p,1,0,0,2021,5,Fair (visible wear),Fully working,No,No,,Yes,Yes,300.0,completed_sale,synthetic_v1
+247,0,keyboard,Logitech,Wireless,3,1,0,2025,1,Good (light wear),Fully working,Yes,No,,Yes,No,3300.0,completed_sale,synthetic_v1
+248,0,keyboard,Redragon,Gaming,1,0,0,2019,7,Good (light wear),Fully working,Yes,No,,Yes,No,200.0,asking,synthetic_v1
+249,0,charger,Logitech,Barrel (round pin),2,0,0,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,1450.0,completed_sale,synthetic_v1
+250,0,hub_dock,Zebronics,USB-C multiport hub,3,0,0,2025,1,Poor (heavy wear),Fully working,No,Yes,6 to 12 months,No,No,3050.0,completed_sale,synthetic_v1
+251,0,external_storage,Dell,External SSD,3,0,1000,2026,0,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,8400.0,completed_sale,synthetic_v1
+252,0,webcam,Zebronics,1080p,2,0,0,2026,0,Good (light wear),Fully working,No,No,,Yes,Yes,2450.0,completed_sale,synthetic_v1
+253,0,webcam,Generic,720p,1,0,0,2024,2,Like new,Fully working,No,No,,Yes,No,700.0,completed_sale,synthetic_v1
+254,0,webcam,Ant Esports,4K,2,0,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,1700.0,completed_sale,synthetic_v1
+255,0,hub_dock,Corsair,Docking station,2,0,0,2020,6,Good (light wear),Not working,No,No,,Yes,Yes,450.0,completed_sale,synthetic_v1
+256,0,hub_dock,HP,USB-C multiport hub,2,0,0,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,2700.0,completed_sale,synthetic_v1
+257,1,webcam,Generic,720p,1,0,0,2022,4,Like new,Fully working,No,No,,No,No,350.0,completed_sale,synthetic_v1
+258,0,headset,Redragon,USB wired,1,0,0,2026,0,Good (light wear),Fully working,No,No,,Yes,No,1150.0,completed_sale,synthetic_v1
+259,0,charger,Zebronics,USB-C,2,0,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,2250.0,asking,synthetic_v1
+260,0,mouse,Generic,Gaming wired,2,0,0,2024,2,Like new,Fully working,No,Yes,Under 3 months,Yes,Yes,1050.0,completed_sale,synthetic_v1
+261,1,keyboard,Ant Esports,Mechanical,2,0,0,2021,5,Fair (visible wear),Works with minor issues,No,No,,No,No,750.0,completed_sale,synthetic_v1
+262,0,external_storage,Logitech,External HDD,1,0,500,2014,12,Fair (visible wear),Fully working,No,No,,Yes,No,250.0,completed_sale,synthetic_v1
+263,0,mouse,Generic,Office wireless,1,1,0,2022,4,Poor (heavy wear),Fully working,No,No,,No,No,300.0,completed_sale,synthetic_v1
+264,0,hub_dock,Anker,USB hub,3,0,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,1600.0,completed_sale,synthetic_v1
+265,0,charger,Dell,USB-C,1,0,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,1100.0,completed_sale,synthetic_v1
+266,0,webcam,Corsair,720p,1,0,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,Yes,750.0,completed_sale,synthetic_v1
+267,0,external_storage,Razer,External HDD,1,0,500,2026,0,Good (light wear),Fully working,No,No,,No,Yes,2500.0,completed_sale,synthetic_v1
+268,0,headset,Zebronics,Bluetooth,2,1,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,No,2500.0,completed_sale,synthetic_v1
+269,0,cable,Razer,USB-C,1,0,0,2023,3,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,100.0,completed_sale,synthetic_v1
+270,0,keyboard,HP,Office / membrane,2,0,0,2024,2,Good (light wear),Works with minor issues,No,Yes,3 to 6 months,Yes,No,1250.0,completed_sale,synthetic_v1
+271,0,mouse,Logitech,Gaming wired,1,0,0,2023,3,Good (light wear),Fully working,No,No,,Yes,Yes,250.0,completed_sale,synthetic_v1
+272,0,headset,Logitech,Bluetooth,1,1,0,2023,3,Poor (heavy wear),Fully working,Yes,Yes,3 to 6 months,Yes,Yes,550.0,completed_sale,synthetic_v1
+273,0,mouse,Generic,Office wired,1,0,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,350.0,asking,synthetic_v1
+274,0,mouse,Redragon,Gaming wired,2,0,0,2020,6,Poor (heavy wear),Fully working,Yes,No,,Yes,No,300.0,asking,synthetic_v1
+275,1,headset,Anker,Bluetooth,3,1,0,2014,12,Fair (visible wear),Fully working,Yes,No,,No,No,250.0,completed_sale,synthetic_v1
+276,1,hub_dock,Generic,Docking station,2,0,0,2021,5,Fair (visible wear),Fully working,Yes,No,,No,Yes,1000.0,completed_sale,synthetic_v1
+277,0,webcam,Anker,720p,1,0,0,2024,2,Like new,Fully working,No,No,,No,Yes,650.0,completed_sale,synthetic_v1
+278,1,mouse,Razer,Gaming wired,1,0,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,150.0,completed_sale,synthetic_v1
+279,1,webcam,Redragon,4K,2,0,0,2022,4,Good (light wear),Fully working,No,No,,No,Yes,1450.0,completed_sale,synthetic_v1
+280,1,mouse,Ant Esports,Gaming wireless,1,1,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,450.0,completed_sale,synthetic_v1
+281,0,hub_dock,Corsair,USB hub,3,0,0,2025,1,Fair (visible wear),Fully working,Yes,Yes,More than 12 months,No,No,3100.0,completed_sale,synthetic_v1
+282,0,mouse,Anker,Gaming wireless,2,1,0,2025,1,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,Yes,1200.0,completed_sale,synthetic_v1
+283,0,keyboard,Zebronics,Wireless,1,1,0,2020,6,Fair (visible wear),Fully working,No,No,,Yes,No,400.0,asking,synthetic_v1
+284,0,keyboard,Dell,Mechanical,1,0,0,2021,5,Like new,Works with minor issues,Yes,No,,No,No,650.0,completed_sale,synthetic_v1
+285,0,mouse,Ant Esports,Office wireless,1,1,0,2024,2,Like new,Fully working,No,No,,No,No,650.0,completed_sale,synthetic_v1
+286,1,headset,Generic,3.5 mm wired,1,0,0,2019,7,Fair (visible wear),Fully working,Yes,No,,No,No,150.0,completed_sale,synthetic_v1
+287,1,charger,HP,USB-C,2,0,0,2024,2,Like new,Fully working,No,No,,No,No,1850.0,asking,synthetic_v1
+288,0,cable,Zebronics,Ethernet (LAN),2,0,0,2022,4,Like new,Fully working,No,No,,Yes,No,150.0,completed_sale,synthetic_v1
+289,0,external_storage,Dell,External HDD,2,0,1000,2020,6,Fair (visible wear),Fully working,No,No,,Yes,No,1500.0,completed_sale,synthetic_v1
+290,0,cooling_pad,Dell,Standard,2,0,0,2021,5,Like new,Fully working,No,No,,Yes,Yes,450.0,completed_sale,synthetic_v1
+291,0,keyboard,Dell,Mechanical,1,0,0,2021,5,Good (light wear),Not working,No,No,,Yes,Yes,300.0,completed_sale,synthetic_v1
+292,0,cooling_pad,Corsair,Standard,1,0,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,400.0,completed_sale,synthetic_v1
+293,0,mouse,Anker,Gaming wireless,2,1,0,2018,8,Good (light wear),Fully working,No,No,,Yes,Yes,350.0,asking,synthetic_v1
+294,0,cooling_pad,HP,Standard,2,0,0,2022,4,Good (light wear),Fully working,Yes,No,,No,Yes,600.0,completed_sale,synthetic_v1
+295,0,external_storage,Ant Esports,External HDD,2,0,1000,2022,4,Good (light wear),Fully working,No,No,,Yes,No,2550.0,completed_sale,synthetic_v1
+296,0,mouse,Dell,Gaming wireless,1,1,0,2026,0,Good (light wear),Works with minor issues,Yes,Yes,6 to 12 months,No,Yes,700.0,completed_sale,synthetic_v1
+297,0,mouse,Generic,Office wireless,2,1,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,900.0,asking,synthetic_v1
+298,0,webcam,Zebronics,4K,2,0,0,2021,5,Good (light wear),Not working,No,No,,No,Yes,450.0,completed_sale,synthetic_v1
+299,0,charger,Logitech,USB-C,2,0,0,2020,6,Like new,Fully working,No,No,,No,No,700.0,completed_sale,synthetic_v1
+300,0,charger,Dell,USB-C,2,0,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,No,No,1600.0,completed_sale,synthetic_v1
+301,0,cooling_pad,Generic,Standard,3,0,0,2023,3,Like new,Fully working,No,No,,Yes,No,1150.0,completed_sale,synthetic_v1
+302,0,mouse,Ant Esports,Gaming wireless,2,1,0,2017,9,Poor (heavy wear),Works with minor issues,No,No,,Yes,No,150.0,completed_sale,synthetic_v1
+303,0,webcam,Anker,4K,3,0,0,2024,2,Like new,Fully working,No,No,,No,No,3700.0,completed_sale,synthetic_v1
+304,0,headset,Ant Esports,Bluetooth,2,1,0,2018,8,Good (light wear),Works with minor issues,No,No,,No,No,350.0,completed_sale,synthetic_v1
+305,0,external_storage,Generic,External SSD,3,0,1000,2023,3,Like new,Fully working,No,No,,Yes,Yes,5100.0,completed_sale,synthetic_v1
+306,0,hub_dock,HP,Docking station,2,0,0,2018,8,Good (light wear),Not working,No,No,,Yes,Yes,250.0,completed_sale,synthetic_v1
+307,0,keyboard,Generic,Wireless,1,1,0,2025,1,Good (light wear),Works with minor issues,No,Yes,More than 12 months,Yes,Yes,950.0,completed_sale,synthetic_v1
+308,0,webcam,Dell,1080p,1,0,0,2025,1,Like new,Works with minor issues,No,No,,Yes,No,650.0,completed_sale,synthetic_v1
+309,0,keyboard,Generic,Office / membrane,1,0,0,2024,2,Fair (visible wear),Works with minor issues,No,No,,No,No,450.0,completed_sale,synthetic_v1
+310,0,mouse,Ant Esports,Office wired,1,0,0,2026,0,Fair (visible wear),Works with minor issues,No,Yes,More than 12 months,No,Yes,350.0,completed_sale,synthetic_v1
+311,0,hub_dock,Ant Esports,Docking station,3,0,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,4150.0,asking,synthetic_v1
+312,0,headset,Anker,USB wired,1,0,0,2024,2,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,700.0,completed_sale,synthetic_v1
+313,0,charger,Anker,Barrel (round pin),1,0,0,2020,6,Like new,Fully working,No,No,,Yes,No,500.0,completed_sale,synthetic_v1
+314,0,external_storage,Razer,External SSD,2,0,2000,2025,1,Good (light wear),Fully working,Yes,Yes,6 to 12 months,No,No,6350.0,completed_sale,synthetic_v1
+315,0,headset,Dell,USB wired,1,0,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,900.0,completed_sale,synthetic_v1
+316,0,hub_dock,Zebronics,Docking station,2,0,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,2700.0,completed_sale,synthetic_v1
+317,0,webcam,HP,4K,1,0,0,2024,2,Good (light wear),Works with minor issues,No,Yes,Under 3 months,Yes,No,1450.0,asking,synthetic_v1
+318,0,mouse,Corsair,Office wired,2,0,0,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,700.0,asking,synthetic_v1
+319,0,mouse,Zebronics,Office wireless,1,1,0,2021,5,Poor (heavy wear),Fully working,Yes,No,,Yes,No,250.0,completed_sale,synthetic_v1
+320,1,hub_dock,Anker,USB hub,1,0,0,2016,10,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,100.0,completed_sale,synthetic_v1
+321,0,webcam,Corsair,720p,1,0,0,2024,2,Good (light wear),Fully working,No,No,,No,Yes,650.0,completed_sale,synthetic_v1
+322,0,webcam,Corsair,720p,2,0,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,Yes,2050.0,completed_sale,synthetic_v1
+323,0,cooling_pad,Anker,Standard,1,0,0,2022,4,Like new,Works with minor issues,No,No,,No,Yes,300.0,completed_sale,synthetic_v1
+324,0,external_storage,Razer,External HDD,1,0,1000,2025,1,Good (light wear),Works with minor issues,No,Yes,More than 12 months,Yes,Yes,2950.0,completed_sale,synthetic_v1
+325,0,charger,Redragon,USB-C,1,0,0,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,1250.0,completed_sale,synthetic_v1
+326,0,hub_dock,Corsair,USB-C multiport hub,1,0,0,2020,6,Fair (visible wear),Fully working,Yes,No,,No,No,200.0,completed_sale,synthetic_v1
+327,0,mouse,Razer,Gaming wired,2,0,0,2016,10,Poor (heavy wear),Fully working,Yes,No,,No,No,100.0,completed_sale,synthetic_v1
+328,0,external_storage,Anker,External HDD,1,0,500,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,2150.0,completed_sale,synthetic_v1
+329,0,hub_dock,Razer,Docking station,1,0,0,2018,8,Fair (visible wear),Works with minor issues,No,No,,Yes,No,300.0,completed_sale,synthetic_v1
+330,0,cooling_pad,Razer,Standard,1,0,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,No,650.0,completed_sale,synthetic_v1
+331,0,headset,Generic,Bluetooth,1,1,0,2022,4,Good (light wear),Works with minor issues,No,No,,No,No,450.0,completed_sale,synthetic_v1
+332,0,hub_dock,HP,Docking station,2,0,0,2023,3,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,2200.0,completed_sale,synthetic_v1
+333,0,keyboard,HP,Wireless,1,1,0,2020,6,Like new,Fully working,Yes,No,,No,No,350.0,completed_sale,synthetic_v1
+334,0,charger,HP,Barrel (round pin),3,0,0,2020,6,Poor (heavy wear),Fully working,No,No,,Yes,No,750.0,asking,synthetic_v1
+335,0,headset,Corsair,Bluetooth,2,1,0,2026,0,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,Yes,2600.0,completed_sale,synthetic_v1
+336,0,hub_dock,Generic,USB hub,1,0,0,2023,3,Poor (heavy wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,300.0,completed_sale,synthetic_v1
+337,1,keyboard,Logitech,Mechanical,2,0,0,2023,3,Like new,Fully working,No,No,,No,No,1750.0,completed_sale,synthetic_v1
+338,0,webcam,Corsair,720p,1,0,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,No,No,500.0,completed_sale,synthetic_v1
+339,0,mouse,Razer,Gaming wired,3,0,0,2021,5,Good (light wear),Fully working,Yes,No,,Yes,No,700.0,completed_sale,synthetic_v1
+340,0,mouse,Razer,Gaming wired,1,0,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,250.0,completed_sale,synthetic_v1
+341,0,mouse,Ant Esports,Office wireless,1,1,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,700.0,completed_sale,synthetic_v1
+342,0,hub_dock,HP,Docking station,2,0,0,2024,2,Good (light wear),Fully working,No,No,,No,No,3050.0,completed_sale,synthetic_v1
+343,0,keyboard,Anker,Mechanical,1,0,0,2019,7,Good (light wear),Fully working,No,No,,Yes,No,500.0,completed_sale,synthetic_v1
+344,0,headset,Anker,Bluetooth,3,1,0,2019,7,Good (light wear),Fully working,Yes,No,,No,Yes,750.0,completed_sale,synthetic_v1
+345,0,webcam,Dell,4K,2,0,0,2023,3,Like new,Fully working,No,No,,Yes,No,2100.0,completed_sale,synthetic_v1
+346,0,external_storage,Redragon,External SSD,1,0,1000,2021,5,Good (light wear),Fully working,No,No,,No,Yes,2150.0,asking,synthetic_v1
+347,0,webcam,Generic,720p,2,0,0,2022,4,Good (light wear),Fully working,No,No,,No,No,1000.0,completed_sale,synthetic_v1
+348,0,headset,Ant Esports,3.5 mm wired,1,0,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,Yes,1000.0,completed_sale,synthetic_v1
+349,0,webcam,Corsair,4K,2,0,0,2016,10,Fair (visible wear),Fully working,No,No,,No,Yes,350.0,completed_sale,synthetic_v1
+350,1,webcam,Redragon,720p,1,0,0,2023,3,Good (light wear),Fully working,No,No,,No,No,450.0,completed_sale,synthetic_v1
+351,0,charger,Redragon,USB-C,1,0,0,2019,7,Good (light wear),Fully working,Yes,No,,No,No,350.0,completed_sale,synthetic_v1
+352,0,cooling_pad,Zebronics,Standard,1,0,0,2025,1,Like new,Fully working,Yes,No,,No,Yes,700.0,completed_sale,synthetic_v1
+353,0,cable,Dell,Ethernet (LAN),1,0,0,2026,0,Poor (heavy wear),Works with minor issues,No,Yes,6 to 12 months,Yes,Yes,150.0,completed_sale,synthetic_v1
+354,0,webcam,Redragon,720p,3,0,0,2021,5,Fair (visible wear),Fully working,No,No,,Yes,No,1100.0,completed_sale,synthetic_v1
+355,0,charger,Zebronics,Barrel (round pin),1,0,0,2022,4,Like new,Fully working,No,No,,Yes,No,900.0,asking,synthetic_v1
+356,0,external_storage,Generic,External SSD,1,0,1000,2022,4,Good (light wear),Fully working,Yes,No,,No,No,2150.0,completed_sale,synthetic_v1
+357,1,headset,Ant Esports,Bluetooth,3,1,0,2026,0,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,4500.0,completed_sale,synthetic_v1
+358,0,hub_dock,Logitech,USB-C multiport hub,1,0,0,2023,3,Fair (visible wear),Fully working,No,Yes,More than 12 months,Yes,Yes,400.0,completed_sale,synthetic_v1
+359,0,external_storage,Generic,External HDD,2,0,1000,2024,2,Like new,Fully working,No,Yes,3 to 6 months,Yes,No,4200.0,completed_sale,synthetic_v1
+360,0,webcam,Zebronics,1080p,2,0,0,2023,3,Good (light wear),Fully working,No,No,,No,No,1200.0,completed_sale,synthetic_v1
+361,0,cooling_pad,Zebronics,Standard,1,0,0,2024,2,Good (light wear),Works with minor issues,No,No,,No,Yes,450.0,completed_sale,synthetic_v1
+362,1,hub_dock,Logitech,Docking station,1,0,0,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,800.0,asking,synthetic_v1
+363,0,cooling_pad,HP,Standard,2,0,0,2024,2,Good (light wear),Fully working,Yes,Yes,More than 12 months,Yes,Yes,1100.0,asking,synthetic_v1
+364,1,cable,Razer,Ethernet (LAN),1,0,0,2018,8,Good (light wear),Fully working,Yes,No,,Yes,No,100.0,completed_sale,synthetic_v1
+365,0,headset,HP,Bluetooth,1,1,0,2024,2,Like new,Fully working,No,Yes,More than 12 months,Yes,No,1050.0,completed_sale,synthetic_v1
+366,0,cooling_pad,Corsair,Standard,1,0,0,2020,6,Good (light wear),Fully working,No,No,,Yes,Yes,200.0,completed_sale,synthetic_v1
+367,0,keyboard,HP,Mechanical,2,0,0,2024,2,Like new,Works with minor issues,No,Yes,3 to 6 months,No,No,2000.0,completed_sale,synthetic_v1
+368,0,external_storage,Anker,External HDD,2,0,1000,2024,2,Good (light wear),Fully working,No,No,,No,No,4050.0,asking,synthetic_v1
+369,0,charger,Anker,Barrel (round pin),1,0,0,2018,8,Fair (visible wear),Fully working,No,No,,No,No,300.0,asking,synthetic_v1
+370,0,cooling_pad,HP,Standard,1,0,0,2026,0,Like new,Fully working,No,No,,No,Yes,1050.0,asking,synthetic_v1
+371,0,charger,Generic,Barrel (round pin),2,0,0,2019,7,Good (light wear),Fully working,No,No,,Yes,No,600.0,completed_sale,synthetic_v1
+372,0,charger,Generic,USB-C,1,0,0,2026,0,Like new,Fully working,No,Yes,3 to 6 months,No,No,1500.0,completed_sale,synthetic_v1
+373,0,external_storage,Ant Esports,External SSD,1,0,500,2024,2,Fair (visible wear),Fully working,No,No,,Yes,No,2600.0,completed_sale,synthetic_v1
+374,0,cooling_pad,Redragon,Standard,2,0,0,2023,3,Good (light wear),Fully working,No,No,,No,No,850.0,asking,synthetic_v1
+375,0,charger,HP,Barrel (round pin),2,0,0,2025,1,Like new,Not working,No,Yes,More than 12 months,No,No,800.0,completed_sale,synthetic_v1
+376,1,webcam,Ant Esports,4K,1,0,0,2026,0,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,No,2350.0,asking,synthetic_v1
+377,0,charger,Zebronics,USB-C,2,0,0,2022,4,Good (light wear),Fully working,Yes,No,,No,Yes,950.0,completed_sale,synthetic_v1
+378,0,cable,Zebronics,DisplayPort,1,0,0,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,100.0,asking,synthetic_v1
+379,0,cooling_pad,Zebronics,Standard,1,0,0,2024,2,Good (light wear),Fully working,No,No,,No,No,550.0,completed_sale,synthetic_v1
+380,0,external_storage,Corsair,External HDD,2,0,1000,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,Yes,3150.0,completed_sale,synthetic_v1
+381,0,keyboard,Generic,Wireless,1,1,0,2025,1,Fair (visible wear),Fully working,No,Yes,More than 12 months,No,No,950.0,completed_sale,synthetic_v1
+382,0,mouse,Corsair,Gaming wireless,2,1,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,No,800.0,completed_sale,synthetic_v1
+383,0,charger,Zebronics,USB-C,2,0,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,Yes,1900.0,completed_sale,synthetic_v1
+384,0,headset,Dell,USB wired,1,0,0,2023,3,Poor (heavy wear),Fully working,Yes,No,,Yes,No,350.0,completed_sale,synthetic_v1
+385,0,keyboard,Dell,Gaming,2,0,0,2024,2,Good (light wear),Fully working,No,No,,No,No,1300.0,completed_sale,synthetic_v1
+386,0,charger,Dell,Barrel (round pin),3,0,0,2021,5,Fair (visible wear),Fully working,No,No,,No,No,1050.0,completed_sale,synthetic_v1
+387,0,headset,Logitech,Bluetooth,1,1,0,2022,4,Good (light wear),Fully working,No,No,,No,No,550.0,completed_sale,synthetic_v1
+388,0,headset,Dell,Bluetooth,2,1,0,2022,4,Fair (visible wear),Works with minor issues,No,No,,Yes,No,800.0,completed_sale,synthetic_v1
+389,0,cable,Razer,USB-C,1,0,0,2022,4,Fair (visible wear),Not working,Yes,No,,No,No,100.0,completed_sale,synthetic_v1
+390,0,webcam,HP,1080p,1,0,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,500.0,completed_sale,synthetic_v1
+391,0,headset,Generic,3.5 mm wired,3,0,0,2024,2,Good (light wear),Fully working,No,No,,No,No,2350.0,completed_sale,synthetic_v1
+392,0,keyboard,Corsair,Mechanical,2,0,0,2023,3,Like new,Fully working,No,No,,No,No,2050.0,completed_sale,synthetic_v1
+393,1,keyboard,Zebronics,Gaming,2,0,0,2026,0,Good (light wear),Fully working,Yes,Yes,3 to 6 months,Yes,No,1850.0,completed_sale,synthetic_v1
+394,1,mouse,HP,Gaming wired,2,0,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,350.0,completed_sale,synthetic_v1
+395,0,headset,Anker,3.5 mm wired,2,0,0,2021,5,Fair (visible wear),Works with minor issues,No,No,,Yes,No,500.0,completed_sale,synthetic_v1
+396,0,webcam,HP,720p,1,0,0,2024,2,Good (light wear),Works with minor issues,No,Yes,Under 3 months,Yes,Yes,650.0,asking,synthetic_v1
+397,0,hub_dock,Razer,USB-C multiport hub,3,0,0,2020,6,Good (light wear),Fully working,Yes,No,,No,No,1100.0,completed_sale,synthetic_v1
+398,0,mouse,Redragon,Gaming wireless,2,1,0,2023,3,Like new,Fully working,No,No,,No,Yes,1200.0,completed_sale,synthetic_v1
+399,1,cooling_pad,Dell,Standard,1,0,0,2023,3,Like new,Fully working,No,No,,Yes,No,400.0,completed_sale,synthetic_v1
+400,0,external_storage,Ant Esports,External SSD,1,0,2000,2019,7,Like new,Works with minor issues,No,No,,No,Yes,1650.0,asking,synthetic_v1
+401,0,webcam,HP,1080p,3,0,0,2021,5,Fair (visible wear),Fully working,No,No,,No,No,1200.0,asking,synthetic_v1
+402,0,mouse,Zebronics,Gaming wireless,1,1,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,No,900.0,completed_sale,synthetic_v1
+403,0,hub_dock,Anker,Docking station,1,0,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,1400.0,completed_sale,synthetic_v1
+404,0,keyboard,Razer,Gaming,1,0,0,2024,2,Fair (visible wear),Works with minor issues,Yes,No,,No,No,450.0,asking,synthetic_v1
+405,0,hub_dock,Razer,USB-C multiport hub,3,0,0,2026,0,Good (light wear),Fully working,Yes,Yes,6 to 12 months,No,Yes,4600.0,completed_sale,synthetic_v1
+406,0,charger,Ant Esports,Barrel (round pin),1,0,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,No,No,1250.0,completed_sale,synthetic_v1
+407,0,external_storage,Razer,External SSD,2,0,1000,2023,3,Good (light wear),Fully working,No,No,,No,Yes,3550.0,completed_sale,synthetic_v1
+408,0,headset,Anker,3.5 mm wired,2,0,0,2024,2,Good (light wear),Not working,No,No,,No,No,550.0,completed_sale,synthetic_v1
+409,0,headset,Redragon,USB wired,2,0,0,2023,3,Fair (visible wear),Fully working,Yes,Yes,3 to 6 months,Yes,No,1150.0,completed_sale,synthetic_v1
+410,1,keyboard,Razer,Gaming,1,0,0,2019,7,Good (light wear),Fully working,No,No,,Yes,No,150.0,completed_sale,synthetic_v1
+411,0,cable,Logitech,HDMI,1,0,0,2025,1,Poor (heavy wear),Fully working,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+412,0,keyboard,Redragon,Gaming,1,0,0,2020,6,Good (light wear),Not working,No,No,,No,No,100.0,completed_sale,synthetic_v1
+413,0,webcam,Dell,4K,1,0,0,2022,4,Like new,Fully working,Yes,No,,No,Yes,1000.0,completed_sale,synthetic_v1
+414,0,charger,Ant Esports,Barrel (round pin),1,0,0,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,1100.0,completed_sale,synthetic_v1
+415,0,charger,Generic,USB-C,1,0,0,2023,3,Poor (heavy wear),Fully working,No,No,,No,No,500.0,completed_sale,synthetic_v1
+416,1,hub_dock,Logitech,USB hub,2,0,0,2021,5,Fair (visible wear),Fully working,No,No,,No,Yes,750.0,completed_sale,synthetic_v1
+417,0,cooling_pad,Dell,Standard,1,0,0,2020,6,Good (light wear),Fully working,No,No,,Yes,No,200.0,completed_sale,synthetic_v1
+418,0,external_storage,Logitech,External SSD,1,0,2000,2025,1,Good (light wear),Fully working,No,Yes,3 to 6 months,No,No,5850.0,completed_sale,synthetic_v1
+419,0,external_storage,Razer,External HDD,3,0,1000,2024,2,Like new,Works with minor issues,Yes,No,,No,No,3750.0,completed_sale,synthetic_v1
+420,0,cable,Ant Esports,HDMI,1,0,0,2022,4,Good (light wear),Fully working,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+421,0,cable,Logitech,HDMI,2,0,0,2026,0,Like new,Fully working,No,Yes,More than 12 months,No,Yes,550.0,completed_sale,synthetic_v1
+422,0,headset,Dell,Bluetooth,2,1,0,2026,0,Like new,Fully working,Yes,Yes,6 to 12 months,No,No,3050.0,completed_sale,synthetic_v1
+423,0,keyboard,Logitech,Mechanical,2,0,0,2022,4,Fair (visible wear),Fully working,Yes,No,,Yes,No,1250.0,completed_sale,synthetic_v1
+424,0,webcam,Corsair,4K,1,0,0,2024,2,Like new,Fully working,No,No,,Yes,Yes,1750.0,completed_sale,synthetic_v1
+425,0,webcam,HP,1080p,1,0,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,850.0,completed_sale,synthetic_v1
+426,0,keyboard,Logitech,Office / membrane,2,0,0,2025,1,Like new,Fully working,No,Yes,3 to 6 months,Yes,Yes,1900.0,completed_sale,synthetic_v1
+427,0,cooling_pad,Zebronics,Standard,1,0,0,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,No,Yes,950.0,asking,synthetic_v1
+428,0,charger,Dell,USB-C,2,0,0,2024,2,Like new,Fully working,No,No,,No,No,1600.0,completed_sale,synthetic_v1
+429,0,hub_dock,Generic,USB hub,3,0,0,2024,2,Good (light wear),Not working,No,No,,No,No,1150.0,asking,synthetic_v1
+430,1,webcam,Dell,4K,2,0,0,2018,8,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,500.0,completed_sale,synthetic_v1
+431,0,external_storage,Generic,External SSD,1,0,1000,2025,1,Like new,Fully working,No,Yes,3 to 6 months,Yes,Yes,4700.0,completed_sale,synthetic_v1
+432,0,charger,Generic,Barrel (round pin),1,0,0,2025,1,Fair (visible wear),Fully working,Yes,Yes,More than 12 months,No,No,900.0,completed_sale,synthetic_v1
+433,0,webcam,Redragon,1080p,1,0,0,2025,1,Poor (heavy wear),Fully working,No,No,,No,Yes,600.0,asking,synthetic_v1
+434,0,headset,Dell,USB wired,1,0,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,550.0,completed_sale,synthetic_v1
+435,0,mouse,Dell,Gaming wired,3,0,0,2026,0,Poor (heavy wear),Fully working,No,Yes,3 to 6 months,No,No,1350.0,completed_sale,synthetic_v1
+436,0,keyboard,HP,Wireless,1,1,0,2026,0,Like new,Not working,No,No,,No,Yes,500.0,completed_sale,synthetic_v1
+437,0,external_storage,Dell,External HDD,2,0,1000,2014,12,Good (light wear),Fully working,Yes,No,,No,Yes,550.0,completed_sale,synthetic_v1
+438,0,mouse,Anker,Office wireless,2,1,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,800.0,completed_sale,synthetic_v1
+439,0,headset,Zebronics,Bluetooth,3,1,0,2023,3,Like new,Fully working,No,Yes,6 to 12 months,No,No,2250.0,completed_sale,synthetic_v1
+440,0,headset,Razer,Bluetooth,2,1,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,No,2250.0,completed_sale,synthetic_v1
+441,0,headset,Ant Esports,3.5 mm wired,1,0,0,2023,3,Good (light wear),Works with minor issues,No,No,,No,No,400.0,completed_sale,synthetic_v1
+442,0,webcam,Anker,720p,1,0,0,2025,1,Like new,Fully working,Yes,No,,No,No,750.0,completed_sale,synthetic_v1
+443,0,mouse,Zebronics,Gaming wireless,2,1,0,2022,4,Poor (heavy wear),Fully working,No,No,,No,Yes,600.0,completed_sale,synthetic_v1
+444,0,cooling_pad,Logitech,Standard,1,0,0,2020,6,Fair (visible wear),Fully working,No,No,,Yes,No,200.0,asking,synthetic_v1
+445,0,hub_dock,Generic,USB hub,2,0,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,2850.0,completed_sale,synthetic_v1
+446,0,keyboard,Generic,Wireless,2,1,0,2026,0,Fair (visible wear),Fully working,No,No,,Yes,Yes,2250.0,completed_sale,synthetic_v1
+447,0,charger,Generic,USB-C,3,0,0,2024,2,Like new,Fully working,No,No,,No,Yes,2200.0,completed_sale,synthetic_v1
+448,1,webcam,Corsair,4K,1,0,0,2024,2,Poor (heavy wear),Fully working,Yes,Yes,3 to 6 months,No,No,850.0,completed_sale,synthetic_v1
+449,0,webcam,Ant Esports,720p,2,0,0,2020,6,Good (light wear),Fully working,No,No,,No,No,650.0,completed_sale,synthetic_v1
+450,0,hub_dock,Redragon,USB-C multiport hub,2,0,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,900.0,completed_sale,synthetic_v1
+451,0,webcam,Ant Esports,1080p,1,0,0,2025,1,Like new,Fully working,No,No,,No,No,800.0,completed_sale,synthetic_v1
+452,0,webcam,Ant Esports,720p,1,0,0,2022,4,Good (light wear),Fully working,Yes,No,,Yes,No,350.0,completed_sale,synthetic_v1
+453,0,mouse,Zebronics,Office wired,2,0,0,2024,2,Fair (visible wear),Works with minor issues,No,Yes,6 to 12 months,No,No,750.0,asking,synthetic_v1
+454,0,cooling_pad,Corsair,Standard,2,0,0,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,700.0,completed_sale,synthetic_v1
+455,0,cooling_pad,HP,Standard,1,0,0,2019,7,Fair (visible wear),Works with minor issues,No,No,,Yes,Yes,100.0,completed_sale,synthetic_v1
+456,0,mouse,Generic,Gaming wired,1,0,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,250.0,completed_sale,synthetic_v1
+457,0,external_storage,Generic,External SSD,1,0,500,2020,6,Good (light wear),Fully working,No,No,,No,No,1350.0,completed_sale,synthetic_v1
+458,0,cooling_pad,Logitech,Standard,2,0,0,2025,1,Good (light wear),Works with minor issues,No,Yes,3 to 6 months,No,Yes,1150.0,completed_sale,synthetic_v1
+459,0,headset,Zebronics,3.5 mm wired,2,0,0,2024,2,Good (light wear),Fully working,No,No,,No,No,1550.0,completed_sale,synthetic_v1
+460,0,keyboard,Zebronics,Wireless,2,1,0,2026,0,Good (light wear),Fully working,No,No,,Yes,No,2550.0,completed_sale,synthetic_v1
+461,0,webcam,Dell,4K,2,0,0,2025,1,Good (light wear),Fully working,No,Yes,Under 3 months,No,No,2750.0,completed_sale,synthetic_v1
+462,0,hub_dock,Corsair,Docking station,1,0,0,2023,3,Good (light wear),Not working,No,Yes,3 to 6 months,No,No,400.0,completed_sale,synthetic_v1
+463,0,cooling_pad,Corsair,Standard,1,0,0,2022,4,Like new,Fully working,No,No,,No,No,350.0,completed_sale,synthetic_v1
+464,0,charger,Ant Esports,USB-C,2,0,0,2024,2,Fair (visible wear),Works with minor issues,No,No,,No,No,1050.0,completed_sale,synthetic_v1
+465,1,cable,Corsair,Ethernet (LAN),1,0,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,No,150.0,completed_sale,synthetic_v1
+466,0,charger,Redragon,Barrel (round pin),1,0,0,2025,1,Fair (visible wear),Fully working,No,Yes,Under 3 months,Yes,Yes,1150.0,completed_sale,synthetic_v1
+467,0,cooling_pad,Dell,Standard,2,0,0,2024,2,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,No,800.0,completed_sale,synthetic_v1
+468,0,charger,Corsair,Barrel (round pin),3,0,0,2023,3,Fair (visible wear),Fully working,No,No,,Yes,No,1900.0,asking,synthetic_v1
+469,1,cooling_pad,Razer,Standard,1,0,0,2023,3,Fair (visible wear),Works with minor issues,No,No,,No,Yes,300.0,completed_sale,synthetic_v1
+470,0,external_storage,Anker,External SSD,1,0,500,2024,2,Good (light wear),Fully working,Yes,No,,Yes,Yes,2750.0,completed_sale,synthetic_v1
+471,0,mouse,Logitech,Office wireless,1,1,0,2025,1,Fair (visible wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,750.0,completed_sale,synthetic_v1
+472,0,cooling_pad,Redragon,Standard,2,0,0,2024,2,Like new,Fully working,Yes,No,,No,Yes,900.0,completed_sale,synthetic_v1
+473,0,charger,Anker,Barrel (round pin),1,0,0,2024,2,Like new,Fully working,No,No,,Yes,No,1150.0,completed_sale,synthetic_v1
+474,0,keyboard,Razer,Mechanical,3,0,0,2025,1,Fair (visible wear),Fully working,Yes,Yes,Under 3 months,No,Yes,2850.0,completed_sale,synthetic_v1
+475,0,webcam,Generic,720p,2,0,0,2025,1,Like new,Fully working,No,No,,Yes,No,2350.0,asking,synthetic_v1
+476,1,cable,Ant Esports,SATA,1,0,0,2019,7,Good (light wear),Fully working,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+477,0,mouse,Ant Esports,Office wireless,2,1,0,2020,6,Good (light wear),Fully working,No,No,,No,No,400.0,completed_sale,synthetic_v1
+478,0,mouse,Zebronics,Office wireless,3,1,0,2026,0,Fair (visible wear),Fully working,No,No,,No,Yes,2150.0,completed_sale,synthetic_v1
+479,0,external_storage,Corsair,External SSD,2,0,2000,2022,4,Poor (heavy wear),Fully working,No,No,,No,No,2600.0,completed_sale,synthetic_v1
+480,0,headset,Zebronics,Bluetooth,2,1,0,2018,8,Fair (visible wear),Fully working,No,No,,Yes,Yes,350.0,completed_sale,synthetic_v1
+481,0,webcam,HP,4K,2,0,0,2022,4,Fair (visible wear),Fully working,No,No,,No,Yes,1350.0,completed_sale,synthetic_v1
+482,0,keyboard,Ant Esports,Gaming,2,0,0,2021,5,Like new,Fully working,Yes,No,,No,No,750.0,completed_sale,synthetic_v1
+483,0,webcam,HP,1080p,1,0,0,2025,1,Like new,Fully working,No,No,,No,No,750.0,completed_sale,synthetic_v1
+484,1,cable,Dell,HDMI,2,0,0,2024,2,Good (light wear),Fully working,No,Yes,3 to 6 months,Yes,Yes,200.0,completed_sale,synthetic_v1
+485,0,charger,HP,Barrel (round pin),2,0,0,2024,2,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,No,1650.0,completed_sale,synthetic_v1
+486,0,cable,Ant Esports,USB-C,2,0,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,No,300.0,completed_sale,synthetic_v1
+487,1,hub_dock,Ant Esports,USB hub,1,0,0,2023,3,Good (light wear),Fully working,No,Yes,Under 3 months,Yes,No,350.0,completed_sale,synthetic_v1
+488,0,cable,Corsair,USB-C,3,0,0,2022,4,Good (light wear),Fully working,Yes,No,,Yes,No,150.0,asking,synthetic_v1
+489,0,cable,Anker,DisplayPort,1,0,0,2025,1,Good (light wear),Fully working,Yes,No,,No,No,150.0,completed_sale,synthetic_v1
+490,0,headset,Corsair,Bluetooth,2,1,0,2021,5,Good (light wear),Fully working,No,No,,No,Yes,900.0,completed_sale,synthetic_v1
+491,0,headset,HP,Bluetooth,1,1,0,2026,0,Good (light wear),Works with minor issues,No,Yes,3 to 6 months,Yes,No,1350.0,completed_sale,synthetic_v1
+492,0,headset,Dell,USB wired,2,0,0,2021,5,Good (light wear),Fully working,No,No,,No,No,800.0,completed_sale,synthetic_v1
+493,1,keyboard,Ant Esports,Mechanical,2,0,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,1900.0,completed_sale,synthetic_v1
+494,0,cooling_pad,HP,Standard,2,0,0,2026,0,Good (light wear),Fully working,No,No,,No,No,1600.0,completed_sale,synthetic_v1
+495,0,hub_dock,HP,Docking station,1,0,0,2025,1,Like new,Fully working,No,No,,No,No,1750.0,completed_sale,synthetic_v1
+496,0,cable,Anker,Ethernet (LAN),2,0,0,2022,4,Poor (heavy wear),Not working,Yes,No,,Yes,Yes,100.0,completed_sale,synthetic_v1
+497,0,external_storage,Corsair,External SSD,1,0,1000,2022,4,Like new,Works with minor issues,No,No,,No,Yes,2350.0,completed_sale,synthetic_v1
+498,0,cooling_pad,Generic,Standard,1,0,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,400.0,completed_sale,synthetic_v1
+499,0,charger,Logitech,USB-C,1,0,0,2026,0,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,Yes,1450.0,completed_sale,synthetic_v1
+500,0,hub_dock,Razer,USB-C multiport hub,1,0,0,2022,4,Fair (visible wear),Works with minor issues,No,No,,No,No,200.0,completed_sale,synthetic_v1
+501,0,mouse,HP,Gaming wireless,2,1,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,1000.0,completed_sale,synthetic_v1
+502,0,hub_dock,Redragon,USB-C multiport hub,1,0,0,2023,3,Like new,Fully working,No,Yes,Under 3 months,No,No,400.0,completed_sale,synthetic_v1
+503,1,external_storage,Razer,External SSD,2,0,500,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,4750.0,completed_sale,synthetic_v1
+504,0,cable,HP,HDMI,2,0,0,2021,5,Good (light wear),Fully working,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+505,0,keyboard,Dell,Office / membrane,1,0,0,2022,4,Good (light wear),Fully working,Yes,No,,No,No,350.0,completed_sale,synthetic_v1
+506,0,cable,Anker,Ethernet (LAN),3,0,0,2021,5,Good (light wear),Not working,No,No,,No,Yes,100.0,completed_sale,synthetic_v1
+507,0,mouse,Logitech,Office wired,1,0,0,2025,1,Like new,Fully working,No,Yes,More than 12 months,No,No,400.0,completed_sale,synthetic_v1
+508,0,mouse,Razer,Office wireless,1,1,0,2025,1,Like new,Fully working,No,No,,No,No,750.0,completed_sale,synthetic_v1
+509,0,hub_dock,Razer,Docking station,2,0,0,2026,0,Fair (visible wear),Fully working,No,No,,Yes,No,3650.0,completed_sale,synthetic_v1
+510,0,webcam,Generic,1080p,1,0,0,2024,2,Like new,Fully working,No,No,,No,No,650.0,completed_sale,synthetic_v1
+511,0,webcam,Dell,720p,1,0,0,2025,1,Like new,Not working,No,No,,Yes,No,250.0,completed_sale,synthetic_v1
+512,0,webcam,Generic,4K,2,0,0,2022,4,Good (light wear),Fully working,No,No,,Yes,Yes,1450.0,completed_sale,synthetic_v1
+513,0,hub_dock,Razer,USB-C multiport hub,1,0,0,2024,2,Good (light wear),Fully working,Yes,No,,Yes,No,500.0,completed_sale,synthetic_v1
+514,0,charger,HP,USB-C,1,0,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,No,Yes,1350.0,completed_sale,synthetic_v1
+515,0,mouse,Razer,Gaming wireless,3,1,0,2023,3,Like new,Works with minor issues,No,No,,Yes,Yes,1300.0,completed_sale,synthetic_v1
+516,0,webcam,Anker,4K,2,0,0,2022,4,Like new,Fully working,No,No,,No,No,1750.0,completed_sale,synthetic_v1
+517,1,cooling_pad,Ant Esports,Standard,3,0,0,2026,0,Like new,Works with minor issues,No,No,,Yes,Yes,1900.0,completed_sale,synthetic_v1
+518,0,charger,Redragon,USB-C,3,0,0,2023,3,Like new,Fully working,No,No,,Yes,Yes,1850.0,completed_sale,synthetic_v1
+519,0,external_storage,Razer,External HDD,1,0,1000,2024,2,Like new,Fully working,No,Yes,Under 3 months,No,No,2750.0,completed_sale,synthetic_v1
+520,0,external_storage,Zebronics,External HDD,2,0,500,2020,6,Good (light wear),Fully working,No,No,,Yes,No,1400.0,completed_sale,synthetic_v1
+521,0,webcam,HP,4K,1,0,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,950.0,completed_sale,synthetic_v1
+522,0,webcam,Razer,720p,1,0,0,2024,2,Fair (visible wear),Fully working,No,Yes,Under 3 months,Yes,No,550.0,completed_sale,synthetic_v1
+523,1,mouse,Generic,Office wired,1,0,0,2025,1,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,350.0,completed_sale,synthetic_v1
+524,0,cooling_pad,Corsair,Standard,2,0,0,2018,8,Fair (visible wear),Fully working,No,No,,No,Yes,150.0,completed_sale,synthetic_v1
+525,0,cooling_pad,Ant Esports,Standard,3,0,0,2023,3,Good (light wear),Works with minor issues,No,No,,Yes,Yes,900.0,completed_sale,synthetic_v1
+526,1,webcam,Anker,4K,2,0,0,2023,3,Like new,Works with minor issues,No,Yes,Under 3 months,No,No,1450.0,completed_sale,synthetic_v1
+527,0,webcam,Ant Esports,720p,1,0,0,2021,5,Good (light wear),Fully working,No,No,,Yes,Yes,350.0,completed_sale,synthetic_v1
+528,0,headset,Corsair,USB wired,3,0,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,No,3350.0,completed_sale,synthetic_v1
+529,1,webcam,Logitech,720p,1,0,0,2023,3,Good (light wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,450.0,completed_sale,synthetic_v1
+530,0,mouse,Logitech,Office wired,2,0,0,2023,3,Like new,Fully working,No,Yes,Under 3 months,No,No,750.0,completed_sale,synthetic_v1
+531,0,cable,HP,SATA,1,0,0,2022,4,Fair (visible wear),Not working,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+532,0,keyboard,Anker,Gaming,1,0,0,2025,1,Like new,Fully working,No,Yes,3 to 6 months,Yes,Yes,800.0,completed_sale,synthetic_v1
+533,0,webcam,Razer,4K,2,0,0,2023,3,Fair (visible wear),Fully working,No,Yes,6 to 12 months,Yes,Yes,1800.0,completed_sale,synthetic_v1
+534,0,webcam,HP,1080p,2,0,0,2021,5,Poor (heavy wear),Fully working,No,No,,No,Yes,550.0,completed_sale,synthetic_v1
+535,0,headset,Anker,3.5 mm wired,2,0,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,2050.0,completed_sale,synthetic_v1
+536,0,cable,Logitech,SATA,2,0,0,2021,5,Fair (visible wear),Fully working,Yes,No,,Yes,Yes,100.0,completed_sale,synthetic_v1
+537,0,external_storage,Razer,External HDD,3,0,2000,2023,3,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,Yes,4350.0,completed_sale,synthetic_v1
+538,0,mouse,Corsair,Gaming wired,3,0,0,2024,2,Fair (visible wear),Fully working,Yes,No,,No,Yes,1150.0,completed_sale,synthetic_v1
+539,0,external_storage,Corsair,External SSD,2,0,2000,2021,5,Like new,Works with minor issues,No,No,,No,No,2700.0,completed_sale,synthetic_v1
+540,0,headset,HP,Bluetooth,1,1,0,2026,0,Like new,Fully working,No,No,,No,Yes,1700.0,completed_sale,synthetic_v1
+541,0,charger,HP,USB-C,3,0,0,2020,6,Poor (heavy wear),Fully working,Yes,No,,Yes,No,650.0,completed_sale,synthetic_v1
+542,0,charger,Redragon,Barrel (round pin),2,0,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,800.0,completed_sale,synthetic_v1
+543,0,cable,Generic,DisplayPort,1,0,0,2024,2,Like new,Fully working,No,Yes,More than 12 months,No,No,150.0,completed_sale,synthetic_v1
+544,0,charger,Redragon,Barrel (round pin),1,0,0,2025,1,Fair (visible wear),Fully working,No,Yes,6 to 12 months,No,Yes,900.0,completed_sale,synthetic_v1
+545,1,charger,Anker,Barrel (round pin),1,0,0,2025,1,Like new,Works with minor issues,No,Yes,3 to 6 months,Yes,No,1000.0,completed_sale,synthetic_v1
+546,0,hub_dock,Corsair,USB-C multiport hub,1,0,0,2020,6,Good (light wear),Not working,No,No,,Yes,No,100.0,asking,synthetic_v1
+547,0,hub_dock,Logitech,USB hub,1,0,0,2024,2,Fair (visible wear),Fully working,No,No,,No,Yes,400.0,completed_sale,synthetic_v1
+548,0,hub_dock,Redragon,USB-C multiport hub,1,0,0,2026,0,Like new,Fully working,No,Yes,3 to 6 months,No,No,750.0,completed_sale,synthetic_v1
+549,0,headset,HP,3.5 mm wired,1,0,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,No,Yes,1000.0,completed_sale,synthetic_v1
+550,1,external_storage,Zebronics,External SSD,2,0,2000,2025,1,Good (light wear),Fully working,No,No,,Yes,Yes,6150.0,completed_sale,synthetic_v1
+551,0,charger,Generic,USB-C,2,0,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,1400.0,completed_sale,synthetic_v1
+552,0,headset,Ant Esports,USB wired,1,0,0,2021,5,Like new,Works with minor issues,No,No,,Yes,No,300.0,completed_sale,synthetic_v1
+553,0,headset,Razer,Bluetooth,1,1,0,2024,2,Fair (visible wear),Fully working,No,No,,No,No,850.0,completed_sale,synthetic_v1
+554,0,mouse,Logitech,Office wireless,1,1,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,Yes,800.0,completed_sale,synthetic_v1
+555,0,cooling_pad,Dell,Standard,1,0,0,2025,1,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,800.0,completed_sale,synthetic_v1
+556,0,mouse,HP,Office wireless,2,1,0,2024,2,Good (light wear),Fully working,No,No,,No,No,1150.0,completed_sale,synthetic_v1
+557,0,external_storage,Ant Esports,External SSD,2,0,1000,2023,3,Good (light wear),Fully working,No,No,,No,No,3500.0,completed_sale,synthetic_v1
+558,0,cooling_pad,Zebronics,Standard,1,0,0,2023,3,Like new,Fully working,No,No,,No,No,450.0,completed_sale,synthetic_v1
+559,0,charger,Anker,Barrel (round pin),2,0,0,2024,2,Fair (visible wear),Fully working,No,No,,Yes,Yes,1350.0,asking,synthetic_v1
+560,0,cooling_pad,Zebronics,Standard,2,0,0,2025,1,Fair (visible wear),Fully working,Yes,No,,No,No,950.0,completed_sale,synthetic_v1
+561,0,keyboard,Redragon,Gaming,2,0,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,No,1700.0,asking,synthetic_v1
+562,0,webcam,Zebronics,4K,1,0,0,2020,6,Good (light wear),Fully working,No,No,,No,Yes,650.0,completed_sale,synthetic_v1
+563,0,cable,Ant Esports,DisplayPort,3,0,0,2024,2,Good (light wear),Works with minor issues,No,No,,No,No,300.0,completed_sale,synthetic_v1
+564,0,charger,HP,Barrel (round pin),1,0,0,2025,1,Fair (visible wear),Fully working,Yes,Yes,Under 3 months,No,No,1150.0,asking,synthetic_v1
+565,0,cable,Razer,SATA,1,0,0,2022,4,Good (light wear),Fully working,Yes,No,,Yes,No,100.0,completed_sale,synthetic_v1
+566,0,mouse,Ant Esports,Gaming wired,2,0,0,2025,1,Fair (visible wear),Fully working,No,Yes,3 to 6 months,No,No,900.0,completed_sale,synthetic_v1
+567,0,hub_dock,Ant Esports,USB-C multiport hub,1,0,0,2026,0,Like new,Fully working,No,No,,No,No,800.0,completed_sale,synthetic_v1
+568,1,cable,Corsair,HDMI,1,0,0,2020,6,Poor (heavy wear),Works with minor issues,No,No,,Yes,No,100.0,completed_sale,synthetic_v1
+569,0,webcam,Generic,1080p,3,0,0,2020,6,Good (light wear),Fully working,No,No,,No,No,1100.0,asking,synthetic_v1
+570,0,mouse,Generic,Office wired,1,0,0,2024,2,Like new,Fully working,No,No,,Yes,No,350.0,completed_sale,synthetic_v1
+571,0,charger,Redragon,Barrel (round pin),3,0,0,2020,6,Fair (visible wear),Works with minor issues,No,No,,No,No,700.0,completed_sale,synthetic_v1
+572,0,cooling_pad,Zebronics,Standard,2,0,0,2024,2,Like new,Fully working,No,No,,No,No,900.0,completed_sale,synthetic_v1
+573,0,hub_dock,Generic,USB hub,2,0,0,2024,2,Like new,Fully working,No,No,,No,No,2000.0,completed_sale,synthetic_v1
+574,0,keyboard,Corsair,Wireless,2,1,0,2022,4,Fair (visible wear),Fully working,No,No,,Yes,No,1050.0,completed_sale,synthetic_v1
+575,0,mouse,Generic,Office wired,1,0,0,2021,5,Good (light wear),Fully working,No,No,,No,No,150.0,completed_sale,synthetic_v1
+576,1,charger,Generic,USB-C,2,0,0,2020,6,Fair (visible wear),Fully working,No,No,,No,No,550.0,completed_sale,synthetic_v1
+577,0,webcam,HP,720p,1,0,0,2024,2,Good (light wear),Fully working,No,No,,Yes,Yes,650.0,asking,synthetic_v1
+578,0,webcam,Zebronics,4K,3,0,0,2018,8,Poor (heavy wear),Works with minor issues,No,No,,Yes,No,500.0,completed_sale,synthetic_v1
+579,1,hub_dock,Anker,USB hub,1,0,0,2026,0,Good (light wear),Fully working,No,Yes,Under 3 months,No,Yes,650.0,completed_sale,synthetic_v1
+580,0,mouse,Razer,Office wired,1,0,0,2025,1,Like new,Fully working,No,Yes,Under 3 months,No,Yes,400.0,completed_sale,synthetic_v1
+581,0,headset,Ant Esports,3.5 mm wired,1,0,0,2025,1,Good (light wear),Fully working,No,No,,No,No,850.0,completed_sale,synthetic_v1
+582,0,webcam,Corsair,1080p,2,0,0,2023,3,Good (light wear),Fully working,No,No,,Yes,No,1200.0,completed_sale,synthetic_v1
+583,0,cooling_pad,Anker,Standard,1,0,0,2022,4,Fair (visible wear),Fully working,No,No,,No,No,250.0,completed_sale,synthetic_v1
+584,0,charger,Dell,Barrel (round pin),2,0,0,2020,6,Good (light wear),Fully working,No,No,,Yes,Yes,650.0,completed_sale,synthetic_v1
+585,1,mouse,Redragon,Office wireless,2,1,0,2022,4,Good (light wear),Fully working,No,No,,No,No,600.0,completed_sale,synthetic_v1
+586,0,webcam,Redragon,4K,1,0,0,2025,1,Like new,Fully working,No,No,,No,Yes,2050.0,completed_sale,synthetic_v1
+587,0,keyboard,HP,Wireless,1,1,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,700.0,completed_sale,synthetic_v1
+588,0,charger,Redragon,Barrel (round pin),2,0,0,2025,1,Good (light wear),Fully working,No,No,,No,No,1800.0,completed_sale,synthetic_v1
+589,0,cooling_pad,Generic,Standard,2,0,0,2023,3,Good (light wear),Fully working,Yes,Yes,6 to 12 months,Yes,No,750.0,completed_sale,synthetic_v1
+590,0,headset,Anker,Bluetooth,2,1,0,2026,0,Like new,Fully working,No,Yes,Under 3 months,No,Yes,3250.0,completed_sale,synthetic_v1
+591,0,cooling_pad,Redragon,Standard,1,0,0,2025,1,Good (light wear),Fully working,No,Yes,More than 12 months,Yes,Yes,750.0,completed_sale,synthetic_v1
+592,0,mouse,Zebronics,Gaming wireless,3,1,0,2023,3,Good (light wear),Fully working,No,No,,No,Yes,1550.0,asking,synthetic_v1
+593,0,external_storage,Razer,External HDD,1,0,1000,2025,1,Fair (visible wear),Fully working,No,Yes,3 to 6 months,Yes,No,2600.0,completed_sale,synthetic_v1
+594,0,headset,Logitech,3.5 mm wired,2,0,0,2025,1,Good (light wear),Fully working,No,No,,Yes,Yes,2050.0,completed_sale,synthetic_v1
+595,0,mouse,Zebronics,Gaming wireless,2,1,0,2022,4,Like new,Fully working,No,No,,Yes,Yes,1000.0,asking,synthetic_v1
+596,0,charger,Zebronics,USB-C,1,0,0,2023,3,Like new,Fully working,No,Yes,6 to 12 months,Yes,No,900.0,completed_sale,synthetic_v1
+597,0,charger,HP,USB-C,3,0,0,2019,7,Like new,Not working,No,No,,Yes,Yes,300.0,completed_sale,synthetic_v1
+598,0,mouse,Zebronics,Office wireless,3,1,0,2025,1,Good (light wear),Fully working,No,No,,Yes,No,2050.0,completed_sale,synthetic_v1
+599,0,external_storage,HP,External HDD,3,0,2000,2023,3,Like new,Fully working,Yes,No,,Yes,No,4950.0,completed_sale,synthetic_v1
+600,0,mouse,Anker,Gaming wired,3,0,0,2025,1,Fair (visible wear),Fully working,No,No,,Yes,Yes,1550.0,completed_sale,synthetic_v1

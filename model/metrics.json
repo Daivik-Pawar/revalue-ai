@@ -1,0 +1,225 @@
+{
+  "data_note": "Trained on SYNTHETIC data (dataset/DATASET.md). Scores show the pipeline works, not real-market accuracy.",
+  "groups": {
+    "laptops": {
+      "rows_train": 1045,
+      "rows_test": 262,
+      "n_features": 29,
+      "selected_model": "random_forest",
+      "cv_5fold_train": {
+        "linear_regression": {
+          "MAE": 4535.293784070303,
+          "RMSE": 6861.279846189085,
+          "R2": 0.9440340100301892
+        },
+        "random_forest": {
+          "MAE": 4944.456649756029,
+          "RMSE": 6550.220614566707,
+          "R2": 0.9489934699876112
+        }
+      },
+      "test_holdout": {
+        "linear_regression": {
+          "MAE": 4912.16932220446,
+          "RMSE": 7294.162336974978,
+          "R2": 0.9404528170822137
+        },
+        "random_forest": {
+          "MAE": 4824.945187703101,
+          "RMSE": 6570.912183188016,
+          "R2": 0.951676131094831
+        }
+      },
+      "range_ratio_p10_p90": [
+        0.8233575397184126,
+        1.1704200788920744
+      ],
+      "top_features_random_forest": {
+        "age_years_sq": 0.3235410696077918,
+        "age_years": 0.2968187661407429,
+        "cpu_tier": 0.14486873931487634,
+        "working_status_score": 0.10444494286191183,
+        "physical_condition_score": 0.030073404256581133,
+        "graphics_type": 0.01837089573277257,
+        "dgpu_tier": 0.015937103239515433,
+        "brand": 0.009927264259456343
+      }
+    },
+    "desktops": {
+      "rows_train": 267,
+      "rows_test": 67,
+      "n_features": 22,
+      "selected_model": "linear_regression",
+      "cv_5fold_train": {
+        "linear_regression": {
+          "MAE": 3645.7753950373612,
+          "RMSE": 5084.991883919761,
+          "R2": 0.9344951193568081
+        },
+        "random_forest": {
+          "MAE": 5912.024348586972,
+          "RMSE": 8256.805261625595,
+          "R2": 0.8272901070203136
+        }
+      },
+      "test_holdout": {
+        "linear_regression": {
+          "MAE": 3340.1907808593714,
+          "RMSE": 4363.551132080901,
+          "R2": 0.9677214368673411
+        },
+        "random_forest": {
+          "MAE": 7062.892850928047,
+          "RMSE": 9401.350425858303,
+          "R2": 0.850164563630258
+        }
+      },
+      "range_ratio_p10_p90": [
+        0.8426120957394967,
+        1.1721970767573715
+      ],
+      "top_features_random_forest": {
+        "age_years": 0.2853982455838885,
+        "age_years_sq": 0.2839802833067025,
+        "gpu_tier": 0.13338422842047318,
+        "working_status_score": 0.09210432820733512,
+        "ram_x_storage_log": 0.04234411473008662,
+        "has_dedicated_gpu": 0.038930332895699846,
+        "physical_condition_score": 0.03872750215355508,
+        "ram_capacity_gb": 0.024080579673805606
+      }
+    },
+    "components": {
+      "rows_train": 957,
+      "rows_test": 240,
+      "n_features": 19,
+      "selected_model": "linear_regression",
+      "cv_5fold_train": {
+        "linear_regression": {
+          "MAE": 920.3075989432764,
+          "RMSE": 1553.6312740848427,
+          "R2": 0.9382724543005887
+        },
+        "random_forest": {
+          "MAE": 1027.019587711552,
+          "RMSE": 1760.7051813926396,
+          "R2": 0.9207213247418763
+        }
+      },
+      "test_holdout": {
+        "linear_regression": {
+          "MAE": 870.165436018565,
+          "RMSE": 1583.7874968758479,
+          "R2": 0.9462034462828359
+        },
+        "random_forest": {
+          "MAE": 1138.40645263443,
+          "RMSE": 2041.993820577572,
+          "R2": 0.9105728311436571
+        }
+      },
+      "range_ratio_p10_p90": [
+        0.7576007284655366,
+        1.3334191359618395
+      ],
+      "top_features_random_forest": {
+        "spec_tier": 0.4586102157426676,
+        "age_years": 0.11683164455307833,
+        "age_years_sq": 0.10982111145629583,
+        "capacity": 0.10981020354456712,
+        "subtype": 0.07314960257810843,
+        "variant": 0.03563417261047229,
+        "working_status_score": 0.03448705155023048,
+        "generation": 0.018530526781913886
+      }
+    },
+    "monitors": {
+      "rows_train": 307,
+      "rows_test": 77,
+      "n_features": 20,
+      "selected_model": "linear_regression",
+      "cv_5fold_train": {
+        "linear_regression": {
+          "MAE": 774.3573954104954,
+          "RMSE": 1113.7951247262765,
+          "R2": 0.9575122115591388
+        },
+        "random_forest": {
+          "MAE": 1291.9738969829386,
+          "RMSE": 1895.5192344755808,
+          "R2": 0.8769419887275854
+        }
+      },
+      "test_holdout": {
+        "linear_regression": {
+          "MAE": 898.4907185987948,
+          "RMSE": 1300.5436465450077,
+          "R2": 0.957943464348876
+        },
+        "random_forest": {
+          "MAE": 1463.9039182382044,
+          "RMSE": 2320.8895192132118,
+          "R2": 0.866065467390855
+        }
+      },
+      "range_ratio_p10_p90": [
+        0.8676693071550582,
+        1.1546659197658042
+      ],
+      "top_features_random_forest": {
+        "age_years": 0.31788283115557076,
+        "age_years_sq": 0.2983698108531475,
+        "working_status_score": 0.16051960108547364,
+        "resolution": 0.11637765360668374,
+        "refresh_rate_hz": 0.03684095440796613,
+        "physical_condition_score": 0.025049580577323947,
+        "brand": 0.010313843169300636,
+        "panel": 0.0077997875980795415
+      }
+    },
+    "peripherals": {
+      "rows_train": 416,
+      "rows_test": 105,
+      "n_features": 19,
+      "selected_model": "linear_regression",
+      "cv_5fold_train": {
+        "linear_regression": {
+          "MAE": 224.284999989906,
+          "RMSE": 485.86815182089845,
+          "R2": 0.8520241373517474
+        },
+        "random_forest": {
+          "MAE": 290.86457454973083,
+          "RMSE": 524.1994184793313,
+          "R2": 0.8277548170165431
+        }
+      },
+      "test_holdout": {
+        "linear_regression": {
+          "MAE": 213.754278889782,
+          "RMSE": 351.6530330494717,
+          "R2": 0.9248025175274297
+        },
+        "random_forest": {
+          "MAE": 214.4052118001962,
+          "RMSE": 412.822475914762,
+          "R2": 0.8963662450102842
+        }
+      },
+      "range_ratio_p10_p90": [
+        0.7256153542923411,
+        1.3307706398389705
+      ],
+      "top_features_random_forest": {
+        "subtype": 0.3606320844975266,
+        "tier": 0.1669027740230539,
+        "age_years_sq": 0.14196842842567822,
+        "age_years": 0.1365078075543309,
+        "capacity_gb": 0.08952910800526988,
+        "type_option": 0.04955925935032784,
+        "working_status_score": 0.013923839121904775,
+        "brand": 0.013046706459389162
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_note": "GPU reference lists used by the laptop graphics step. Integrated GPUs use SHARED SYSTEM MEMORY (not VRAM). Dedicated GPUs have their own VRAM. cpu_match lists CPUs the iGPU is known to ship with; if a CPU is not listed, the UI shows all iGPUs of that vendor and lets the user pick or mark unknown.",
+  "integrated": [
+    {"name": "AMD Radeon 760M", "vendor": "AMD", "cpu_match": ["AMD Ryzen 5 7640HS", "AMD Ryzen 5 8640HS", "AMD Ryzen 5 8645HS"]},
+    {"name": "AMD Radeon 780M", "vendor": "AMD", "cpu_match": ["AMD Ryzen 7 7840HS", "AMD Ryzen 7 8840HS", "AMD Ryzen 7 8845HS", "AMD Ryzen 9 7940HS"]},
+    {"name": "AMD Radeon 660M", "vendor": "AMD", "cpu_match": ["AMD Ryzen 5 7535HS"]},
+    {"name": "AMD Radeon Graphics (Vega 7)", "vendor": "AMD", "cpu_match": ["AMD Ryzen 5 5600H"]},
+    {"name": "Intel UHD Graphics", "vendor": "Intel", "cpu_match": ["Intel Core i5-11400H", "Intel Core i5-11260H", "Intel Core i7-11800H", "Intel Core i5-12450H", "Intel Core i7-12650H", "Intel Core i5-12500H", "Intel Core i7-12700H"]},
+    {"name": "Intel Iris Xe Graphics", "vendor": "Intel", "cpu_match": ["Intel Core i5-1135G7", "Intel Core i7-1165G7", "Intel Core i5-1235U", "Intel Core i7-1255U"]},
+    {"name": "Intel UHD Graphics (U-series)", "vendor": "Intel", "cpu_match": ["Intel Core i3-1215U"]},
+    {"name": "Apple M1 GPU (7-core)", "vendor": "Apple", "cpu_match": ["Apple M1 (8-core CPU, 7-core GPU)"]},
+    {"name": "Apple M1 GPU (8-core)", "vendor": "Apple", "cpu_match": ["Apple M1 (8-core CPU, 8-core GPU)"]},
+    {"name": "Apple M2 GPU (8-core)", "vendor": "Apple", "cpu_match": ["Apple M2 (8-core CPU, 8-core GPU)"]},
+    {"name": "Apple M2 GPU (10-core)", "vendor": "Apple", "cpu_match": ["Apple M2 (8-core CPU, 10-core GPU)"]}
+  ],
+  "integrated_memory_info": {
+    "default": {"type": "shared_system_memory", "label": "Uses shared system RAM (no dedicated VRAM)"},
+    "Apple": {"type": "unified_memory", "label": "Uses unified memory shared with the CPU (no dedicated VRAM)"}
+  },
+  "dedicated": [
+    {"name": "NVIDIA GeForce GTX 1650", "vendor": "NVIDIA", "vram_gb": [4]},
+    {"name": "NVIDIA GeForce RTX 2050", "vendor": "NVIDIA", "vram_gb": [4]},
+    {"name": "NVIDIA GeForce RTX 3050", "vendor": "NVIDIA", "vram_gb": [4, 6]},
+    {"name": "NVIDIA GeForce RTX 3050 Ti", "vendor": "NVIDIA", "vram_gb": [4]},
+    {"name": "NVIDIA GeForce RTX 3060", "vendor": "NVIDIA", "vram_gb": [6]},
+    {"name": "NVIDIA GeForce RTX 3070", "vendor": "NVIDIA", "vram_gb": [8]},
+    {"name": "NVIDIA GeForce RTX 4050", "vendor": "NVIDIA", "vram_gb": [6]},
+    {"name": "NVIDIA GeForce RTX 4060", "vendor": "NVIDIA", "vram_gb": [8]},
+    {"name": "NVIDIA GeForce RTX 4070", "vendor": "NVIDIA", "vram_gb": [8]},
+    {"name": "AMD Radeon RX 6500M", "vendor": "AMD", "vram_gb": [4]}
+  ]
+}

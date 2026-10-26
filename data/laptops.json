@@ -1,0 +1,103 @@
+{
+  "_note": "Laptop brands/models. 'verified': true means every spec was checked against published listings for that exact SKU. 'verified': false means a family-level seed entry from general knowledge: the UI must ask the user to CONFIRM every spec instead of auto-filling. Nothing here may be invented: when unsure, leave a field out and the form will ask or allow 'Unknown'. 'fixed' specs are never asked when present. 'variants' are the hardware configurations the user must choose between; a single variant is pre-selected and shown for confirmation. 'upgradable' marks specs users commonly change after purchase and may correct.",
+  "brands": [
+    {
+      "id": "hp", "name": "HP",
+      "models": [
+        {
+          "id": "hp-victus-15-fb3009ax", "name": "HP Victus 15 fb3009AX", "series": "Victus", "verified": true,
+          "fixed": {"display_size_in": 15.6, "resolution": "1920x1080", "refresh_rate_hz": 144, "panel": "IPS", "touchscreen": false, "battery_wh": 52.5},
+          "variants": [
+            {"id": "std", "cpu": "AMD Ryzen 5 8645HS", "ram_capacity_gb": 16, "ram_type": "DDR5", "ram_speed_mts": 5600, "storage_type": "NVMe SSD", "storage_capacity": "512 GB",
+             "graphics_type": "both", "igpu_model": "AMD Radeon 760M", "dgpu_model": "NVIDIA GeForce RTX 3050", "dgpu_vram_gb": 6}
+          ],
+          "unconfirmed": ["ram_layout"],
+          "upgradable": ["ram_capacity_gb", "storage_capacity"],
+          "source_note": "Checked against retailer spec pages. Sources disagree on RAM slot layout (1x16 GB vs 2x8 GB), so ram_layout is left for the user."
+        },
+        {
+          "id": "hp-pavilion-15", "name": "HP Pavilion 15 (family)", "series": "Pavilion", "verified": false,
+          "fixed": {"display_size_in": 15.6},
+          "variant_options": {"cpu": ["Intel Core i3-1215U", "Intel Core i5-1235U", "Intel Core i7-1255U"], "ram_capacity_gb": [8, 16], "storage_capacity": ["256 GB", "512 GB", "1 TB"]},
+          "source_note": "Family-level seed. User must confirm every spec."
+        }
+      ]
+    },
+    {
+      "id": "dell", "name": "Dell",
+      "models": [
+        {
+          "id": "dell-inspiron-15-3520", "name": "Dell Inspiron 15 3520", "series": "Inspiron", "verified": false,
+          "fixed": {"display_size_in": 15.6},
+          "variant_options": {"cpu": ["Intel Core i3-1215U", "Intel Core i5-1235U", "Intel Core i7-1255U"], "ram_capacity_gb": [8, 16], "storage_capacity": ["256 GB", "512 GB", "1 TB"]},
+          "source_note": "Family-level seed. User must confirm every spec."
+        }
+      ]
+    },
+    {
+      "id": "lenovo", "name": "Lenovo",
+      "models": [
+        {
+          "id": "lenovo-ideapad-gaming-3-15ach6", "name": "Lenovo IdeaPad Gaming 3 15ACH6", "series": "IdeaPad Gaming", "verified": false,
+          "fixed": {"display_size_in": 15.6},
+          "variant_options": {"cpu": ["AMD Ryzen 5 5600H"], "ram_capacity_gb": [8, 16], "storage_capacity": ["256 GB", "512 GB", "1 TB"], "dgpu_model": ["NVIDIA GeForce GTX 1650", "NVIDIA GeForce RTX 3050", "NVIDIA GeForce RTX 3050 Ti"]},
+          "source_note": "Family-level seed. User must confirm every spec."
+        }
+      ]
+    },
+    {
+      "id": "asus", "name": "ASUS",
+      "models": [
+        {
+          "id": "asus-tuf-gaming-a15-fa566ncr", "name": "ASUS TUF Gaming A15 FA566NCR", "series": "TUF Gaming", "verified": false,
+          "fixed": {"display_size_in": 15.6},
+          "variant_options": {"cpu": ["AMD Ryzen 7 7435HS"], "ram_capacity_gb": [16], "storage_capacity": ["512 GB", "1 TB"], "dgpu_model": ["NVIDIA GeForce RTX 3050"]},
+          "source_note": "Family-level seed from retailer comparison pages; dedicated GPU VRAM must be confirmed by the user."
+        }
+      ]
+    },
+    {
+      "id": "acer", "name": "Acer",
+      "models": [
+        {
+          "id": "acer-nitro-5-an515-57", "name": "Acer Nitro 5 AN515-57", "series": "Nitro 5", "verified": false,
+          "fixed": {"display_size_in": 15.6},
+          "variant_options": {"cpu": ["Intel Core i5-11400H", "Intel Core i7-11800H"], "ram_capacity_gb": [8, 16], "storage_capacity": ["512 GB", "1 TB"], "dgpu_model": ["NVIDIA GeForce RTX 3050", "NVIDIA GeForce RTX 3050 Ti", "NVIDIA GeForce RTX 3060"]},
+          "source_note": "Family-level seed. User must confirm every spec."
+        }
+      ]
+    },
+    {
+      "id": "apple", "name": "Apple",
+      "models": [
+        {
+          "id": "apple-macbook-air-m1-2020", "name": "MacBook Air (M1, 2020)", "series": "MacBook Air", "verified": false,
+          "fixed": {"display_size_in": 13.3, "resolution": "2560x1600", "touchscreen": false},
+          "variant_options": {"cpu": ["Apple M1 (8-core CPU, 7-core GPU)", "Apple M1 (8-core CPU, 8-core GPU)"], "ram_capacity_gb": [8, 16], "storage_capacity": ["256 GB", "512 GB", "1 TB", "2 TB"]},
+          "source_note": "Family-level seed. RAM and storage are not user-upgradable on this model."
+        },
+        {
+          "id": "apple-macbook-air-m2-2022", "name": "MacBook Air (M2, 2022)", "series": "MacBook Air", "verified": false,
+          "fixed": {"display_size_in": 13.6, "resolution": "2560x1664", "touchscreen": false},
+          "variant_options": {"cpu": ["Apple M2 (8-core CPU, 8-core GPU)", "Apple M2 (8-core CPU, 10-core GPU)"], "ram_capacity_gb": [8, 16, 24], "storage_capacity": ["256 GB", "512 GB", "1 TB", "2 TB"]},
+          "source_note": "Family-level seed. RAM and storage are not user-upgradable on this model."
+        }
+      ]
+    },
+    {
+      "id": "msi", "name": "MSI",
+      "models": [
+        {
+          "id": "msi-thin-gf63-12uc", "name": "MSI Thin GF63 12UC", "series": "Thin GF63", "verified": false,
+          "fixed": {"display_size_in": 15.6},
+          "variant_options": {"cpu": ["Intel Core i5-12450H", "Intel Core i7-12650H"], "ram_capacity_gb": [8, 16], "storage_capacity": ["512 GB", "1 TB"], "dgpu_model": ["NVIDIA GeForce RTX 3050"]},
+          "source_note": "Family-level seed. User must confirm every spec, including dedicated GPU VRAM."
+        }
+      ]
+    },
+    {"id": "samsung", "name": "Samsung", "models": [], "note": "Brand supported; no models seeded yet."},
+    {"id": "microsoft", "name": "Microsoft", "models": [], "note": "Brand supported; no models seeded yet."},
+    {"id": "xiaomi", "name": "Xiaomi", "models": [], "note": "Brand supported; no models seeded yet."},
+    {"id": "other", "name": "Other", "models": [], "note": "Fallback: user types the model and enters specs manually."}
+  ]
+}

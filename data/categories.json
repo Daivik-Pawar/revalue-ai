@@ -1,0 +1,2455 @@
+{
+ "version": 1,
+ "_note": "Single source of truth for the dynamic forms. Each category (or subtype) lists its own spec fields, condition questions and accessory options, so no generic form is ever shown. 'ask' values: 'always' = user input; 'confirm_if_varies' = prefilled when the model has one value, asked when it has several or none (allow_unknown lets the user pick Unknown); 'only_if_missing' = taken from model data and never asked when known. 'show_if' hides a field until an earlier answer matches. Add a new category by appending an entry here; no template changes needed.",
+ "option_lists": {
+  "purchase_year": [
+   "2026",
+   "2025",
+   "2024",
+   "2023",
+   "2022",
+   "2021",
+   "2020",
+   "2019",
+   "2018",
+   "2017",
+   "2016",
+   "2015",
+   "2014",
+   "2013",
+   "2012",
+   "Before 2012"
+  ],
+  "ram_capacity_gb": [
+   2,
+   4,
+   8,
+   12,
+   16,
+   24,
+   32,
+   48,
+   64,
+   128
+  ],
+  "ddr_generation": [
+   "DDR3",
+   "DDR4",
+   "DDR5"
+  ],
+  "ram_form_factor": [
+   "DIMM",
+   "SO-DIMM"
+  ],
+  "storage_capacity": [
+   "120 GB",
+   "128 GB",
+   "240 GB",
+   "256 GB",
+   "480 GB",
+   "500 GB",
+   "512 GB",
+   "960 GB",
+   "1 TB",
+   "2 TB",
+   "4 TB",
+   "8 TB"
+  ],
+  "ssd_interface": [
+   "SATA",
+   "NVMe PCIe 3.0",
+   "NVMe PCIe 4.0",
+   "NVMe PCIe 5.0"
+  ],
+  "storage_form_factor": [
+   "2.5 inch",
+   "3.5 inch",
+   "M.2 2280",
+   "M.2 2242",
+   "mSATA"
+  ],
+  "psu_wattage": [
+   300,
+   350,
+   400,
+   450,
+   500,
+   550,
+   600,
+   650,
+   700,
+   750,
+   850,
+   1000,
+   1200
+  ],
+  "psu_efficiency": [
+   "Not rated",
+   "80+ White",
+   "80+ Bronze",
+   "80+ Silver",
+   "80+ Gold",
+   "80+ Platinum",
+   "80+ Titanium"
+  ],
+  "cpu_socket": [
+   "LGA1151",
+   "LGA1200",
+   "LGA1700",
+   "LGA1851",
+   "AM3+",
+   "AM4",
+   "AM5",
+   "Other"
+  ],
+  "motherboard_form_factor": [
+   "ATX",
+   "Micro-ATX",
+   "Mini-ITX",
+   "E-ATX"
+  ],
+  "cpu_cooler_type": [
+   "Air cooler",
+   "AIO liquid cooler (120/140 mm)",
+   "AIO liquid cooler (240 mm)",
+   "AIO liquid cooler (280/360 mm)",
+   "Case fan",
+   "Other"
+  ],
+  "cabinet_size": [
+   "Mini-ITX",
+   "Micro-ATX",
+   "Mid tower",
+   "Full tower"
+  ],
+  "monitor_size_in": [
+   19,
+   21.5,
+   22,
+   23.8,
+   24,
+   27,
+   28,
+   32,
+   34,
+   "Other"
+  ],
+  "monitor_resolution": [
+   "1366x768",
+   "1600x900",
+   "1920x1080",
+   "2560x1080",
+   "2560x1440",
+   "3440x1440",
+   "3840x2160"
+  ],
+  "monitor_refresh_hz": [
+   60,
+   75,
+   100,
+   120,
+   144,
+   165,
+   180,
+   240
+  ],
+  "monitor_panel": [
+   "IPS",
+   "VA",
+   "TN",
+   "OLED"
+  ],
+  "keyboard_type": [
+   "Office / membrane",
+   "Mechanical",
+   "Gaming",
+   "Wireless",
+   "Compact / TKL",
+   "Other"
+  ],
+  "mouse_type": [
+   "Office wired",
+   "Office wireless",
+   "Gaming wired",
+   "Gaming wireless",
+   "Trackball",
+   "Other"
+  ],
+  "connectivity": [
+   "Wired USB",
+   "Wireless 2.4 GHz",
+   "Bluetooth",
+   "Wireless + Bluetooth"
+  ],
+  "cable_category": [
+   "HDMI",
+   "DisplayPort",
+   "USB-A",
+   "USB-C",
+   "SATA",
+   "Ethernet (LAN)",
+   "VGA",
+   "Power cable",
+   "Other"
+  ],
+  "cable_length": [
+   "Under 1 m",
+   "1 m",
+   "1.5 m",
+   "2 m",
+   "3 m",
+   "5 m",
+   "More than 5 m"
+  ],
+  "yes_no": [
+   "Yes",
+   "No"
+  ],
+  "yes_no_unknown": [
+   "Yes",
+   "No",
+   "Not sure"
+  ],
+  "battery_health": [
+   "Above 80%",
+   "60% to 80%",
+   "Below 60%",
+   "Not sure"
+  ],
+  "physical_condition": [
+   "Like new",
+   "Good (light wear)",
+   "Fair (visible wear)",
+   "Poor (heavy wear)"
+  ],
+  "working_status": [
+   "Fully working",
+   "Works with minor issues",
+   "Not working"
+  ],
+  "warranty_left": [
+   "Under 3 months",
+   "3 to 6 months",
+   "6 to 12 months",
+   "More than 12 months"
+  ]
+ },
+ "condition_blocks": {
+  "age": [
+   {
+    "id": "purchase_year",
+    "label": "Purchase year",
+    "type": "select",
+    "options_ref": "purchase_year",
+    "required": true
+   }
+  ],
+  "physical": [
+   {
+    "id": "physical_condition",
+    "label": "Overall physical condition",
+    "type": "select",
+    "options_ref": "physical_condition",
+    "required": true
+   },
+   {
+    "id": "visible_damage",
+    "label": "Visible damage",
+    "type": "multiselect",
+    "options": [
+     "Scratches",
+     "Dents",
+     "Cracks",
+     "Discoloration",
+     "None"
+    ]
+   }
+  ],
+  "functional": [
+   {
+    "id": "working_status",
+    "label": "Does it work correctly?",
+    "type": "select",
+    "options_ref": "working_status",
+    "required": true
+   }
+  ],
+  "history": [
+   {
+    "id": "repair_history",
+    "label": "Has it ever been repaired?",
+    "type": "select",
+    "options_ref": "yes_no",
+    "required": true
+   },
+   {
+    "id": "warranty_available",
+    "label": "Is warranty still available?",
+    "type": "select",
+    "options_ref": "yes_no",
+    "required": true
+   },
+   {
+    "id": "warranty_left",
+    "label": "Warranty remaining",
+    "type": "select",
+    "options_ref": "warranty_left",
+    "show_if": {
+     "field": "warranty_available",
+     "in": [
+      "Yes"
+     ]
+    }
+   }
+  ]
+ },
+ "categories": [
+  {
+   "id": "laptops",
+   "name": "Laptops",
+   "icon": "laptop",
+   "description": "Estimate the resale value of your used laptop by brand and model.",
+   "flow": [
+    "brand",
+    "model",
+    "specs",
+    "condition",
+    "accessories"
+   ],
+   "model_source": "data/laptops.json",
+   "spec_fields": [
+    {
+     "id": "variant",
+     "label": "Configuration",
+     "type": "select",
+     "ask": "confirm_if_varies",
+     "note": "Only shown when the model has more than one hardware configuration."
+    },
+    {
+     "id": "cpu",
+     "label": "Processor",
+     "type": "select",
+     "ask": "confirm_if_varies",
+     "allow_unknown": true
+    },
+    {
+     "id": "ram_capacity_gb",
+     "label": "Installed RAM (GB)",
+     "type": "select",
+     "options_ref": "ram_capacity_gb",
+     "ask": "confirm_if_varies",
+     "allow_unknown": true
+    },
+    {
+     "id": "ram_type",
+     "label": "RAM type",
+     "type": "select",
+     "options_ref": "ddr_generation",
+     "ask": "confirm_if_varies",
+     "allow_unknown": true
+    },
+    {
+     "id": "ram_speed_mts",
+     "label": "RAM speed (MT/s)",
+     "type": "number",
+     "ask": "confirm_if_varies",
+     "allow_unknown": true
+    },
+    {
+     "id": "ram_layout",
+     "label": "RAM configuration (e.g. 1x16 GB or 2x8 GB)",
+     "type": "text",
+     "ask": "confirm_if_varies",
+     "allow_unknown": true
+    },
+    {
+     "id": "storage_type",
+     "label": "Storage type",
+     "type": "select",
+     "options": [
+      "NVMe SSD",
+      "SATA SSD",
+      "HDD",
+      "SSD + HDD"
+     ],
+     "ask": "confirm_if_varies",
+     "allow_unknown": true
+    },
+    {
+     "id": "storage_capacity",
+     "label": "Storage capacity",
+     "type": "select",
+     "options_ref": "storage_capacity",
+     "ask": "confirm_if_varies",
+     "allow_unknown": true
+    },
+    {
+     "id": "graphics_type",
+     "label": "Graphics",
+     "type": "select",
+     "options": [
+      "integrated",
+      "dedicated",
+      "both"
+     ],
+     "option_labels": {
+      "integrated": "Integrated GPU",
+      "dedicated": "Dedicated GPU",
+      "both": "Both integrated and dedicated GPUs"
+     },
+     "ask": "confirm_if_varies",
+     "required": true
+    },
+    {
+     "id": "igpu_model",
+     "label": "Integrated GPU model",
+     "type": "select",
+     "options_source": "data/graphics.json#integrated",
+     "ask": "confirm_if_varies",
+     "allow_unknown": true,
+     "show_if": {
+      "field": "graphics_type",
+      "in": [
+       "integrated",
+       "both"
+      ]
+     }
+    },
+    {
+     "id": "igpu_memory_info",
+     "label": "Integrated graphics memory",
+     "type": "info",
+     "ask": "only_if_missing",
+     "note": "Shown as shared system memory / unified memory. Never presented as dedicated VRAM.",
+     "show_if": {
+      "field": "graphics_type",
+      "in": [
+       "integrated",
+       "both"
+      ]
+     }
+    },
+    {
+     "id": "dgpu_model",
+     "label": "Dedicated GPU model",
+     "type": "select",
+     "options_source": "data/graphics.json#dedicated",
+     "ask": "confirm_if_varies",
+     "allow_unknown": true,
+     "show_if": {
+      "field": "graphics_type",
+      "in": [
+       "dedicated",
+       "both"
+      ]
+     }
+    },
+    {
+     "id": "dgpu_vram_gb",
+     "label": "Dedicated GPU VRAM (GB)",
+     "type": "select",
+     "options_source": "data/graphics.json#dedicated.vram_gb",
+     "ask": "confirm_if_varies",
+     "allow_unknown": true,
+     "show_if": {
+      "field": "graphics_type",
+      "in": [
+       "dedicated",
+       "both"
+      ]
+     }
+    },
+    {
+     "id": "display_size_in",
+     "label": "Display size (in)",
+     "type": "number",
+     "ask": "only_if_missing",
+     "allow_unknown": true
+    },
+    {
+     "id": "resolution",
+     "label": "Display resolution",
+     "type": "text",
+     "ask": "only_if_missing",
+     "allow_unknown": true
+    },
+    {
+     "id": "refresh_rate_hz",
+     "label": "Refresh rate (Hz)",
+     "type": "number",
+     "ask": "only_if_missing",
+     "allow_unknown": true
+    },
+    {
+     "id": "panel",
+     "label": "Panel type",
+     "type": "text",
+     "ask": "only_if_missing",
+     "allow_unknown": true
+    },
+    {
+     "id": "touchscreen",
+     "label": "Touchscreen",
+     "type": "select",
+     "options_ref": "yes_no",
+     "ask": "only_if_missing",
+     "allow_unknown": true
+    },
+    {
+     "id": "battery_health",
+     "label": "Battery health",
+     "type": "select",
+     "options_ref": "battery_health",
+     "ask": "always",
+     "required": true
+    }
+   ],
+   "condition_blocks": [
+    "age",
+    "physical",
+    "functional",
+    "history"
+   ],
+   "condition_questions": [
+    {
+     "id": "issues",
+     "label": "Select any problems your laptop has",
+     "type": "multiselect",
+     "options": [
+      "Body damage",
+      "Keyboard problem",
+      "Trackpad problem",
+      "Display damage",
+      "Charging problem",
+      "Battery issue",
+      "Motherboard issue",
+      "Port problem",
+      "Speaker problem",
+      "Microphone problem",
+      "Wi-Fi problem",
+      "Bluetooth problem",
+      "Webcam problem",
+      "None"
+     ]
+    }
+   ],
+   "accessories": [
+    "Original charger",
+    "Original box",
+    "Purchase bill",
+    "Warranty documentation"
+   ]
+  },
+  {
+   "id": "desktops",
+   "name": "Desktop PCs",
+   "icon": "desktop",
+   "description": "Branded desktops and custom-built PCs.",
+   "subtypes": [
+    {
+     "id": "branded_pc",
+     "name": "Branded desktop",
+     "flow": [
+      "brand",
+      "model",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "cpu",
+       "label": "Processor",
+       "type": "text",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "ram_capacity_gb",
+       "label": "Installed RAM (GB)",
+       "type": "select",
+       "options_ref": "ram_capacity_gb",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "ram_type",
+       "label": "RAM type",
+       "type": "select",
+       "options_ref": "ddr_generation",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "storage_type",
+       "label": "Storage type",
+       "type": "select",
+       "options": [
+        "NVMe SSD",
+        "SATA SSD",
+        "HDD",
+        "SSD + HDD"
+       ],
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "storage_capacity",
+       "label": "Storage capacity",
+       "type": "select",
+       "options_ref": "storage_capacity",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "gpu_present",
+       "label": "Graphics card",
+       "type": "select",
+       "options": [
+        "Integrated graphics only",
+        "Dedicated graphics card"
+       ],
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "gpu_model",
+       "label": "Graphics card model",
+       "type": "text",
+       "ask": "always",
+       "allow_unknown": true,
+       "show_if": {
+        "field": "gpu_present",
+        "in": [
+         "Dedicated graphics card"
+        ]
+       }
+      },
+      {
+       "id": "gpu_vram_gb",
+       "label": "Graphics card VRAM (GB)",
+       "type": "number",
+       "ask": "always",
+       "allow_unknown": true,
+       "show_if": {
+        "field": "gpu_present",
+        "in": [
+         "Dedicated graphics card"
+        ]
+       }
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Cabinet damage",
+        "Boots slowly or fails to boot",
+        "Overheating",
+        "Fan noise",
+        "Port problem",
+        "Wi-Fi/Ethernet problem",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Power cable",
+      "Original packaging",
+      "Included keyboard and mouse",
+      "Included monitor",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "custom_pc",
+     "name": "Custom-built PC",
+     "flow": [
+      "components",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "none",
+     "spec_fields": [
+      {
+       "id": "cpu",
+       "label": "Processor",
+       "type": "text",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "motherboard",
+       "label": "Motherboard",
+       "type": "text",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "ram_capacity_gb",
+       "label": "Total RAM (GB)",
+       "type": "select",
+       "options_ref": "ram_capacity_gb",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "ram_type",
+       "label": "RAM type",
+       "type": "select",
+       "options_ref": "ddr_generation",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "gpu_present",
+       "label": "Graphics card",
+       "type": "select",
+       "options": [
+        "Integrated graphics only",
+        "Dedicated graphics card"
+       ],
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "gpu_model",
+       "label": "Graphics card model",
+       "type": "text",
+       "ask": "always",
+       "allow_unknown": true,
+       "show_if": {
+        "field": "gpu_present",
+        "in": [
+         "Dedicated graphics card"
+        ]
+       }
+      },
+      {
+       "id": "gpu_vram_gb",
+       "label": "Graphics card VRAM (GB)",
+       "type": "number",
+       "ask": "always",
+       "allow_unknown": true,
+       "show_if": {
+        "field": "gpu_present",
+        "in": [
+         "Dedicated graphics card"
+        ]
+       }
+      },
+      {
+       "id": "storage_summary",
+       "label": "Storage drives (type and capacity)",
+       "type": "text",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "psu_wattage",
+       "label": "Power supply wattage",
+       "type": "select",
+       "options_ref": "psu_wattage",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "psu_efficiency",
+       "label": "PSU efficiency rating",
+       "type": "select",
+       "options_ref": "psu_efficiency",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "cabinet",
+       "label": "Cabinet",
+       "type": "select",
+       "options_ref": "cabinet_size",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "cooling",
+       "label": "CPU cooling",
+       "type": "select",
+       "options_ref": "cpu_cooler_type",
+       "ask": "always",
+       "allow_unknown": true
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Cabinet damage",
+        "Boots slowly or fails to boot",
+        "Overheating",
+        "Fan noise",
+        "Component not detected",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Power cable",
+      "Original packaging",
+      "Included peripherals",
+      "Purchase bills"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "components",
+   "name": "PC Components",
+   "icon": "chip",
+   "description": "CPUs, graphics cards, RAM, storage, motherboards, power supplies and more.",
+   "subtypes": [
+    {
+     "id": "cpu",
+     "name": "Processor (CPU)",
+     "flow": [
+      "brand",
+      "model",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "data/components_seed.json#cpus",
+     "spec_fields": [
+      {
+       "id": "cores",
+       "label": "Cores",
+       "type": "number",
+       "ask": "only_if_missing",
+       "allow_unknown": true
+      },
+      {
+       "id": "threads",
+       "label": "Threads",
+       "type": "number",
+       "ask": "only_if_missing",
+       "allow_unknown": true
+      },
+      {
+       "id": "socket",
+       "label": "Socket",
+       "type": "select",
+       "options_ref": "cpu_socket",
+       "ask": "only_if_missing",
+       "allow_unknown": true
+      },
+      {
+       "id": "box_cooler_included",
+       "label": "Included stock cooler",
+       "type": "select",
+       "options_ref": "yes_no",
+       "ask": "always"
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Bent or damaged pins",
+        "Overheating issues",
+        "Unstable or crashes",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "Stock cooler",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "gpu",
+     "name": "Graphics card (GPU)",
+     "flow": [
+      "brand",
+      "model",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "data/components_seed.json#gpus",
+     "spec_fields": [
+      {
+       "id": "vram_gb",
+       "label": "VRAM capacity (GB)",
+       "type": "select",
+       "ask": "confirm_if_varies",
+       "allow_unknown": true
+      },
+      {
+       "id": "vram_type",
+       "label": "VRAM type",
+       "type": "select",
+       "ask": "confirm_if_varies",
+       "allow_unknown": true
+      },
+      {
+       "id": "interface",
+       "label": "Interface",
+       "type": "select",
+       "options": [
+        "PCIe 3.0",
+        "PCIe 4.0",
+        "PCIe 5.0"
+       ],
+       "ask": "always",
+       "allow_unknown": true
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Artifacts on screen",
+        "Overheating",
+        "Fan noise or failed fan",
+        "Mined on heavily",
+        "Display output problem",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "Purchase bill",
+      "Support bracket or cables"
+     ]
+    },
+    {
+     "id": "ram",
+     "name": "RAM module",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "capacity_gb",
+       "label": "Capacity per module (GB)",
+       "type": "select",
+       "options_ref": "ram_capacity_gb",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "ddr_generation",
+       "label": "DDR generation",
+       "type": "select",
+       "options_ref": "ddr_generation",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "speed_mts",
+       "label": "Speed (MT/s)",
+       "type": "number",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "form_factor",
+       "label": "Form factor",
+       "type": "select",
+       "options_ref": "ram_form_factor",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "module_count",
+       "label": "Number of modules",
+       "type": "select",
+       "options": [
+        1,
+        2,
+        4
+       ],
+       "ask": "always",
+       "required": true
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Memory errors",
+        "Not detected",
+        "Heatsink damage",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original packaging",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "ssd",
+     "name": "SSD",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "capacity",
+       "label": "Capacity",
+       "type": "select",
+       "options_ref": "storage_capacity",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "interface",
+       "label": "Interface",
+       "type": "select",
+       "options_ref": "ssd_interface",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "form_factor",
+       "label": "Form factor",
+       "type": "select",
+       "options_ref": "storage_form_factor",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "health_percent",
+       "label": "Drive health % (if known)",
+       "type": "number",
+       "ask": "always",
+       "allow_unknown": true
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Bad sectors or SMART warnings",
+        "Slow speeds",
+        "Not detected",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original packaging",
+      "Purchase bill",
+      "Mounting kit"
+     ]
+    },
+    {
+     "id": "hdd",
+     "name": "HDD",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "capacity",
+       "label": "Capacity",
+       "type": "select",
+       "options_ref": "storage_capacity",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "form_factor",
+       "label": "Form factor",
+       "type": "select",
+       "options": [
+        "2.5 inch",
+        "3.5 inch"
+       ],
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "rpm",
+       "label": "Speed (RPM)",
+       "type": "select",
+       "options": [
+        5400,
+        5900,
+        7200,
+        10000
+       ],
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "power_on_hours",
+       "label": "Power-on hours (if known)",
+       "type": "number",
+       "ask": "always",
+       "allow_unknown": true
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Bad sectors or SMART warnings",
+        "Clicking or grinding noise",
+        "Slow speeds",
+        "Not detected",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original packaging",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "motherboard",
+     "name": "Motherboard",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model",
+       "type": "text",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "socket",
+       "label": "CPU socket",
+       "type": "select",
+       "options_ref": "cpu_socket",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "form_factor",
+       "label": "Form factor",
+       "type": "select",
+       "options_ref": "motherboard_form_factor",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "ram_type",
+       "label": "Supported RAM",
+       "type": "select",
+       "options_ref": "ddr_generation",
+       "ask": "always",
+       "required": true
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Bent socket pins",
+        "Damaged slots",
+        "Burn marks",
+        "Port or header not working",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "I/O shield",
+      "SATA cables",
+      "Manual and drivers disc",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "psu",
+     "name": "Power supply (PSU)",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "wattage",
+       "label": "Wattage",
+       "type": "select",
+       "options_ref": "psu_wattage",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "efficiency",
+       "label": "Efficiency rating",
+       "type": "select",
+       "options_ref": "psu_efficiency",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "modularity",
+       "label": "Modularity",
+       "type": "select",
+       "options": [
+        "Non-modular",
+        "Semi-modular",
+        "Fully modular"
+       ],
+       "ask": "always",
+       "allow_unknown": true
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Fan noise",
+        "Coil whine",
+        "Random shutdowns",
+        "Damaged cables",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "All modular cables",
+      "Power cord",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "cooler",
+     "name": "CPU cooler / cooling fan",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "cooler_type",
+       "label": "Cooler type",
+       "type": "select",
+       "options_ref": "cpu_cooler_type",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "socket_support",
+       "label": "Supported sockets (optional)",
+       "type": "text",
+       "ask": "always"
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Fan noise",
+        "Pump noise or failure",
+        "Leaking",
+        "Missing mounting parts",
+        "RGB or lighting not working",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "Mounting hardware",
+      "Spare fans",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "cabinet",
+     "name": "PC cabinet",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "size",
+       "label": "Cabinet size",
+       "type": "select",
+       "options_ref": "cabinet_size",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "side_panel",
+       "label": "Side panel",
+       "type": "select",
+       "options": [
+        "Tempered glass",
+        "Acrylic",
+        "Solid metal"
+       ],
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "included_fans",
+       "label": "Included fans",
+       "type": "number",
+       "ask": "always",
+       "allow_unknown": true
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Cracked panel",
+        "Bent frame",
+        "Broken front-panel ports",
+        "Missing dust filters",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "Screws and accessories kit",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "expansion_card",
+     "name": "Network and expansion cards",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "card_type",
+       "label": "Card type",
+       "type": "select",
+       "options": [
+        "Wi-Fi card",
+        "Ethernet card",
+        "Sound card",
+        "Capture card",
+        "USB expansion card",
+        "Other"
+       ],
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "interface",
+       "label": "Interface",
+       "type": "select",
+       "options": [
+        "PCIe x1",
+        "PCIe x4",
+        "PCIe x8",
+        "PCIe x16",
+        "M.2 (E-key)",
+        "Other"
+       ],
+       "ask": "always",
+       "allow_unknown": true
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Not detected",
+        "Connection drops",
+        "Damaged connector",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "Antennas",
+      "Low-profile bracket",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "other_component",
+     "name": "Other internal component",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "component_name",
+       "label": "Component name",
+       "type": "text",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [],
+     "accessories": [
+      "Original packaging",
+      "Purchase bill"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "monitors",
+   "name": "Monitors",
+   "icon": "monitor",
+   "description": "Estimate the resale value of your used monitor.",
+   "flow": [
+    "brand",
+    "model",
+    "specs",
+    "condition",
+    "accessories"
+   ],
+   "model_source": "manual",
+   "spec_fields": [
+    {
+     "id": "model_name",
+     "label": "Exact model",
+     "type": "text",
+     "ask": "always",
+     "required": true
+    },
+    {
+     "id": "size_in",
+     "label": "Screen size (in)",
+     "type": "select",
+     "options_ref": "monitor_size_in",
+     "ask": "always",
+     "required": true
+    },
+    {
+     "id": "resolution",
+     "label": "Resolution",
+     "type": "select",
+     "options_ref": "monitor_resolution",
+     "ask": "always",
+     "allow_unknown": true
+    },
+    {
+     "id": "refresh_rate_hz",
+     "label": "Refresh rate (Hz)",
+     "type": "select",
+     "options_ref": "monitor_refresh_hz",
+     "ask": "always",
+     "allow_unknown": true
+    },
+    {
+     "id": "panel",
+     "label": "Panel type",
+     "type": "select",
+     "options_ref": "monitor_panel",
+     "ask": "always",
+     "allow_unknown": true
+    },
+    {
+     "id": "curved",
+     "label": "Curved screen",
+     "type": "select",
+     "options_ref": "yes_no",
+     "ask": "always"
+    }
+   ],
+   "condition_blocks": [
+    "age",
+    "physical",
+    "functional",
+    "history"
+   ],
+   "condition_questions": [
+    {
+     "id": "issues",
+     "label": "Select any problems",
+     "type": "multiselect",
+     "options": [
+      "Dead or stuck pixels",
+      "Backlight bleed",
+      "Screen scratches",
+      "Flickering",
+      "Burn-in or image retention",
+      "Port problem",
+      "Stand damage",
+      "None"
+     ]
+    }
+   ],
+   "accessories": [
+    "Original box",
+    "Stand",
+    "Power cable",
+    "Video cable (HDMI/DisplayPort)",
+    "Purchase bill"
+   ]
+  },
+  {
+   "id": "keyboards_mice",
+   "name": "Keyboards & Mice",
+   "icon": "keyboard",
+   "description": "Office, mechanical and gaming keyboards, and wired or wireless mice.",
+   "subtypes": [
+    {
+     "id": "keyboard",
+     "name": "Keyboard",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "keyboard_type",
+       "label": "Keyboard type",
+       "type": "select",
+       "options_ref": "keyboard_type",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "connectivity",
+       "label": "Connectivity",
+       "type": "select",
+       "options_ref": "connectivity",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "backlight",
+       "label": "Backlight / RGB",
+       "type": "select",
+       "options_ref": "yes_no",
+       "ask": "always"
+      },
+      {
+       "id": "quality_tier",
+       "label": "Product quality level",
+       "type": "select",
+       "options": [
+        "Budget",
+        "Mid-range",
+        "Premium"
+       ],
+       "ask": "always",
+       "required": true,
+       "note": "Needed because price depends on how premium the product is and there is no model database for this type."
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Keys not working",
+        "Sticky or chattering keys",
+        "Worn keycaps",
+        "Lighting issues",
+        "Connectivity drops",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "USB receiver or cable",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "mouse",
+     "name": "Mouse",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "mouse_type",
+       "label": "Mouse type",
+       "type": "select",
+       "options_ref": "mouse_type",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "connectivity",
+       "label": "Connectivity",
+       "type": "select",
+       "options_ref": "connectivity",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "dpi_max",
+       "label": "Maximum DPI (if known)",
+       "type": "number",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "quality_tier",
+       "label": "Product quality level",
+       "type": "select",
+       "options": [
+        "Budget",
+        "Mid-range",
+        "Premium"
+       ],
+       "ask": "always",
+       "required": true,
+       "note": "Needed because price depends on how premium the product is and there is no model database for this type."
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Double-clicking",
+        "Scroll wheel problem",
+        "Sensor drift or skipping",
+        "Worn buttons or coating",
+        "Connectivity drops",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "USB receiver",
+      "Purchase bill"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "accessories",
+   "name": "Accessories & Peripherals",
+   "icon": "cable",
+   "description": "Chargers, cables, adapters, headsets, webcams, external storage and more.",
+   "subtypes": [
+    {
+     "id": "charger",
+     "name": "Laptop charger / power adapter",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "wattage",
+       "label": "Wattage (W)",
+       "type": "number",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "connector_type",
+       "label": "Connector type",
+       "type": "select",
+       "options": [
+        "USB-C",
+        "Barrel (round pin)",
+        "Slim tip",
+        "Proprietary / other"
+       ],
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "quality_tier",
+       "label": "Product quality level",
+       "type": "select",
+       "options": [
+        "Budget",
+        "Mid-range",
+        "Premium"
+       ],
+       "ask": "always",
+       "required": true,
+       "note": "Needed because price depends on how premium the product is and there is no model database for this type."
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Frayed or damaged cable",
+        "Overheating",
+        "Intermittent charging",
+        "Bent connector",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "Power cord",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "cable",
+     "name": "Cable or adapter",
+     "flow": [
+      "brand",
+      "specs",
+      "condition"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "cable_category",
+       "label": "Cable or adapter category",
+       "type": "select",
+       "options_ref": "cable_category",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "connector_type",
+       "label": "Connector type (e.g. A to C, HDMI to VGA)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "length",
+       "label": "Cable length",
+       "type": "select",
+       "options_ref": "cable_length",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "standard",
+       "label": "Supported standard (e.g. HDMI 2.1, USB 3.2)",
+       "type": "text",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "quality_tier",
+       "label": "Product quality level",
+       "type": "select",
+       "options": [
+        "Budget",
+        "Mid-range",
+        "Premium"
+       ],
+       "ask": "always",
+       "required": true,
+       "note": "Needed because price depends on how premium the product is and there is no model database for this type."
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Frayed or exposed wire",
+        "Loose or bent connector",
+        "Signal or data drops",
+        "None"
+       ]
+      }
+     ],
+     "accessories": []
+    },
+    {
+     "id": "headset",
+     "name": "Headset / audio accessory",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "connectivity",
+       "label": "Connectivity",
+       "type": "select",
+       "options": [
+        "3.5 mm wired",
+        "USB wired",
+        "Bluetooth",
+        "2.4 GHz wireless"
+       ],
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "microphone",
+       "label": "Has microphone",
+       "type": "select",
+       "options_ref": "yes_no",
+       "ask": "always"
+      },
+      {
+       "id": "quality_tier",
+       "label": "Product quality level",
+       "type": "select",
+       "options": [
+        "Budget",
+        "Mid-range",
+        "Premium"
+       ],
+       "ask": "always",
+       "required": true,
+       "note": "Needed because price depends on how premium the product is and there is no model database for this type."
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Worn ear pads",
+        "Sound or channel issue",
+        "Microphone not working",
+        "Battery drains fast",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "Charging cable",
+      "USB dongle",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "webcam",
+     "name": "Webcam",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "resolution",
+       "label": "Max resolution",
+       "type": "select",
+       "options": [
+        "720p",
+        "1080p",
+        "1440p",
+        "4K"
+       ],
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "autofocus",
+       "label": "Autofocus",
+       "type": "select",
+       "options_ref": "yes_no_unknown",
+       "ask": "always"
+      },
+      {
+       "id": "quality_tier",
+       "label": "Product quality level",
+       "type": "select",
+       "options": [
+        "Budget",
+        "Mid-range",
+        "Premium"
+       ],
+       "ask": "always",
+       "required": true,
+       "note": "Needed because price depends on how premium the product is and there is no model database for this type."
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Blurry or scratched lens",
+        "Microphone not working",
+        "Not detected",
+        "Mount damaged",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "Cable",
+      "Lens cover",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "external_storage",
+     "name": "External storage",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "drive_type",
+       "label": "Drive type",
+       "type": "select",
+       "options": [
+        "External HDD",
+        "External SSD",
+        "USB flash drive",
+        "Memory card"
+       ],
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "capacity",
+       "label": "Capacity",
+       "type": "select",
+       "options_ref": "storage_capacity",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "interface",
+       "label": "Interface",
+       "type": "select",
+       "options": [
+        "USB 2.0",
+        "USB 3.x",
+        "USB-C",
+        "Thunderbolt"
+       ],
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "quality_tier",
+       "label": "Product quality level",
+       "type": "select",
+       "options": [
+        "Budget",
+        "Mid-range",
+        "Premium"
+       ],
+       "ask": "always",
+       "required": true,
+       "note": "Needed because price depends on how premium the product is and there is no model database for this type."
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Bad sectors or SMART warnings",
+        "Slow transfer speeds",
+        "Connector loose",
+        "Not detected",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "Cable",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "hub_dock",
+     "name": "USB hub / docking station",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "device_type",
+       "label": "Device type",
+       "type": "select",
+       "options": [
+        "USB hub",
+        "USB-C multiport hub",
+        "Docking station"
+       ],
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "ports",
+       "label": "Ports available",
+       "type": "multiselect",
+       "options": [
+        "USB-A",
+        "USB-C",
+        "HDMI",
+        "DisplayPort",
+        "Ethernet",
+        "SD card reader",
+        "Audio jack",
+        "Power delivery"
+       ],
+       "ask": "always"
+      },
+      {
+       "id": "quality_tier",
+       "label": "Product quality level",
+       "type": "select",
+       "options": [
+        "Budget",
+        "Mid-range",
+        "Premium"
+       ],
+       "ask": "always",
+       "required": true,
+       "note": "Needed because price depends on how premium the product is and there is no model database for this type."
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "A port is not working",
+        "Overheating",
+        "Display output problem",
+        "Loose connector",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "Power adapter",
+      "Cable",
+      "Purchase bill"
+     ]
+    },
+    {
+     "id": "cooling_pad",
+     "name": "Cooling pad",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      },
+      {
+       "id": "fan_count",
+       "label": "Number of fans",
+       "type": "number",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "max_laptop_size_in",
+       "label": "Maximum laptop size (in)",
+       "type": "number",
+       "ask": "always",
+       "allow_unknown": true
+      },
+      {
+       "id": "quality_tier",
+       "label": "Product quality level",
+       "type": "select",
+       "options": [
+        "Budget",
+        "Mid-range",
+        "Premium"
+       ],
+       "ask": "always",
+       "required": true,
+       "note": "Needed because price depends on how premium the product is and there is no model database for this type."
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [
+      {
+       "id": "issues",
+       "label": "Select any problems",
+       "type": "multiselect",
+       "options": [
+        "Fan not spinning",
+        "Noisy fans",
+        "Broken stand legs",
+        "USB cable damaged",
+        "None"
+       ]
+      }
+     ],
+     "accessories": [
+      "Original box",
+      "USB cable"
+     ]
+    },
+    {
+     "id": "other_accessory",
+     "name": "Other accessory",
+     "flow": [
+      "brand",
+      "specs",
+      "condition",
+      "accessories"
+     ],
+     "model_source": "manual",
+     "spec_fields": [
+      {
+       "id": "item_name",
+       "label": "Item name",
+       "type": "text",
+       "ask": "always",
+       "required": true
+      },
+      {
+       "id": "model_name",
+       "label": "Exact model (optional)",
+       "type": "text",
+       "ask": "always"
+      }
+     ],
+     "condition_blocks": [
+      "age",
+      "physical",
+      "functional",
+      "history"
+     ],
+     "condition_questions": [],
+     "accessories": [
+      "Original packaging",
+      "Purchase bill"
+     ]
+    }
+   ]
+  }
+ ]
+}

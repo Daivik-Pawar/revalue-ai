@@ -1,0 +1,16 @@
+{
+  "_note": "Brand lists for categories that have no model database. 'Other' is always allowed. Laptop brands come from laptops.json; CPU and GPU brands/models come from components_seed.json.",
+  "desktops/branded_pc": ["Dell", "HP", "Lenovo", "Acer", "ASUS", "Other"],
+  "components/ram": ["Corsair", "Kingston", "G.Skill", "Crucial", "Adata", "Other"],
+  "components/ssd": ["Samsung", "WD", "Crucial", "Kingston", "Adata", "Other"],
+  "components/hdd": ["Seagate", "WD", "Toshiba", "Other"],
+  "components/motherboard": ["ASUS", "MSI", "Gigabyte", "ASRock", "Other"],
+  "components/psu": ["Corsair", "Cooler Master", "Antec", "Deepcool", "Cosmic Byte", "Other"],
+  "components/cooler": ["Cooler Master", "Deepcool", "Noctua", "Corsair", "Other"],
+  "components/cabinet": ["Ant Esports", "Cooler Master", "NZXT", "Deepcool", "Other"],
+  "components/expansion_card": ["TP-Link", "ASUS", "Gigabyte", "Other"],
+  "components/other_component": ["Other"],
+  "monitors": ["Dell", "LG", "Samsung", "BenQ", "Acer", "ASUS", "HP", "MSI", "Other"],
+  "keyboards_mice": ["Logitech", "HP", "Dell", "Redragon", "Razer", "Corsair", "Zebronics", "Ant Esports", "Other"],
+  "accessories": ["Logitech", "HP", "Dell", "Anker", "Razer", "Corsair", "Zebronics", "Ant Esports", "Other"]
+}
